@@ -1,0 +1,36 @@
+# site settings
+title: 'Correspondances égyptologiques'
+subtitle: Brouillon
+email: correspondances.egyptologiques@laposte.net
+description: 'Édition numérique des lettres de l’égyptologues Auguste Mariette (1821-1881).'
+baseurl: "/CoEg_test_forty" # the subpath of your site, e.g. /blog
+url: https://thlebee.github.io
+author: Thomas Lebée
+street_address: 
+city: Paris
+state:
+zip_code:
+country: France
+phone:
+
+# homepage tiles
+tiles-source: pages # accepts "posts" or "pages"
+tiles-count: 10
+
+# social settings
+500px_url:
+facebook_url:
+github_url: 
+gitlab_url: 
+googleplus_url:
+instagram_url:
+linkedin_url: 
+pinterest_url:
+slack_url:
+twitter_url: 
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
