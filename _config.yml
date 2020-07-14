@@ -3,7 +3,7 @@ title: 'Correspondances égyptologiques'
 subtitle: Brouillon
 email: correspondances.egyptologiques@laposte.net
 description: 'Édition numérique des lettres de l’égyptologues Auguste Mariette (1821-1881).'
-baseurl: "/CoEg_test_forty" # the subpath of your site, e.g. /blog
+baseurl: "/CoEg" # the subpath of your site, e.g. /blog
 url: https://thlebee.github.io
 author: Thomas Lebée
 street_address: 
