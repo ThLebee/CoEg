@@ -37,27 +37,27 @@ nav-menu: true
 <ul><li>Contemporains de l’écriture des lettres&nbsp;;</li>
 <li>Personnages historiques&nbsp;;</li>
 <li>Figures mythiques et divines (cette catégorie regroupe surtout les personnages appartenant à la mythologie antique, mais aussi les mentions de figures religieuses monothéistes).</li></ul></p>
-<p>Leur liste peut être consultée <a href="https://raw.githubusercontent.com/ThLebee/CoEg_test_forty/gh-pages/doc/CoEg_index_pers.tsv">directement dans le navigateur</a>, <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_index_pers.tsv">sur Github</a>, ou <a href="{{site.baseurl}}/doc/CoEg_index_pers.tsv" download>téléchargée</a>.</p></div>
+<p>Leur liste peut être consultée <a href="https://raw.githubusercontent.com/ThLebee/CoEg/gh-pages/doc/CoEg_index_pers.tsv">directement dans le navigateur</a>, <a href="https://github.com/ThLebee/CoEg/blob/gh-pages/doc/CoEg_index_pers.tsv">sur Github</a>, ou <a href="{{site.baseurl}}/doc/CoEg_index_pers.tsv" download>téléchargée</a>.</p></div>
 
 <div class="4u 12u$(small)"><h2>Lieux</h2>
 
-<p>La liste des lieux cités au format CSV (à consulter <a href="https://raw.githubusercontent.com/ThLebee/CoEg_test_forty/gh-pages/doc/CoEg_index_place.tsv">directement dans le navigateur</a>, <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_index_place.tsv">sur Github</a>, ou à <a href="{{site.baseurl}}/doc/CoEg_index_place.tsv" download>télécharger</a>) rassemble les données qui ont permis de réaliser les index des éditions des lettres aux différents formats et <a href="http://u.osmfr.org/m/461360/">leur carte</a>.</p></div>
+<p>La liste des lieux cités au format CSV (à consulter <a href="https://raw.githubusercontent.com/ThLebee/CoEg/gh-pages/doc/CoEg_index_place.tsv">directement dans le navigateur</a>, <a href="https://github.com/ThLebee/CoEg/blob/gh-pages/doc/CoEg_index_place.tsv">sur Github</a>, ou à <a href="{{site.baseurl}}/doc/CoEg_index_place.tsv" download>télécharger</a>) rassemble les données qui ont permis de réaliser les index des éditions des lettres aux différents formats et <a href="http://u.osmfr.org/m/461360/">leur carte</a>.</p></div>
 
 
 <div class="4u 12u$(small)"><h2>Bateaux</h2>
 
-<p>Il n’est pas certain que cette catégorie soit conservée, du fait de ses maigres applications. En outre, le modèle d'encodage n’est pas non plus tout à fait adapté (un bateau s’apparente-t-il plus à un lieu, une organisation ou une personne&nbsp;? cette dernière possibilité a été adoptée pour l’instant). Toujours est-il qu’un navire est mentionné dans l’échantillon initial et peut donc être indexé : il figure vaillament dans une liste qui peut être consultée <a href="https://raw.githubusercontent.com/ThLebee/CoEg_test_forty/gh-pages/doc/CoEg_index_boat.tsv">dans le navigateur</a>, <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_index_boat.tsv">sur Github</a>, ou <a href="{{site.baseurl}}/doc/CoEg_index_boat.tsv" download>téléchargée</a>.</p></div>
+<p>Il n’est pas certain que cette catégorie soit conservée, du fait de ses maigres applications. En outre, le modèle d'encodage n’est pas non plus tout à fait adapté (un bateau s’apparente-t-il plus à un lieu, une organisation ou une personne&nbsp;? cette dernière possibilité a été adoptée pour l’instant). Toujours est-il qu’un navire est mentionné dans l’échantillon initial et peut donc être indexé : il figure vaillament dans une liste qui peut être consultée <a href="https://raw.githubusercontent.com/ThLebee/CoEg/gh-pages/doc/CoEg_index_boat.tsv">dans le navigateur</a>, <a href="https://github.com/ThLebee/CoEg/blob/gh-pages/doc/CoEg_index_boat.tsv">sur Github</a>, ou <a href="{{site.baseurl}}/doc/CoEg_index_boat.tsv" download>téléchargée</a>.</p></div>
 
 </div>
 <div class="row">
 <div class="6u 12u$(small)"><h2>Institutions</h2>
 
-<p>La liste des institutions mentionnées par Mariette, à consulter <a href="https://raw.githubusercontent.com/ThLebee/CoEg_test_forty/gh-pages/doc/CoEg_index_org.tsv">dans le navigateur</a>, <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_index_org.tsv">sur Github</a>, ou <a href="{{site.baseurl}}/doc/CoEg_index_org.tsv" download>télécharger</a>.</p></div>
+<p>La liste des institutions mentionnées par Mariette, à consulter <a href="https://raw.githubusercontent.com/ThLebee/CoEg/gh-pages/doc/CoEg_index_org.tsv">dans le navigateur</a>, <a href="https://github.com/ThLebee/CoEg/blob/gh-pages/doc/CoEg_index_org.tsv">sur Github</a>, ou <a href="{{site.baseurl}}/doc/CoEg_index_org.tsv" download>télécharger</a>.</p></div>
 
 
 <div class="6u 12u$(small)"><h2>Objets</h2>
 
-<p>Beaucoup des objets mentionnés restent encore à attribuer. Ceux qui ont été identifiés peuvent être consultés <a href="https://raw.githubusercontent.com/ThLebee/CoEg_test_forty/gh-pages/doc/CoEg_index_obj.tsv">dans le navigateur</a>, <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_index_obj.tsv">sur Github</a>, ou <a href="{{site.baseurl}}/doc/CoEg_index_obj.tsv" download>téléchargés</a>.</p></div>
+<p>Beaucoup des objets mentionnés restent encore à attribuer. Ceux qui ont été identifiés peuvent être consultés <a href="https://raw.githubusercontent.com/ThLebee/CoEg/gh-pages/doc/CoEg_index_obj.tsv">dans le navigateur</a>, <a href="https://github.com/ThLebee/CoEg/blob/gh-pages/doc/CoEg_index_obj.tsv">sur Github</a>, ou <a href="{{site.baseurl}}/doc/CoEg_index_obj.tsv" download>téléchargés</a>.</p></div>
 
 </div>
 <div class="row">
@@ -65,12 +65,12 @@ nav-menu: true
 <div class="4u 12u$(small)"><h2>Thèmes abordées</h2>
 
 <p>Cette catégorie est encore à l’état d’ébauche&nbsp;; elle est sûrement très subjective dans la délimitation de ses thèmes pour aboutir à des entrées suffisamment précises sans être trop particulières.</p>
-<p>Les thèmes sélectionnés ont été listés pour pouvoir être consultés <a href="https://raw.githubusercontent.com/ThLebee/CoEg_test_forty/gh-pages/doc/CoEg_index_keyword.tsv">dans le navigateur</a>, <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_index_keyword.tsv">sur Github</a>, ou <a href="{{site.baseurl}}/doc/CoEg_index_keyword.tsv" download>téléchargés</a>.</p></div>
+<p>Les thèmes sélectionnés ont été listés pour pouvoir être consultés <a href="https://raw.githubusercontent.com/ThLebee/CoEg/gh-pages/doc/CoEg_index_keyword.tsv">dans le navigateur</a>, <a href="https://github.com/ThLebee/CoEg/blob/gh-pages/doc/CoEg_index_keyword.tsv">sur Github</a>, ou <a href="{{site.baseurl}}/doc/CoEg_index_keyword.tsv" download>téléchargés</a>.</p></div>
 
 
 <div class="4u 12u$(small)"><h2>Glossaire</h2>
 
-<p>Cette catégorie regroupe des entrées lexicales destinées à indiquer le sens de mots techniques ou étrangers.</p><p>Elles aussi peuvent être consultées <a href="https://raw.githubusercontent.com/ThLebee/CoEg_test_forty/gh-pages/doc/CoEg_index_entry.tsv">dans le navigateur</a>, <a href="https://github.com/ThLebee/CoEg_test_forty/blob/gh-pages/doc/CoEg_index_entry.tsv">sur Github</a>, ou <a href="{{site.baseurl}}/doc/CoEg_index_entry.tsv" download>téléchargées</a>.</p></div>
+<p>Cette catégorie regroupe des entrées lexicales destinées à indiquer le sens de mots techniques ou étrangers.</p><p>Elles aussi peuvent être consultées <a href="https://raw.githubusercontent.com/ThLebee/CoEg/gh-pages/doc/CoEg_index_entry.tsv">dans le navigateur</a>, <a href="https://github.com/ThLebee/CoEg/blob/gh-pages/doc/CoEg_index_entry.tsv">sur Github</a>, ou <a href="{{site.baseurl}}/doc/CoEg_index_entry.tsv" download>téléchargées</a>.</p></div>
 
 
 <div class="4u 12u$(small)"><h2>Termes égyptiens</h2>
