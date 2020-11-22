@@ -62,10 +62,10 @@
                     <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12969884g">Nieuwerkerke (de), Émilien</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1851-10-14b">
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1851-09-14b">
                 <correspAction type="sent">
                     <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
-                    <date when="1851-10-14"/>
+                    <date when="1851-09-14"/>
                     <placeName ref="http://www.geonames.org/349608">Saqqarah</placeName>
                 </correspAction>
                 <correspAction type="received">
@@ -73,10 +73,10 @@
                     <persName ref="https://catalogue.bnf.fr/ark:/12148/cb10740894k">Crouseilhes (Dombidau de), Marie-Jean-Pierre-Pie-Frédéric</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1851-10-14a">
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1851-09-14a">
                 <correspAction type="sent">
                     <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
-                    <date when="1851-10-14"/>
+                    <date when="1851-09-14"/>
                     <placeName ref="http://www.geonames.org/349608">Saqqarah</placeName>
                 </correspAction>
                 <correspAction type="received">
