@@ -1,4 +1,4 @@
-id	placeName	lat	lon	def	note type="Mariette"	GeoName_URL	Pleiades_URL	TopBib_URL	TMGeo_URL	Wikidata_URL
+id	placeName	lat	lon	def	note type=Mariette	GeoName_URL	Pleiades_URL	TopBib_URL	TMGeo_URL	Wikidata_URL
 CoEg_place_00000001	Saqqarah	29.85	31.233333333333	(سقّارة [Saqqārah])		http://www.geonames.org/349608	https://pleiades.stoa.org/places/796289136	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=309		https://www.wikidata.org/wiki/Q192134
 CoEg_place_00000002	Paris	48.856944444444	2.3513888888889			http://www.geonames.org/2988507			https://www.trismegistos.org/place/3278	https://www.wikidata.org/wiki/Q90
 CoEg_place_00000003	Égypte	27	29			http://www.geonames.org/357994			https://www.trismegistos.org/place/49	https://www.wikidata.org/wiki/Q79
