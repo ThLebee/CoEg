@@ -43,11 +43,11 @@ CoEg_place_00000042	Esna	25.29336 	32.55402 	(إسنا [Isnā])		https://www.geo
 CoEg_place_00000043	Armant	25.61988 	32.54305 	(أرمنت [Armant])		https://www.geonames.org/360170	https://pleiades.stoa.org/places/786036	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=504-010	https://www.trismegistos.org/place/812	https://www.wikidata.org/wiki/Q679056
 CoEg_place_00000044	Eléphantine	24.08995 	32.88938 			https://www.geonames.org/359790	https://pleiades.stoa.org/places/786021	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=507-020	https://www.trismegistos.org/place/621	https://www.wikidata.org/wiki/Q284009
 CoEg_place_00000045	Ouadi Natroun	30.43785 	30.19499 	(وادي النطرون [Wādī an-Naṭrūn])		https://www.geonames.org/351277		http://topbib.griffith.ox.ac.uk//dtb.html?topbib=702-040	https://www.trismegistos.org/place/3375	https://www.wikidata.org/wiki/Q1074945
-CoEg_place_00000046	Saxe									https://www.wikidata.org/wiki/Q153015
+CoEg_place_00000046	Saxe	0	0							https://www.wikidata.org/wiki/Q153015
 CoEg_place_00000047	Bedford	52.13459 	-0.46632 			https://www.geonames.org/2656046				https://www.wikidata.org/wiki/Q208257
-CoEg_place_00000048	Prusse									https://www.wikidata.org/wiki/Q38872
+CoEg_place_00000048	Prusse	0	0							https://www.wikidata.org/wiki/Q38872
 CoEg_place_00000049	Thébaïde	25.720555555556	32.610277777778						https://www.trismegistos.org/place/2982	https://www.wikidata.org/wiki/Q768515
-CoEg_place_00000050	Hout-ched-abed			Localité memphite (cf. Gauthier Heni, Dictionnaire des noms géographiques contenus dans les textes hiéroglyphiques, t. 4, Le Caire, Institut français d'archéologie orientale – Société royale de géographie d'Égypte, 1927, p. 135 [https://archive.org/details/Gauthier1927/page/n69/mode/2up]						
+CoEg_place_00000050	Hout-ched-abed	0	0	Localité memphite (cf. Gauthier Heni, Dictionnaire des noms géographiques contenus dans les textes hiéroglyphiques, t. 4, Le Caire, Institut français d'archéologie orientale – Société royale de géographie d'Égypte, 1927, p. 135 [https://archive.org/details/Gauthier1927/page/n69/mode/2up]						
 CoEg_place_00000051	Berlin	52.5233 	13.41377 			https://www.geonames.org/6547383			https://www.trismegistos.org/place/20102	https://www.wikidata.org/wiki/Q64
 CoEg_place_00000052	Angleterre	52.16045 	-0.70312 			https://www.geonames.org/6269131			https://www.trismegistos.org/place/19851	https://www.wikidata.org/wiki/Q21
 CoEg_place_00000053	Sinope	42.02683 	35.16253 			https://www.geonames.org/739600	https://pleiades.stoa.org/places/857321		https://www.trismegistos.org/place/2141	https://www.wikidata.org/wiki/Q599416
@@ -57,24 +57,24 @@ CoEg_place_00000056	Syrie	35	38			https://www.geonames.org/163843			https://www.
 CoEg_place_00000057	Grèce	39	22			https://www.geonames.org/390903			https://www.trismegistos.org/place/762	https://www.wikidata.org/wiki/Q41
 CoEg_place_00000058	Sicile	37.62304 	13.93457 			https://www.geonames.org/2523118	https://pleiades.stoa.org/places/462492		https://www.trismegistos.org/place/2132	https://www.wikidata.org/wiki/Q1460
 CoEg_place_00000059	Italie	42.83333 	12.83333 			https://www.geonames.org/3175395	https://pleiades.stoa.org/places/1052		https://www.trismegistos.org/place/932	https://www.wikidata.org/wiki/Q38
-CoEg_place_00000060	Gaules								https://www.trismegistos.org/place/693	https://www.wikidata.org/wiki/Q38060
+CoEg_place_00000060	Gaules	0	0						https://www.trismegistos.org/place/693	https://www.wikidata.org/wiki/Q38060
 CoEg_place_00000061	Piémont	45	8			https://www.geonames.org/3170831				https://www.wikidata.org/wiki/Q1216
-CoEg_place_00000062	Nilopolis								https://www.trismegistos.org/place/2427	https://www.wikidata.org/wiki/Q3704933
+CoEg_place_00000062	Nilopolis	0	0						https://www.trismegistos.org/place/2427	https://www.wikidata.org/wiki/Q3704933
 CoEg_place_00000063	Ombos	25.90107 	32.72392 			https://www.geonames.org/351356	https://pleiades.stoa.org/places/786079	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=506-131	https://www.trismegistos.org/place/1499	https://www.wikidata.org/wiki/Q17486769
 CoEg_place_00000064	Mons Claudianus	26.8092 	33.48693 			https://www.geonames.org/352089	https://pleiades.stoa.org/places/766348			https://www.wikidata.org/wiki/Q1146716
 CoEg_place_00000065	Rome	41.89193 	12.51133 			https://www.geonames.org/3169070	https://pleiades.stoa.org/places/423025	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=704-020-140-070	https://www.trismegistos.org/place/2058	https://www.wikidata.org/wiki/Q220
 CoEg_place_00000066	Athènes	37.98376 	23.72784 			https://www.geonames.org/264371	https://pleiades.stoa.org/places/579885	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=704-020-080-040	https://www.trismegistos.org/place/364	https://www.wikidata.org/wiki/Q1524
 CoEg_place_00000067	Chypre	35	33			https://www.geonames.org/146669	https://pleiades.stoa.org/places/707498	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=704-020-090-010	https://www.trismegistos.org/place/528	https://www.wikidata.org/wiki/Q229
-CoEg_place_00000068										https://www.wikidata.org/wiki/Q817286
-CoEg_place_00000069	Cysis									
+CoEg_place_00000068		0	0							https://www.wikidata.org/wiki/Q817286
+CoEg_place_00000069	Cysis	0	0							
 CoEg_place_00000070	Allemagne	51.5 	10.5 			https://www.geonames.org/2921044		http://topbib.griffith.ox.ac.uk//dtb.html?topbib=704-020-130	https://www.trismegistos.org/place/3245	https://www.wikidata.org/wiki/Q183
 CoEg_place_00000071	Annecy	45.90878 	6.12565 			https://www.geonames.org/3037543			https://www.trismegistos.org/place/20689	https://www.wikidata.org/wiki/Q50189
 CoEg_place_00000072	Basse-Égypte	31	31			https://www.geonames.org/352260			https://www.trismegistos.org/place/2712	https://www.wikidata.org/wiki/Q463871
 CoEg_place_00000073	El-Kab/Eléthya	25.11952 	32.79812 	(الكاب [Al-Kāb])		https://www.geonames.org/360986	https://pleiades.stoa.org/places/440947682	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=505-010	https://www.trismegistos.org/place/611	https://www.wikidata.org/wiki/Q287705
-CoEg_place_00000074	Orient									https://www.wikidata.org/wiki/Q205653
+CoEg_place_00000074	Orient	0	0							https://www.wikidata.org/wiki/Q205653
 CoEg_place_00000075	Vatican	41.90225 	12.4533 			https://www.geonames.org/3164670			https://www.trismegistos.org/place/30981	https://www.wikidata.org/wiki/Q237
-CoEg_place_00000076	Cornouailles								https://www.trismegistos.org/place/45017	https://www.wikidata.org/wiki/Q23148
-CoEg_place_00000077	Pont						https://pleiades.stoa.org/places/857287		https://www.trismegistos.org/place/1894	https://www.wikidata.org/wiki/Q7380487
+CoEg_place_00000076	Cornouailles	0	0						https://www.trismegistos.org/place/45017	https://www.wikidata.org/wiki/Q23148
+CoEg_place_00000077	Pont	0	0				https://pleiades.stoa.org/places/857287		https://www.trismegistos.org/place/1894	https://www.wikidata.org/wiki/Q7380487
 CoEg_place_00000078	Antioche	36.20655 	36.15722 				https://pleiades.stoa.org/places/658381		https://www.trismegistos.org/place/205	https://www.wikidata.org/wiki/Q200441
-CoEg_place_00000079	Rosette	31.2400	30.2500	[رشيد (Rašīd)]		https://www.geonames.org/350203			www.trismegistos.org/place/2059 	https://www.wikidata.org/wiki/Q243699
-CoEg_place_imn	À identifier									
+CoEg_place_00000079	Rosette	31.2400	30.2500	(رشيد [Rašīd])		https://www.geonames.org/350203			www.trismegistos.org/place/2059 	https://www.wikidata.org/wiki/Q243699
+CoEg_place_imn	À identifier	0	0							
