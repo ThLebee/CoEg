@@ -1,0 +1,473 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>CoEg_Mariette_CMIF</title>
+                <editor>Thomas Lebée<email>correspondances.egyptologiques@laposte.net</email>
+                </editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://thlebee.github.io/CoEg/">Thomas Lebée</ref>
+                </publisher>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
+                </availability>
+                <date when="2020-11-16T21:48:25.416-01:00"/>
+                <idno type="url">https://thlebee.github.io/CoEg/doc/CoEg_Mariette_CMIF.xml</idno>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="online" xml:id="afcd03a5-c676-476e-9cd5-2e2caef8addc">Mariette, Auguste (Lebée, Thomas, éd.), Correspondances égyptiennes. Lettres d'Auguste Mariette, 2020.<ref target="https://thlebee.github.io/CoEg/webpages/CoEg_Mariette.html">https://thlebee.github.io/CoEg/webpages/CoEg_Mariette.html</ref>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1849_10_20">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1849-10-20"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12568704s">Longpérier (de), Adrien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1850-07-08">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1850-07-08"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12969884g">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1851-02-28">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1851-02-28"/>
+                    <placeName ref="http://www.geonames.org/349608">Saqqarah</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12969884g">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1851-08-31">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1851-08-31"/>
+                    <placeName ref="http://www.geonames.org/349608">Saqqarah</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12969884g">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1851-10-14b">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1851-10-14"/>
+                    <placeName ref="http://www.geonames.org/349608">Saqqarah</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb125109558">Faucher, Léon</persName>
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb10740894k">Crouseilhes (Dombidau de), Marie-Jean-Pierre-Pie-Frédéric</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1851-10-14a">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1851-10-14"/>
+                    <placeName ref="http://www.geonames.org/349608">Saqqarah</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Le Moyne, Arnaud</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1852-01-16">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1852-01-16"/>
+                    <placeName ref="http://www.geonames.org/362069">Abousir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName cert="low" ref="https://catalogue.bnf.fr/ark:/12148/cb12969884g" evidence="conjecture">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1852-08-04">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1852-08-04"/>
+                    <placeName ref="http://www.geonames.org/362069">Abousir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12969884g" evidence="conjecture">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1852-08-20">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1852-08-20"/>
+                    <placeName ref="http://www.geonames.org/362069">Abousir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb10722665h">Persigny (Fialin de), Victor</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1852-09-03">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1852-09-03"/>
+                    <placeName ref="http://www.geonames.org/362069">Abousir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb10722665h">Persigny (Fialin de), Victor</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1852-09-04">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1852-09-04"/>
+                    <placeName ref="http://www.geonames.org/362069">Abousir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12969884g" evidence="conjecture">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1852-11-12">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1852-11-12"/>
+                    <placeName ref="http://www.geonames.org/362069">Abousir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12969884g" evidence="conjecture">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1852-12-28">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1852-12-28"/>
+                    <placeName ref="http://www.geonames.org/362069">Abousir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb10722665h">Persigny (Fialin de), Victor</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1853-01-01">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1853-01-01"/>
+                    <placeName ref="http://www.geonames.org/362069">Abousir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12969884g" evidence="conjecture">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1853-05-06">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1853-05-06"/>
+                    <placeName ref="http://www.geonames.org/362069">Abousir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12969884g">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1853-07-30">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1853-07-30"/>
+                    <placeName ref="http://www.geonames.org/360630">Le Caire</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12969884g">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1853-08-10">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1853-08-10"/>
+                    <placeName ref="http://www.geonames.org/362069">Abousir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12969884g" evidence="conjecture">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1853-08-28">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1853-08-28"/>
+                    <placeName ref="http://www.geonames.org/362069">Abousir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12969884g" evidence="conjecture">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1857-02-20">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1857-02-20"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12969884g">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1857-10-26">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1857-10-26"/>
+                    <placeName ref="http://www.geonames.org/361058">Alexandrie</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12969884g">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1857-11-29">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1857-11-29"/>
+                    <placeName ref="http://www.geonames.org/359783">Assiout</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12969884g">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1858-01-23">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1858-01-23"/>
+                    <placeName ref="http://www.geonames.org/360630">Le Caire</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12969884g">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1860-12-20">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1860-12-20"/>
+                    <placeName ref="http://www.geonames.org/358683">Boulaq</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12969884g">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1867-04-13">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1867-04-13"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12969884g">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1846-04-13">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1846-04-13"/>
+                    <placeName ref="http://www.geonames.org/3031133">Boulogne-sur-Mer</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb130079493">Salvandy (de), Narcisse-Achille</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1846-05-24">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1846-05-24"/>
+                    <placeName ref="http://www.geonames.org/3031133">Boulogne-sur-Mer</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb102117199">Camaret, Louis</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1846-05-25">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1846-05-25"/>
+                    <placeName ref="http://www.geonames.org/3031133">Boulogne-sur-Mer</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb130079493">Salvandy (de), Narcisse-Achille</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1846-09-29">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1846-09-29"/>
+                    <placeName ref="http://www.geonames.org/3031133">Boulogne-sur-Mer</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb130079493">Salvandy (de), Narcisse-Achille</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1850-05-20">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1850-05-20"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13475874p">Esquirou de Parieu, Félix</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1850-07-06">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1850-07-06"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13475874p">Esquirou de Parieu, Félix</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1850-08-27">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1850-08-27"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13475874p">Esquirou de Parieu, Félix</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1855-01-26">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1855-01-26"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb125108748">Fortoul, Hippolyte</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1855-07-12">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1855-07-12"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low" ref="https://catalogue.bnf.fr/ark:/12148/cb11989279h">ministère de l'Instruction publique</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1855-08-06">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1855-08-06"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb125108748">Fortoul, Hippolyte</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1855-12-12">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1855-12-12"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low" ref="https://catalogue.bnf.fr/ark:/12148/cb11989279h">ministère de l'Instruction publique</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1856-02-11">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1856-02-11"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb155876341">Rouland, Gustave</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1856-12-11">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1856-12-11"/>
+                    <placeName>Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb155876341">Rouland, Gustave</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1856-12-31">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1856-12-31"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb155876341">Rouland, Gustave</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1857-01-03">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1857-01-03"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low" ref="https://catalogue.bnf.fr/ark:/12148/cb11989279h">ministère de l'Instruction publique</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1857-04-01">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1857-04-01"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb155876341">Rouland, Gustave</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1857-08-26">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1857-08-26"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Servaux, Eugène</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1857-10-04">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1857-10-04"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb155876341">Rouland, Gustave</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1857-10-05">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1857-10-05"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <orgName cert="low" ref="https://catalogue.bnf.fr/ark:/12148/cb11989279h">ministère de l'Instruction publique</orgName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1879-11-06">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1879-11-06"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12513455m">Ferry, Jules</persName>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p/>
+        </body>
+    </text>
+</TEI>
