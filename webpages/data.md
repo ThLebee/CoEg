@@ -46,7 +46,7 @@ nav-menu: true
 
 <div class="4u 12u$(small)"><h2>Bateaux</h2>
 
-<p>Il n’est pas certain que cette catégorie soit conservée, du fait de ses maigres applications. En outre, le modèle d'encodage n’est pas non plus tout à fait adapté (un bateau s’apparente-t-il plus à un lieu, une organisation ou une personne&nbsp;? cette dernière possibilité a été adoptée pour l’instant). Toujours est-il qu’un navire est mentionné dans l’échantillon initial et peut donc être indexé : il figure vaillament dans une liste qui peut être consultée <a href="https://raw.githubusercontent.com/ThLebee/CoEg/gh-pages/doc/CoEg_index_boat.tsv">dans le navigateur</a>, <a href="https://github.com/ThLebee/CoEg/blob/gh-pages/doc/CoEg_Index_boat.tsv">sur Github</a>, ou <a href="{{site.baseurl}}/doc/CoEg_Index_boat.tsv" download>téléchargée</a>.</p></div>
+<p>Il n’est pas certain que cette catégorie soit conservée, du fait de ses maigres applications. En outre, le modèle d'encodage n’est pas non plus tout à fait adapté (un bateau s’apparente-t-il plus à un lieu, une organisation ou une personne&nbsp;? cette dernière possibilité a été adoptée pour l’instant). Toujours est-il qu’un navire est mentionné dans l’échantillon initial et peut donc être indexé : il figure vaillament dans une liste qui peut être consultée <a href="https://raw.githubusercontent.com/ThLebee/CoEg/gh-pages/doc/CoEg_Index_boat.tsv">dans le navigateur</a>, <a href="https://github.com/ThLebee/CoEg/blob/gh-pages/doc/CoEg_Index_boat.tsv">sur Github</a>, ou <a href="{{site.baseurl}}/doc/CoEg_Index_boat.tsv" download>téléchargée</a>.</p></div>
 
 </div>
 <div class="row">
