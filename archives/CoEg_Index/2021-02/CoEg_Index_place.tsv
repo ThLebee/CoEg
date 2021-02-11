@@ -91,9 +91,9 @@ CoEg_place_00000090	Esbékieh	30.056111111111	31.246944444444	(أزبكية [Azb
 CoEg_place_00000091	Rennes	48.1158942	-1.7584942			https://www.geonames.org/2983990	https://pleiades.stoa.org/places/69491		https://www.trismegistos.org/place/24139	
 CoEg_place_00000092	Constantinople	41.0049806	28.7312898			https://www.geonames.org/745044	https://pleiades.stoa.org/places/520998	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=704-020-060-130	https://www.trismegistos.org/place/478	
 CoEg_place_00000093	Dendérah	26.1661	32.6464167	(دندرة [Dandarah])		https://www.geonames.org/358422	https://pleiades.stoa.org/places/786127		https://www.trismegistos.org/place/2312	
-CoEg_place_00000094	Abyssinie									
+CoEg_place_00000094	Abyssinie	0	0							
 CoEg_place_00000095	Assouan	24.09082 	32.89942 	(أسوان [Aswān])		https://www.geonames.org/359792		http://topbib.griffith.ox.ac.uk//dtb.html?topbib=507	https://www.trismegistos.org/place/2207	
-CoEg_place_00000096	Auteuil									
+CoEg_place_00000096	Auteuil	0	0							
 CoEg_place_00000097	Versailles	48.80359 	2.13424 			https://www.geonames.org/2969679				
 CoEg_place_00000098	Champ-de-Mars	48.85613 	2.29803 			https://www.geonames.org/6269529				
 CoEg_place_00000099	Place Vendôme	48.86746 	2.32946 			https://www.geonames.org/6452724				
@@ -108,11 +108,11 @@ CoEg_place_00000107	Leipzig	51.35 	12.3833 			https://www.geonames.org/2879137
 CoEg_place_00000108	Autriche	47.33333 	13.33333 			https://www.geonames.org/2782113		http://topbib.griffith.ox.ac.uk//dtb.html?topbib=704-020-120	https://www.trismegistos.org/place/3292	
 CoEg_place_00000109	Chalon-sur-Saône	46.7937 	4.8482 			https://www.geonames.org/6450891	https://pleiades.stoa.org/places/177485		https://www.trismegistos.org/place/22924	
 CoEg_place_00000110	lac Moeris	29.45979 	30.59148 			https://www.geonames.org/350714	https://pleiades.stoa.org/places/736967		https://www.trismegistos.org/place/1384	
-CoEg_place_00000111	portus icius						https://pleiades.stoa.org/places/114791		https://www.trismegistos.org/place/44990	
-CoEg_place_00000112	Bononia						https://pleiades.stoa.org/places/109008		https://www.trismegistos.org/place/18965	
-CoEg_place_00000113	Gesoriacum						https://pleiades.stoa.org/places/109008		https://www.trismegistos.org/place/18965	
+CoEg_place_00000111	portus icius	0	0				https://pleiades.stoa.org/places/114791		https://www.trismegistos.org/place/44990	
+CoEg_place_00000112	Bononia	0	0				https://pleiades.stoa.org/places/109008		https://www.trismegistos.org/place/18965	
+CoEg_place_00000113	Gesoriacum	0	0				https://pleiades.stoa.org/places/109008		https://www.trismegistos.org/place/18965	
 CoEg_place_00000114	Liane (cours d'eau)	50.72899 	1.59446 			https://www.geonames.org/2998529				
-CoEg_place_00000115	rue Vivienne									
+CoEg_place_00000115	rue Vivienne	0	0							
 CoEg_place_00000116	Corfou	39.59828 	19.85231 			https://www.geonames.org/2463678	https://pleiades.stoa.org/places/530835		https://www.trismegistos.org/place/1083	
 CoEg_place_00000117	Karnak	25.71771 	32.65393 	(الكرنك [Al-Karnak])		https://www.geonames.org/360964	https://pleiades.stoa.org/places/786050	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=201	https://www.trismegistos.org/place/13524	
 CoEg_place_00000118	Médinet-Habou	25.71937 	32.60123 	(مدينة هابو [Madīnat Hābū])		https://www.geonames.org/9073432	https://pleiades.stoa.org/places/321318358	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=213	https://www.trismegistos.org/place/1341	
