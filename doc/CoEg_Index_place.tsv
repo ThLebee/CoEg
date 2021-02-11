@@ -65,7 +65,7 @@ CoEg_place_00000064	Mons Claudianus	26.8092 	33.48693 			https://www.geonames.or
 CoEg_place_00000065	Rome	41.89193 	12.51133 			https://www.geonames.org/3169070	https://pleiades.stoa.org/places/423025	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=704-020-140-070	https://www.trismegistos.org/place/2058	https://www.wikidata.org/wiki/Q220
 CoEg_place_00000066	Athènes	37.98376 	23.72784 			https://www.geonames.org/264371	https://pleiades.stoa.org/places/579885	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=704-020-080-040	https://www.trismegistos.org/place/364	https://www.wikidata.org/wiki/Q1524
 CoEg_place_00000067	Chypre	35	33			https://www.geonames.org/146669	https://pleiades.stoa.org/places/707498	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=704-020-090-010	https://www.trismegistos.org/place/528	https://www.wikidata.org/wiki/Q229
-CoEg_place_00000068		0	0							https://www.wikidata.org/wiki/Q817286
+CoEg_place_00000068	Tanis	30.97478 	31.87231 			https://www.geonames.org/349653	https://pleiades.stoa.org/places/727236 	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=401-260	https://www.trismegistos.org/place/2252	https://www.wikidata.org/wiki/Q817286
 CoEg_place_00000069	Cysis	0	0							
 CoEg_place_00000070	Allemagne	51.5 	10.5 			https://www.geonames.org/2921044		http://topbib.griffith.ox.ac.uk//dtb.html?topbib=704-020-130	https://www.trismegistos.org/place/3245	https://www.wikidata.org/wiki/Q183
 CoEg_place_00000071	Annecy	45.90878 	6.12565 			https://www.geonames.org/3037543			https://www.trismegistos.org/place/20689	https://www.wikidata.org/wiki/Q50189
@@ -77,4 +77,46 @@ CoEg_place_00000076	Cornouailles	0	0						https://www.trismegistos.org/place/450
 CoEg_place_00000077	Pont	0	0				https://pleiades.stoa.org/places/857287		https://www.trismegistos.org/place/1894	https://www.wikidata.org/wiki/Q7380487
 CoEg_place_00000078	Antioche	36.20655 	36.15722 				https://pleiades.stoa.org/places/658381		https://www.trismegistos.org/place/205	https://www.wikidata.org/wiki/Q200441
 CoEg_place_00000079	Rosette	31.2400	30.2500	(رشيد [Rašīd])		https://www.geonames.org/350203			www.trismegistos.org/place/2059 	https://www.wikidata.org/wiki/Q243699
+CoEg_place_00000080	Sân	30.97478 	31.87231 	(صان الحجر [Ṣān al-Ḥaǧar])	Mariette utilise ordinairement simplement la forme « Sân »	https://www.geonames.org/349653	https://pleiades.stoa.org/places/727236 	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=401-260	https://www.trismegistos.org/place/2252	
+CoEg_place_00000081	Pays de Galles	52.3841116	-6.4023773			https://www.geonames.org/2634895			https://www.trismegistos.org/place/3322	
+CoEg_place_00000082	Trieste	45.6941091	13.4665189			https://www.geonames.org/3165186	https://pleiades.stoa.org/places/187578 		https://www.trismegistos.org/place/12317	
+CoEg_place_00000083	Milan	45.4007238	8.5669796			https://www.geonames.org/6542283	https://pleiades.stoa.org/places/383706		https://www.trismegistos.org/place/3308	
+CoEg_place_00000084	Venise	45.4536547	11.9702428			https://www.geonames.org/6542284	https://pleiades.stoa.org/places/818739154		https://www.trismegistos.org/place/12283	
+CoEg_place_00000085	Munich	48.1548252	11.4014054			https://www.geonames.org/2867714			https://www.trismegistos.org/place/20089	
+CoEg_place_00000086	Vienne	48.2205994	16.2396296			https://www.geonames.org/2761369	https://pleiades.stoa.org/places/128537	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=704-020-120-010	https://www.trismegistos.org/place/28821	
+CoEg_place_00000087	Prague	50.0593308	14.1847426			https://www.geonames.org/3067696	https://pleiades.stoa.org/places/118913		https://www.trismegistos.org/place/46886	
+CoEg_place_00000088	Malte	35.9421228	14.0974563			https://www.geonames.org/2562772	https://pleiades.stoa.org/places/462311	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=704-020-090-040	https://www.trismegistos.org/place/1339	
+CoEg_place_00000089	Tuileries, palais des	48.862264	2.3298964							
+CoEg_place_00000090	Esbékieh	30.056111111111	31.246944444444	(أزبكية [Azbakīyah])						
+CoEg_place_00000091	Rennes	48.1158942	-1.7584942			https://www.geonames.org/2983990	https://pleiades.stoa.org/places/69491		https://www.trismegistos.org/place/24139	
+CoEg_place_00000092	Constantinople	41.0049806	28.7312898			https://www.geonames.org/745044	https://pleiades.stoa.org/places/520998	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=704-020-060-130	https://www.trismegistos.org/place/478	
+CoEg_place_00000093	Dendérah	26.1661	32.6464167	(دندرة [Dandarah])		https://www.geonames.org/358422	https://pleiades.stoa.org/places/786127		https://www.trismegistos.org/place/2312	
+CoEg_place_00000094	Abyssinie									
+CoEg_place_00000095	Assouan	24.09082 	32.89942 	(أسوان [Aswān])		https://www.geonames.org/359792		http://topbib.griffith.ox.ac.uk//dtb.html?topbib=507	https://www.trismegistos.org/place/2207	
+CoEg_place_00000096	Auteuil									
+CoEg_place_00000097	Versailles	48.80359 	2.13424 			https://www.geonames.org/2969679				
+CoEg_place_00000098	Champ-de-Mars	48.85613 	2.29803 			https://www.geonames.org/6269529				
+CoEg_place_00000099	Place Vendôme	48.86746 	2.32946 			https://www.geonames.org/6452724				
+CoEg_place_00000100	Vichy	46.12709 	3.42577 			https://www.geonames.org/2969392	https://pleiades.stoa.org/places/138186		https://www.trismegistos.org/place/22750	
+CoEg_place_00000101	pont d'Iéna	48.85976 	2.29204 			https://www.geonames.org/8426612				
+CoEg_place_00000102	Gebel Barkal	18.53333 	31.83333 	(جبل البركل [Ǧabal al-Barkal])		https://www.geonames.org/377655	https://pleiades.stoa.org/places/508356079	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=701-070-130	https://www.trismegistos.org/place/3453	
+CoEg_place_00000103	Messine	38.19327 	15.54969 			https://www.geonames.org/6541859	https://pleiades.stoa.org/places/462538		https://www.trismegistos.org/place/3578	
+CoEg_place_00000104	Edfou	24.97916 	32.87722 	(إدفو [Idfū])		https://www.geonames.org/355635	https://pleiades.stoa.org/places/785974	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=506-010	https://www.trismegistos.org/place/269	
+CoEg_place_00000105	Russie	60	100			https://www.geonames.org/2017370		http://topbib.griffith.ox.ac.uk//dtb.html?topbib=704-020-070	https://www.trismegistos.org/place/52211	
+CoEg_place_00000106	Plombières-les-Bains	47.96337 	6.45758 			https://www.geonames.org/2986715			https://www.trismegistos.org/place/24769	
+CoEg_place_00000107	Leipzig	51.35 	12.3833 			https://www.geonames.org/2879137				
+CoEg_place_00000108	Autriche	47.33333 	13.33333 			https://www.geonames.org/2782113		http://topbib.griffith.ox.ac.uk//dtb.html?topbib=704-020-120	https://www.trismegistos.org/place/3292	
+CoEg_place_00000109	Chalon-sur-Saône	46.7937 	4.8482 			https://www.geonames.org/6450891	https://pleiades.stoa.org/places/177485		https://www.trismegistos.org/place/22924	
+CoEg_place_00000110	lac Moeris	29.45979 	30.59148 			https://www.geonames.org/350714	https://pleiades.stoa.org/places/736967		https://www.trismegistos.org/place/1384	
+CoEg_place_00000111	portus icius						https://pleiades.stoa.org/places/114791		https://www.trismegistos.org/place/44990	
+CoEg_place_00000112	Bononia						https://pleiades.stoa.org/places/109008		https://www.trismegistos.org/place/18965	
+CoEg_place_00000113	Gesoriacum						https://pleiades.stoa.org/places/109008		https://www.trismegistos.org/place/18965	
+CoEg_place_00000114	Liane (cours d'eau)	50.72899 	1.59446 			https://www.geonames.org/2998529				
+CoEg_place_00000115	rue Vivienne									
+CoEg_place_00000116	Corfou	39.59828 	19.85231 			https://www.geonames.org/2463678	https://pleiades.stoa.org/places/530835		https://www.trismegistos.org/place/1083	
+CoEg_place_00000117	Karnak	25.71771 	32.65393 	(الكرنك [Al-Karnak])		https://www.geonames.org/360964	https://pleiades.stoa.org/places/786050	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=201	https://www.trismegistos.org/place/13524	
+CoEg_place_00000118	Médinet-Habou	25.71937 	32.60123 	(مدينة هابو [Madīnat Hābū])		https://www.geonames.org/9073432	https://pleiades.stoa.org/places/321318358	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=213	https://www.trismegistos.org/place/1341	
+CoEg_place_00000119	Deir el-Bahari	25.7374 	32.60755 	(الدير البحري [Ad-Daīr al-baḥrī])		https://www.geonames.org/361834	https://pleiades.stoa.org/places/785970	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=120-050	https://www.trismegistos.org/place/1341	
+CoEg_place_00000120	Fayoum	29.45361 	30.58083 	(الفيوم [Al-Faīyūm])		https://www.geonames.org/8556336		http://topbib.griffith.ox.ac.uk//dtb.html?topbib=406	https://www.trismegistos.org/place/332	
+CoEg_place_00000121	Pyramides (Gizah)	29.98333 	31.13333 			https://www.geonames.org/355017	https://pleiades.stoa.org/places/979282842	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=302	https://www.trismegistos.org/place/716	
 CoEg_place_imn	À identifier	0	0							
