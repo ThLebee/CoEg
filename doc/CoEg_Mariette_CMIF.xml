@@ -13,11 +13,11 @@
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
                 </availability>
-                <date when="2021-02-14T17:30:14.653-01:00"/>
+                <date when="2021-06-07T16:10:58.761-02:00"/>
                 <idno type="url">https://thlebee.github.io/CoEg/doc/CoEg_Mariette_CMIF.xml</idno>
             </publicationStmt>
             <sourceDesc>
-                <bibl type="online" xml:id="afcd03a5-c676-476e-9cd5-2e2caef8addc">Mariette, Auguste (Lebée, Thomas, éd.), Correspondances égyptiennes. Lettres d'Auguste Mariette, 2020.<ref target="https://thlebee.github.io/CoEg/webpages/CoEg_Mariette.html">https://thlebee.github.io/CoEg/webpages/CoEg_Mariette.html</ref>
+                <bibl type="online" xml:id="afcd03a5-c676-476e-9cd5-2e2caef8addc">Mariette, Auguste (Lebée, Thomas, éd.), Correspondances égyptiennes. Lettres d'Auguste Mariette, 2020-2021.<ref target="https://thlebee.github.io/CoEg/webpages/CoEg_Mariette.html">https://thlebee.github.io/CoEg/webpages/CoEg_Mariette.html</ref>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -565,10 +565,10 @@
                     <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_18xx-10-29_ms003f53-55">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1868-10-29">
                 <correspAction type="sent">
                     <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
-                    <date>un 29 octobre</date>
+                    <date>29 octobre 1868</date>
                     <placeName ref="http://www.geonames.org/358683">Boulaq</placeName>
                 </correspAction>
                 <correspAction type="received">
@@ -692,10 +692,10 @@
                     <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_xxxx-03-18_ms003f78-80">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1870-03-18">
                 <correspAction type="sent">
                     <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
-                    <date>un 18 mars</date>
+                    <date when="1870-03-18"/>
                     <placeName ref="http://www.geonames.org/358683">Boulaq</placeName>
                 </correspAction>
                 <correspAction type="received">
@@ -744,6 +744,729 @@
                     <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
                     <date when="1873-02-23"/>
                     <placeName ref="http://www.geonames.org/358683">Boulaq</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_18xx-xx-xx_ms003f189" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_18xx-xx-xx_ms003f189">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date notAfter="1849-06" notBefore="1848-02"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12156661z">Jeanron, Philippe-Auguste</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1873-11-16" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1873-11-16">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1873-11-16"/>
+                    <placeName ref="http://www.geonames.org/360630">Le Caire</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1873-12-21" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1873-12-21">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1873-12-21"/>
+                    <placeName ref="http://www.geonames.org/358683">Boulaq</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1874-03-30" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1874-03-30">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1874-03-30"/>
+                    <placeName ref="http://www.geonames.org/358683">Boulaq</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_xxxx-xx-xx_ms003f119" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_xxxx-xx-xx_ms003f119">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date cert="low" when="1874"/>
+                    <placeName ref="http://www.geonames.org/2988507" evidence="conjecture">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1874-08-15" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1874-08-15">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1874-08-15"/>
+                    <placeName ref="http://www.geonames.org/2980283">Pont-de-Briques</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1874-08-17" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1874-08-17">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1874-08-17"/>
+                    <placeName ref="http://www.geonames.org/2980283">Pont-de-Briques</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1875-07-12" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1875-07-12">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1875-07-12"/>
+                    <placeName ref="http://www.geonames.org/6439391">Boulogne-sur-Mer</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1876-04-30" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1876-04-30">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1876-04-30"/>
+                    <placeName ref="http://www.geonames.org/6439391">Boulogne-sur-Mer</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1876-07-02" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1876-07-02">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1876-07-02"/>
+                    <placeName ref="http://www.geonames.org/2980283">Pont-de-Briques</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1876-07-05" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1876-07-05">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1876-07-05"/>
+                    <placeName ref="http://www.geonames.org/2980283">Pont-de-Briques</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1876-07-19" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1876-07-19">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1876-07-19"/>
+                    <placeName ref="http://www.geonames.org/2980283">Pont-de-Briques</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1876-08-02" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1876-08-02">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1876-08-02"/>
+                    <placeName ref="http://www.geonames.org/2980283">Pont-de-Briques</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1876-08-29" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1876-08-29">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1876-08-29"/>
+                    <placeName ref="http://www.geonames.org/2980283">Pont-de-Briques</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1876-09-16" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1876-09-16">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1876-09-16"/>
+                    <placeName ref="http://www.geonames.org/2980283">Pont-de-Briques</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_18xx-xx-xx_ms003f141-142" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_18xx-xx-xx_ms003f141-142">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <placeName ref="http://www.geonames.org/6439391">Boulogne-sur-Mer</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1879-05-02" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1879-05-02">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1879-05-02"/>
+                    <placeName ref="http://www.geonames.org/358683">Boulaq</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1879-05-05" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1879-05-05">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1879-05-05"/>
+                    <placeName ref="http://www.geonames.org/358683" evidence="conjecture">Boulaq</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1879-05-08" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1879-05-08">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1879-05-08"/>
+                    <placeName ref="http://www.geonames.org/358683">Boulaq</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1879-05-10" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1879-05-10">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1879-05-10"/>
+                    <placeName ref="http://www.geonames.org/358683" evidence="conjecture">Boulaq</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1879-06-20" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1879-06-20">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1879-06-20"/>
+                    <placeName ref="http://www.geonames.org/6439391">Boulogne-sur-Mer</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1879-06-25" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1879-06-25">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1879-06-25"/>
+                    <placeName ref="http://www.geonames.org/6439391">Boulogne-sur-Mer</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1879-09-21" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1879-09-21">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1879-09-21"/>
+                    <placeName ref="http://www.geonames.org/6439391">Boulogne-sur-Mer</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1879-10-01" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1879-10-01">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1879-10-01"/>
+                    <placeName ref="http://www.geonames.org/6439391">Boulogne-sur-Mer</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1879-10-07" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1879-10-07">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1879-10-07"/>
+                    <placeName ref="http://www.geonames.org/6439391">Boulogne-sur-Mer</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1879-10-12" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1879-10-12">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1879-10-12"/>
+                    <placeName ref="http://www.geonames.org/6439391">Boulogne-sur-Mer</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1879-10-21" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1879-10-21">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1879-10-21"/>
+                    <placeName ref="http://www.geonames.org/6439391">Boulogne-sur-Mer</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1879-10-22" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1879-10-22">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1879-10-22"/>
+                    <placeName ref="http://www.geonames.org/6439391">Boulogne-sur-Mer</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1879-10-25" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1879-10-25">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1879-10-25"/>
+                    <placeName ref="http://www.geonames.org/6439391">Boulogne-sur-Mer</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1879-11-02" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1879-11-02">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1879-11-02"/>
+                    <placeName ref="http://www.geonames.org/6439391">Boulogne-sur-Mer</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1879-11-12" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1879-11-12">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1879-11-12"/>
+                    <placeName ref="http://www.geonames.org/6439391">Boulogne-sur-Mer</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1879-11-19" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1879-11-19">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1879-11-19"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1879-12-27" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1879-12-27">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1879-12-27"/>
+                    <placeName ref="http://www.geonames.org/358683">Boulaq</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1880-01-14" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1880-01-14">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1880-01-14"/>
+                    <placeName ref="http://www.geonames.org/358683">Boulaq</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1880-04-13" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1880-04-13">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1880-04-13"/>
+                    <placeName ref="http://www.geonames.org/358683">Boulaq</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1880-05-31" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1880-05-31">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1880-05-31"/>
+                    <placeName ref="http://www.geonames.org/358683">Boulaq</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1880-08-11" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1880-08-11">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1880-08-11"/>
+                    <placeName ref="http://www.geonames.org/3010882">La Bourboule</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1880-09-28" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1880-09-28">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1880-09-28"/>
+                    <placeName ref="http://www.geonames.org/2980283">Pont-de-Briques</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1880-10-18" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1880-10-18">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1880-10-18"/>
+                    <placeName ref="http://www.geonames.org/2980283">Pont-de-Briques</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1880-10-25" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1880-10-25">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1880-10-25"/>
+                    <placeName ref="http://www.geonames.org/2980283">Pont-de-Briques</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1880-11-04" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1880-11-04">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1880-11-04"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1880-11/12-xx_ms003f187" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1880-11/12-xx_ms003f187">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date notAfter="1880-12" notBefore="1880-11"/>
+                    <placeName ref="http://www.geonames.org/360630">Le Caire</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1846-04-13" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1846-04-13">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1846-04-13"/>
+                    <placeName ref="http://www.geonames.org/6439391">Boulogne-sur-Mer</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb130079493">Salvandy (de), Narcisse-Achille</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1846-05-24" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1846-05-24">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1846-05-24"/>
+                    <placeName ref="http://www.geonames.org/6439391">Boulogne-sur-Mer</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb102117199">Camaret, Louis</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1846-05-25" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1846-05-25">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1846-05-25"/>
+                    <placeName ref="http://www.geonames.org/6439391">Boulogne-sur-Mer</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb130079493">Salvandy (de), Narcisse-Achille</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1846-09-29" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1846-09-29">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1846-09-29"/>
+                    <placeName ref="http://www.geonames.org/6439391">Boulogne-sur-Mer</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb130079493">Salvandy (de), Narcisse-Achille</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1850-05-20" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1850-05-20">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1850-05-20"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13475874p">Esquirou de Parieu, Félix</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1850-07-06" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1850-07-06">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1850-07-06"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13475874p">Esquirou de Parieu, Félix</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1850-08-27" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1850-08-27">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1850-08-27"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13475874p">Esquirou de Parieu, Félix</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1855-01-26" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1855-01-26">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1855-01-26"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb125108748">Fortoul, Hippolyte</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1855-07-12" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1855-07-12">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1855-07-12"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Unknown</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1855-08-06" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1855-08-06">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1855-08-06"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb125108748">Fortoul, Hippolyte</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1855-12-12" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1855-12-12">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1855-12-12"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Unknown</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1856-02-11" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1856-02-11">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1856-02-11"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb125108748">Fortoul, Hippolyte</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1856-12-11" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1856-12-11">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1856-12-11"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb155876341">Rouland, Gustave</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1856-12-31" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1856-12-31">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1856-12-31"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb155876341">Rouland, Gustave</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1857-01-03" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1857-01-03">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1857-01-03"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Unknown</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1857-04-01" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1857-04-01">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1857-04-01"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb155876341">Rouland, Gustave</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1857-08-26" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1857-08-26">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1857-08-26"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Servaux, Eugène</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1857-10-04" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1857-10-04">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1857-10-04"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb155876341">Rouland, Gustave</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1857-10-05" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1857-10-05">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1857-10-05"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="http://correspSearch.net/unknown">Unknown</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1879-11-06" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1879-11-06">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1879-11-06"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12513455m">Ferry, Jules</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1873-03-17" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1873-03-17">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1873-03-17"/>
+                    <placeName ref="http://www.geonames.org/358683">Boulaq</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1873-03-28" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1873-03-28">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1873-03-28"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1873-06-22" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1873-06-22">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1873-06-22"/>
+                    <placeName ref="http://www.geonames.org/2761369">Vienne</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1873-06-24" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1873-06-24">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1873-06-24"/>
+                    <placeName ref="http://www.geonames.org/2761369">Vienne</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_18xx-xx-xx_ms003f98" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_18xx-xx-xx_ms003f98">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_18xx-xx-xx_ms003f99" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_18xx-xx-xx_ms003f99">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1873-08-06" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1873-08-06">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1873-08-06"/>
+                    <placeName ref="http://www.geonames.org/2980283">Pont-de-Briques</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1873-08-16a" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1873-08-16a">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1873-08-16"/>
+                    <placeName ref="http://www.geonames.org/2980283">Pont-de-Briques</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1873-08-16b" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1873-08-16b">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1873-08-16"/>
+                    <placeName ref="http://www.geonames.org/2980283">Pont-de-Briques</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb10268189j">Dubief, Louis</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1873-08-20" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1873-08-20">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1873-08-20"/>
+                    <placeName ref="http://www.geonames.org/2980283">Pont-de-Briques</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1873-09-23" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1873-09-23">
+                <correspAction type="sent">
+                    <persName ref="https://catalogue.bnf.fr/ark:/12148/cb12213258k">Mariette [Pacha], Auguste</persName>
+                    <date when="1873-09-23"/>
+                    <placeName ref="http://www.geonames.org/2980283">Pont-de-Briques</placeName>
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://catalogue.bnf.fr/ark:/12148/cb13003254s">Desjardins, Ernest</persName>
