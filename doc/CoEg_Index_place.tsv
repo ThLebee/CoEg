@@ -77,7 +77,7 @@ CoEg_place_00000075	Vatican	41.90225 	12.4533 			https://www.geonames.org/316467
 CoEg_place_00000076	Cornouailles	0	0						https://www.trismegistos.org/place/45017	https://www.wikidata.org/wiki/Q23148
 CoEg_place_00000077	Pont	0	0				https://pleiades.stoa.org/places/857287		https://www.trismegistos.org/place/1894	https://www.wikidata.org/wiki/Q7380487
 CoEg_place_00000078	Antioche	36.20655 	36.15722 				https://pleiades.stoa.org/places/658381		https://www.trismegistos.org/place/205	https://www.wikidata.org/wiki/Q200441
-CoEg_place_00000079	Rosette	31.2400	30.2500	(رشيد [Rašīd])		https://www.geonames.org/350203			www.trismegistos.org/place/2059 	https://www.wikidata.org/wiki/Q243699
+CoEg_place_00000079	Rosette	31.4013	30.4194	(رشيد [Rašīd])		https://www.geonames.org/350203			www.trismegistos.org/place/2059 	https://www.wikidata.org/wiki/Q243699
 CoEg_place_00000080	Sân	30.97478 	31.87231 	(صان الحجر [Ṣān al-Ḥaǧar])	Mariette utilise ordinairement simplement la forme « Sân »	https://www.geonames.org/349653	https://pleiades.stoa.org/places/727236 	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=401-260	https://www.trismegistos.org/place/2252	
 CoEg_place_00000081	Pays de Galles	52.3	-3.6			https://www.geonames.org/2634895			https://www.trismegistos.org/place/3322	
 CoEg_place_00000082	Trieste	45.6941091	13.4665189			https://www.geonames.org/3165186	https://pleiades.stoa.org/places/187578 		https://www.trismegistos.org/place/12317	
@@ -86,7 +86,7 @@ CoEg_place_00000084	Venise	45.4536547	11.9702428			https://www.geonames.org/6542
 CoEg_place_00000085	Munich	48.1548252	11.4014054			https://www.geonames.org/2867714			https://www.trismegistos.org/place/20089	
 CoEg_place_00000086	Vienne	48.2205994	16.2396296			https://www.geonames.org/2761369	https://pleiades.stoa.org/places/128537	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=704-020-120-010	https://www.trismegistos.org/place/28821	
 CoEg_place_00000087	Prague	50.0593308	14.1847426			https://www.geonames.org/3067696	https://pleiades.stoa.org/places/118913		https://www.trismegistos.org/place/46886	
-CoEg_place_00000088	Malte	35.9421228	14.0974563			https://www.geonames.org/2562772	https://pleiades.stoa.org/places/462311	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=704-020-090-040	https://www.trismegistos.org/place/1339	
+CoEg_place_00000088	Malte	35.8833	14.5			https://www.geonames.org/2562772	https://pleiades.stoa.org/places/462311	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=704-020-090-040	https://www.trismegistos.org/place/1339	
 CoEg_place_00000089	Tuileries, palais des	48.862264	2.3298964							
 CoEg_place_00000090	Esbékieh	30.056111111111	31.246944444444	(أزبكية [Azbakīyah])						
 CoEg_place_00000091	Rennes	48.1158942	-1.7584942			https://www.geonames.org/2983990	https://pleiades.stoa.org/places/69491		https://www.trismegistos.org/place/24139	
@@ -130,11 +130,11 @@ CoEg_place_00000128	Taposiris Magna	30.95	29.51667			https://www.geonames.org/36
 CoEg_place_00000129	Mer Égée	38.5	25.3 			https://www.geonames.org/265695	https://pleiades.stoa.org/places/560221		https://www.trismegistos.org/place/33222	https://www.wikidata.org/wiki/Q34575
 CoEg_place_00000130	Hermopolis	27.774439	30.801111			https://www.geonames.org/355952	https://pleiades.stoa.org/places/756574	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=901-215-001	https://www.trismegistos.org/place/816	https://www.wikidata.org/wiki/Q732908
 CoEg_place_00000131	Göttingen	51.533889	9.935556			https://www.geonames.org/6557373				https://www.wikidata.org/wiki/Q3033
-CoEg_place_00000132	Californie	37	120			https://www.geonames.org/5332921				https://www.wikidata.org/wiki/Q99
+CoEg_place_00000132	Californie	37	-120			https://www.geonames.org/5332921				https://www.wikidata.org/wiki/Q99
 CoEg_place_00000133	Pont-de-Briques	50.681667	1.625833			https://www.geonames.org/2980283				https://www.wikidata.org/wiki/Q874139
 CoEg_place_00000134	Isques	50.675833	1.65	alias Isku		https://www.geonames.org/3012688			https://www.trismegistos.org/place/25193	https://www.wikidata.org/wiki/Q1064112
 CoEg_place_00000135	Briquencque	0	0	Faubourg de Boulogne-sur-Mer						
-CoEg_place_00000136	Bretagne	48	3			https://www.geonames.org/3030293			https://www.trismegistos.org/place/3266	https://www.wikidata.org/wiki/Q12130
+CoEg_place_00000136	Bretagne	48	-3			https://www.geonames.org/3030293			https://www.trismegistos.org/place/3266	https://www.wikidata.org/wiki/Q12130
 CoEg_place_00000137	Montreuil (Pas-de-Calais)	50.463611	1.763333			https://www.geonames.org/6618354				https://www.wikidata.org/wiki/Q213344
 CoEg_place_00000138	Verton	50.402222	1.649444			https://www.geonames.org/2969613				https://www.wikidata.org/wiki/Q1023874
 CoEg_place_00000139	Jérusalem	31.783333	35.216667			https://www.geonames.org/281184	https://pleiades.stoa.org/places/687928	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=704-020-010-100	https://www.trismegistos.org/place/853	https://www.wikidata.org/wiki/Q1218
