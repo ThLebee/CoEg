@@ -130,7 +130,7 @@ CoEg_place_00000128	Taposiris Magna	30.95	29.51667			https://www.geonames.org/36
 CoEg_place_00000129	Mer Égée	38.5	25.3 			https://www.geonames.org/265695	https://pleiades.stoa.org/places/560221		https://www.trismegistos.org/place/33222	https://www.wikidata.org/wiki/Q34575
 CoEg_place_00000130	Hermopolis	27.774439	30.801111			https://www.geonames.org/355952	https://pleiades.stoa.org/places/756574	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=901-215-001	https://www.trismegistos.org/place/816	https://www.wikidata.org/wiki/Q732908
 CoEg_place_00000131	Göttingen	51.533889	9.935556			https://www.geonames.org/6557373				https://www.wikidata.org/wiki/Q3033
-CoEg_place_00000132	Californie	37	120			https://www.geonames.org/5332921				https://www.wikidata.org/wiki/Q99
+CoEg_place_00000132	Californie	37	-120			https://www.geonames.org/5332921				https://www.wikidata.org/wiki/Q99
 CoEg_place_00000133	Pont-de-Briques	50.681667	1.625833			https://www.geonames.org/2980283				https://www.wikidata.org/wiki/Q874139
 CoEg_place_00000134	Isques	50.675833	1.65	alias Isku		https://www.geonames.org/3012688			https://www.trismegistos.org/place/25193	https://www.wikidata.org/wiki/Q1064112
 CoEg_place_00000135	Briquencque	0	0	Faubourg de Boulogne-sur-Mer						
