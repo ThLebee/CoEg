@@ -5,8 +5,8 @@
         <title>Lettres d’Auguste Mariette</title>
       </titleStmt>
       <editionStmt>
-        <edition n="1,147">
-          <date when="2021-07">Juillet 2021</date>
+        <edition n="1,168">
+          <date when="2021-10">Octobre 2021</date>
         </edition>
         <respStmt>
           <resp>éditées par</resp>
@@ -834,7 +834,8 @@
       <change when="2020-07" n="0,24">Juillet 2020, v. 0,24 : reprise de l’encodage dans le cadre d’une chaîne de traitement complète, ajouts des autres lettres du <rs sameAs="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_ms_001">dossier de carrière</rs> et première publication sur <ref target="https://thlebee.github.io/CoEg_test_forty/">Github</ref>.</change>
       <change when="2020-11" n="0,44">Novembre 2020, v. 0,44 : ajout des <rs sameAs="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_ms_002">lettres du dossier des demandes de missions de Mariette au ministère de l'Instruction publique (Archives nationales, F/17/2988/1, dossier « Mariette »)</rs>.</change>
       <change when="2021-02-11" n="0,94">11 février 2021, v. 0,94 : ajout des cinquante premières lettres envoyées à Desjardins par Mariette (Bibliothèque nationale de France <rs sameAs="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_ms_003">NAF 11669</rs>, fos 2-90), à l'occasion du bicentenaire de sa naissance.</change>
-      <change when="2021-07" n="1,147">Juillet 2021, v. 1,147~: ajout de la suite des lettres envoyées par Mariette à Ernest Desjardins (Bibliothèque nationale de France <rs sameAs="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_ms_003">NAF 11669</rs>, fos 91-189).</change>
+      <change when="2021-07" n="1,147">Juillet 2021, v. 1,147 : ajout de la suite des lettres envoyées par Mariette à Ernest Desjardins (Bibliothèque nationale de France <rs sameAs="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_ms_003">NAF 11669</rs>, fos 91-189).</change>
+	  <change when="2021-10" n="1,168">Octobre 2021, v. 1,168 : ajout des lettres envoyées par Mariette à François Chabas (bibliothèque de l'Institut de France,<rs sameAs="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_ms_004">ms. 2572-2588</rs>).</change>
     </revisionDesc>
   </teiHeader>
   <TEI xml:id="CoEg_Mariette_1846-04-13">
