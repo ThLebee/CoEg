@@ -273,7 +273,7 @@
                     <persName ref="https://d-nb.info/gnd/117632880">Desjardins, Ernest</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1862-02-28">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1862-02-28b">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
                     <date when="1862-02-28"/>
@@ -575,7 +575,7 @@
                     <persName ref="https://d-nb.info/gnd/117632880">Desjardins, Ernest</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1868-12-17">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1868-12-17a">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
                     <date when="1868-12-17"/>
@@ -1208,7 +1208,7 @@
                     <persName ref="https://d-nb.info/gnd/100269680">Salvandy (de), Narcisse-Achille</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1850-05-20" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1850-05-20">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1850-05-20a" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1850-05-20a">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
                     <date when="1850-05-20"/>
@@ -1473,7 +1473,7 @@
                     <persName ref="https://d-nb.info/gnd/117632880">Desjardins, Ernest</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1857-03-25">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1857-03-25" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1857-03-25">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
                     <date when="1857-03-25"/>
@@ -1483,7 +1483,7 @@
                     <persName ref="https://d-nb.info/gnd/117650900">Chabas, François</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1860-02-01">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1860-02-01" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1860-02-01">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
                     <date when="1860-02-01"/>
@@ -1493,7 +1493,7 @@
                     <persName ref="https://d-nb.info/gnd/117650900">Chabas, François</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1862-04-07">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1862-04-07" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1862-04-07">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
                     <date when="1862-04-07"/>
@@ -1503,7 +1503,7 @@
                     <persName ref="https://d-nb.info/gnd/117650900">Chabas, François</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1862-10-09">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1862-10-09" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1862-10-09">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
                     <date when="1862-10-09"/>
@@ -1513,7 +1513,7 @@
                     <persName ref="https://d-nb.info/gnd/117650900">Chabas, François</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1870-06-23">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1870-06-23" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1870-06-23">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
                     <date when="1870-06-23"/>
@@ -1523,7 +1523,7 @@
                     <persName ref="https://d-nb.info/gnd/117650900">Chabas, François</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1871-08-30">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1871-08-30" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1871-08-30">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
                     <date when="1871-08-30"/>
@@ -1533,7 +1533,7 @@
                     <persName ref="https://d-nb.info/gnd/117650900">Chabas, François</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1871-09-15">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1871-09-15" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1871-09-15">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
                     <date when="1871-09-15"/>
@@ -1543,7 +1543,7 @@
                     <persName ref="https://d-nb.info/gnd/117650900">Chabas, François</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1872-04-13">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1872-04-13" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1872-04-13">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
                     <date when="1872-04-13"/>
@@ -1552,7 +1552,7 @@
                     <persName ref="https://d-nb.info/gnd/117650900">Chabas, François</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1872-05-05">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1872-05-05"  source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1872-05-05">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
                     <date when="1872-05-05"/>
@@ -1562,7 +1562,7 @@
                     <persName ref="https://d-nb.info/gnd/117650900">Chabas, François</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1872-07-03">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1872-07-03" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1872-07-03">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
                     <date when="1872-07-03"/>
@@ -1572,7 +1572,7 @@
                     <persName ref="https://d-nb.info/gnd/117650900">Chabas, François</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1872-09-15">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1872-09-15" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1872-09-15">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
                     <date when="1872-09-15"/>
@@ -1582,7 +1582,7 @@
                     <persName ref="https://d-nb.info/gnd/117650900">Chabas, François</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1872-10-06">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1872-10-06" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1872-10-06">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
                     <date when="1872-10-06"/>
@@ -1592,7 +1592,7 @@
                     <persName ref="https://d-nb.info/gnd/117650900">Chabas, François</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1872-10-06">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1872-10-06" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1872-10-06">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
                     <date when="1872-10-06"/>
@@ -1602,7 +1602,7 @@
                     <persName ref="https://d-nb.info/gnd/117650900">Chabas, François</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1873-01-05">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1873-01-05" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1873-01-05">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
                     <date when="1873-01-05"/>
@@ -1612,7 +1612,7 @@
                     <persName ref="https://d-nb.info/gnd/117650900">Chabas, François</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1873-02-23a">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1873-02-23a" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1873-02-23a">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
                     <date when="1873-02-23"/>
@@ -1622,7 +1622,7 @@
                     <persName ref="https://d-nb.info/gnd/117650900">Chabas, François</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1873-04-23">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1873-04-23" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1873-04-23">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
                     <date when="1873-04-23"/>
@@ -1632,7 +1632,7 @@
                     <persName ref="https://d-nb.info/gnd/117650900">Chabas, François</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1873-08-16c">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1873-08-16c" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1873-08-16c">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
                     <date when="1873-08-16"/>
@@ -1642,7 +1642,7 @@
                     <persName ref="https://d-nb.info/gnd/117650900">Chabas, François</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1873-11-01">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1873-11-01" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1873-11-01">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
                     <date when="1873-11-01"/>
@@ -1652,7 +1652,7 @@
                     <persName ref="https://d-nb.info/gnd/117650900">Chabas, François</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1874-04-29">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1874-04-29" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1874-04-29">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
                     <date when="1874-04-29"/>
@@ -1662,7 +1662,7 @@
                     <persName ref="https://d-nb.info/gnd/117650900">Chabas, François</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1875-07-18">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1875-07-18" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1875-07-18">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
                     <date when="1875-07-18"/>
@@ -1672,7 +1672,7 @@
                     <persName ref="https://d-nb.info/gnd/117650900">Chabas, François</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1876-07-21">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1876-07-21" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1876-07-21">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
                     <date when="1876-07-21"/>
@@ -1682,7 +1682,7 @@
                     <persName ref="https://d-nb.info/gnd/117650900">Chabas, François</persName>
                 </correspAction>
             </correspDesc>
-            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1877-05-18">
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1877-05-18" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1877-05-18">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
                     <date when="1877-05-18"/>
@@ -1690,6 +1690,504 @@
                 </correspAction>
                 <correspAction type="received">
                     <persName ref="https://d-nb.info/gnd/117650900">Chabas, François</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1861-02-26" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1861-02-26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1861-02-26"/>
+                    <placeName ref="https://www.geonames.org/349484">Sérapéum de Memphis</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115851704">Maury, Alfred</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1862-02-28a" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1862-02-28a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1862-02-28"/>
+                    <placeName ref="https://www.geonames.org/358683">Boulaq</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115851704">Maury, Alfred</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1850-08-xx" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1850-08-xx">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1850-08"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115851704">Maury, Alfred</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_185x-xx-xx" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_185x-xx-xx">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115851704">Maury, Alfred</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1864-11-07" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1864-11-07">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1864-11-07"/>
+                    <placeName ref="https://www.geonames.org/358683">Boulaq</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115851704">Maury, Alfred</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1849-11-08" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1849-11-08">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1849-11-08"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115851704">Maury, Alfred</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1862-xx-xx" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1862-xx-xx">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1862"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/115851704">Maury, Alfred</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1858-11-22" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1858-11-22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1858-11-22"/>
+                    <placeName ref="https://www.geonames.org/358683">Boulaq</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Schefer, Jules</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1861/2-10-04" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1861/2-10-04">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <placeName ref="https://www.geonames.org/358683">Boulaq</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1047833204">Kabis, Marc</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1863-03-12" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1863-03-12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1863-03-12"/>
+                    <placeName ref="https://www.geonames.org/358683">Boulaq</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1047833204">Kabis, Marc</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1865-07-07" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1865-07-07">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1865-07-07"/>
+                    <placeName ref="https://www.geonames.org/349484">Sérapéum de Memphis</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1047833204">Kabis, Marc</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1869-10-03" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1869-10-03">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1869-10-03"/>
+                    <placeName ref="https://www.geonames.org/358683">Boulaq</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1047833204">Kabis, Marc</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1872-05-26" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1872-05-26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1872-05-26"/>
+                    <placeName ref="https://www.geonames.org/358683">Boulaq</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1047833204">Kabis, Marc</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_xxxx-01-07" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_xxxx-01-07">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <placeName ref="https://www.geonames.org/358683">Boulaq</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1047833204">Kabis, Marc</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1867-09-10" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1867-09-10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1867-09-10"/>
+                    <placeName ref="https://www.geonames.org/358683">Boulaq</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1047833204">Kabis, Marc</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1858-08-19" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1858-08-19">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1858-08-19"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116664150">Rouland, Gustave</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1872-07-16" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1872-07-16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1872-07-16"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116184760">Pierret, Paul</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1857-10-xx" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1857-10-xx">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1857-10"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117619426">Saulcy (de), Félicien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1868-01-10" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1868-01-10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1868-01-10"/>
+                    <placeName ref="https://www.geonames.org/359783">Assiout</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117619426">Saulcy (de), Félicien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1866-07-27" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1866-07-27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1866-07-27"/>
+                    <placeName ref="https://www.geonames.org/360630">Le Caire</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117619426">Saulcy (de), Félicien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1854-12-17" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1854-12-17">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1854-12-17"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117619426">Saulcy (de), Félicien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1855-xx-xx" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1855-xx-xx">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1855"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117619426">Saulcy (de), Félicien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_18xx-xx-xx" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_18xx-xx-xx">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117619426">Saulcy (de), Félicien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1878-11-01" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1878-11-01">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1878-11-01"/>
+                    <placeName ref="https://www.geonames.org/6545275">Auteuil</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/11870141X">Hanotaux, Gabriel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1874-03-09" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1874-03-09">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1874-03-09"/>
+                    <placeName ref="https://www.geonames.org/358683">Boulaq</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1055136061">Guiraud, Paul</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1867-03-31" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1867-03-31">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1867-03-31"/>
+                    <placeName ref="https://www.geonames.org/6545275">Auteuil</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/172054427">Devéria, Théodule</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1849-09-12" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1849-09-12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1849-09-12"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116406453">Falloux (de), Alfred</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1850-05-20b" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1850-05-20b">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1850-05-20"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117658847">Jourdain, Charles</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1868-10-23" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1868-10-23">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1868-10-23"/>
+                    <placeName ref="https://www.geonames.org/358683">Boulaq</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1868-12-17b" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1868-12-17b">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1868-12-17"/>
+                    <placeName ref="https://www.geonames.org/355635">Edfou</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117658847">Jourdain, Charles</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1869-02-01" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1869-02-01">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1869-02-01"/>
+                    <placeName ref="https://www.geonames.org/358683">Boulaq</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117658847">Jourdain, Charles</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1862-10-11" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1862-10-11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1862-10-11"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1848-12-27" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1848-12-27">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1848-12-27"/>
+                    <placeName ref="https://www.geonames.org/6439391">Boulogne-sur-Mer</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1044361271">Leleux</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1876-09-15" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1876-09-15">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1876-09-15"/>
+                    <placeName ref="https://www.geonames.org/2980283">Pont-de-Briques</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/118669060">Champfleury</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1851-03-22" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1851-03-22">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1851-03-22"/>
+                    <placeName ref="http://www.geonames.org/349608">Saqqarah</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/1105569055">Delaporte, Pacifique-Henri</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1853-05-25" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1853-05-25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1853-05-25"/>
+                    <placeName ref="https://www.geonames.org/362069">Abousir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117018406">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1853-06-25" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1853-06-25">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1853-06-25"/>
+                    <placeName ref="https://www.geonames.org/362069">Abousir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116663529">Rougé (de), Emmanuel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1877-06-06" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1877-06-06">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1877-06-06"/>
+                    <placeName ref="https://www.geonames.org/2980283">Pont-de-Briques</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116785055">Heuzey, Léon</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1851-02-12" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1851-02-12">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1851-02-12"/>
+                    <placeName ref="http://www.geonames.org/349608">Saqqarah</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117018406">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1851-11-14a" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1851-11-14a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1851-11-14"/>
+                    <placeName ref="https://www.geonames.org/349484">Sérapéum de Memphis</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117018406">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1851-11-14b" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1851-11-14b">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1851-11-14"/>
+                    <placeName ref="https://www.geonames.org/349484">Sérapéum de Memphis</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName>Thorigny (de), René</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1851-12-03a" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1851-12-03a">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1851-12-03"/>
+                    <placeName ref="https://www.geonames.org/362069">Abousir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116663529">Rougé (de), Emmanuel</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1851-12-03b" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1851-12-03b">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1851-12-03"/>
+                    <placeName ref="https://www.geonames.org/362069">Abousir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117018406">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1853-04-01" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1853-04-01">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1853-04-01"/>
+                    <placeName ref="https://www.geonames.org/362069">Abousir</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117018406">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1854-06-20" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1854-06-20">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1854-06-20"/>
+                    <placeName ref="https://www.geonames.org/355017">Pyramides de Gizah</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117018406">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1854-1855" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1854-1855">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117018406">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1855-11-16" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1855-11-16">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1855-11-16"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117018406">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1857-10-10" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1857-10-10">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1857-10-10"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117018406">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1865-03-03" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1865-03-03">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1865-03-03"/>
+                    <placeName ref="https://www.geonames.org/360630">Le Caire</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/117018406">Nieuwerkerke (de), Émilien</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1868-08-26" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1868-08-26">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1868-08-26"/>
+                    <placeName ref="https://www.geonames.org/360630">Le Caire</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/12046246X">Locle (du), Camille</persName>
+                </correspAction>
+            </correspDesc>
+            <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml#CoEg_Mariette_1857-02-11" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1857-02-11">
+                <correspAction type="sent">
+                    <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
+                    <date when="1857-02-11"/>
+                    <placeName ref="http://www.geonames.org/2988507">Paris</placeName>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="https://d-nb.info/gnd/116663529">Rougé (de), Emmanuel</persName>
                 </correspAction>
             </correspDesc>
         </profileDesc>

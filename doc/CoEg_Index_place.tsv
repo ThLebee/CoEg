@@ -15,7 +15,7 @@ CoEg_place_00000013	Europe	46	7			https://www.geonames.org/6255148			https://www
 CoEg_place_00000014	Suède	61	15			https://www.geonames.org/2661886			https://www.trismegistos.org/place/20271	https://www.wikidata.org/wiki/Q34
 CoEg_place_00000015	Royaume-Uni	54.6	-2			https://www.geonames.org/2635167			https://www.trismegistos.org/place/19851	https://www.wikidata.org/wiki/Q145
 CoEg_place_00000016	France	47	2			https://www.geonames.org/3017382			https://www.trismegistos.org/place/693	https://www.wikidata.org/wiki/Q142
-CoEg_place_00000017	Fazaglou	0	0	"Ou Fazogl (François, Bernard, ""Le Soudan de 1820 à nos jours"" dans Histoire et civilisation du Soudan de la Préhistoire à nos jours (Études d'égyptologie 15), Paris, Soleb, 2017, p. 540-751, p. 556 n. 2). Lieu de prospection minière et de déportation criminelle au Soudan"						
+CoEg_place_00000017	Fazaglou	0	0	Ou Fazogl (François, Bernard, « Le Soudan de 1820 à nos jours » dans Histoire et civilisation du Soudan de la Préhistoire à nos jours (Études d'égyptologie 15), Paris, Soleb, 2017, p. 540-751, p. 556 n. 2). Lieu de prospection minière et de déportation criminelle au Soudan						
 CoEg_place_00000018	Marseille	43.296666666667	5.3763888888889			https://www.geonames.org/2995469	https://pleiades.stoa.org/places/148127		https://www.trismegistos.org/place/1318	https://www.wikidata.org/wiki/Q23482
 CoEg_place_00000019	Thèbes	25.720555555556	32.610277777778			https://www.geonames.org/347342	https://pleiades.stoa.org/places/786017	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=901-204-005	https://www.trismegistos.org/place/2355	https://www.wikidata.org/wiki/Q101583
 CoEg_place_00000020	Haute-Égypte	24.1	32.7			https://www.geonames.org/359888			https://www.trismegistos.org/place/2766	https://www.wikidata.org/wiki/Q203751
@@ -94,7 +94,7 @@ CoEg_place_00000092	Constantinople	41.0049806	28.7312898			https://www.geonames.
 CoEg_place_00000093	Dendérah	26.1661	32.6464167	(دندرة [Dandarah])		https://www.geonames.org/358422	https://pleiades.stoa.org/places/786127		https://www.trismegistos.org/place/2312	https://www.wikidata.org/wiki/Q29019
 CoEg_place_00000094	Abyssinie	0	0							https://www.wikidata.org/wiki/Q7007824
 CoEg_place_00000095	Assouan	24.09082 	32.89942 	(أسوان [Aswān])		https://www.geonames.org/359792		http://topbib.griffith.ox.ac.uk//dtb.html?topbib=507	https://www.trismegistos.org/place/2207	https://www.wikidata.org/wiki/Q29888
-CoEg_place_00000096	Auteuil	0	0							https://www.wikidata.org/wiki/Q18199480
+CoEg_place_00000096	Auteuil	0	0			https://www.geonames.org/6545275				https://www.wikidata.org/wiki/Q18199480
 CoEg_place_00000097	Versailles	48.80359 	2.13424 			https://www.geonames.org/2969679				https://www.wikidata.org/wiki/Q621
 CoEg_place_00000098	Champ-de-Mars	48.85613 	2.29803 			https://www.geonames.org/6269529				https://www.wikidata.org/wiki/Q217925
 CoEg_place_00000099	Place Vendôme	48.86746 	2.32946 			https://www.geonames.org/6452724				https://www.wikidata.org/wiki/Q643520
@@ -123,7 +123,7 @@ CoEg_place_00000121	Pyramides (Gizah)	29.98333 	31.13333 			https://www.geonames
 CoEg_place_00000122	Naples	40.833333 	14.25 			https://www.geonames.org/3172395	https://pleiades.stoa.org/places/433014		https://www.trismegistos.org/place/2676	https://www.wikidata.org/wiki/Q2634
 CoEg_place_00000123	Damiette	31.416667	31.816667 	(دمياط [Dumīyāṭ])		https://www.geonames.org/358048	https://pleiades.stoa.org/places/727235		https://www.trismegistos.org/place/3054	https://www.wikidata.org/wiki/Q189383
 CoEg_place_00000124	Athribis	30.466667 	31.183333	(أتريب [’Atrīb])		https://www.geonames.org/359280	https://pleiades.stoa.org/places/727078	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=901-110-001	http://www.trismegistos.org/place/369	https://www.wikidata.org/wiki/Q755734
-CoEg_place_00000125	Bubastis	30.572778	31.51	(تلّ بسطة [Tell Basṭah])		https://www.geonames.org/358710	https://pleiades.stoa.org/places/727088	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=901-118-001	https://www.trismegistos.org/place/462	https://www.wikidata.org/wiki/Q603841
+CoEg_place_00000125	Bubastis	30.572778	31.51	(تلّ بسطة [Tall Basṭah])		https://www.geonames.org/358710	https://pleiades.stoa.org/places/727088	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=901-118-001	https://www.trismegistos.org/place/462	https://www.wikidata.org/wiki/Q603841
 CoEg_place_00000126	Coptos	26	32.816667	( قفط [Qifṭ])		https://www.geonames.org/350560	https://pleiades.stoa.org/places/786010	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=901-205-003	http://www.trismegistos.org/place/1159	https://www.wikidata.org/wiki/Q935454
 CoEg_place_00000127	Afrique	1	17							https://www.wikidata.org/wiki/Q15
 CoEg_place_00000128	Taposiris Magna	30.95	29.51667			https://www.geonames.org/362072	https://pleiades.stoa.org/places/727241	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=901-400-003	https://www.trismegistos.org/place/2260	https://www.wikidata.org/wiki/Q7684735
@@ -187,4 +187,31 @@ CoEg_place_00000186	Jourdain	31.76025 	35.55792 				https://pleiades.stoa.org/pl
 CoEg_place_00000187	Réténou	34	36	Désignation égyptienne de la Syrie et de la Palestine antiques						https://www.wikidata.org/wiki/Q1542286
 CoEg_place_00000188	Kouch	17.18 	33.83 						https://www.trismegistos.org/place/51	https://www.wikidata.org/wiki/Q241790
 CoEg_place_00000189	Cochinchine	10.6822 	106.6649 							https://www.wikidata.org/wiki/Q505503
+CoEg_place_00000190	Béni Souef	29.066667	31.083333	(بني سويف [Banī Sūyīf])		https://www.geonames.org/359173				https://www.wikidata.org/wiki/Q394080
+CoEg_place_00000191	Hôtel Shepheard	30.05446	31.24648							https://www.wikidata.org/wiki/Q1296267
+CoEg_place_00000192	Zaouyat al-Masloub	29.32141	31.19811	(زاوية المصلوب [Zāwiyat al-Maṣlūb])		www.geonames.org/346102				
+CoEg_place_00000193	Chalouf	30.12773	32.56381			https://www.geonames.org/6412799		http://topbib.griffith.ox.ac.uk//dtb.html?topbib=402-030		
+CoEg_place_00000194	Sèvres	48.823056	2.210833			https://www.geonames.org/2974678				https://www.wikidata.org/wiki/Q206493
+CoEg_place_00000195	Leyde	52.154444	4.494722			https://www.geonames.org/2751772				https://www.wikidata.org/wiki/Q43631
+CoEg_place_00000196	Cynopolis superior	28.4833	30.7833			https://www.geonames.org/360567				https://www.wikidata.org/wiki/Q3008796
+CoEg_place_00000197	Amarna	27.661667	30.905556	(تل العمارنة [Tall al-ʿAmārnah])		https://www.geonames.org/347585	https://pleiades.stoa.org/places/149576487	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=410-010	http://www.trismegistos.org/place/2767	https://www.wikidata.org/wiki/Q5736
+CoEg_place_00000198	Antinoé	27.8075	30.872781			https://www.geonames.org/359989	https://pleiades.stoa.org/places/756518	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=901-215-003	http://www.trismegistos.org/place/2774	https://www.wikidata.org/wiki/Q124281
+CoEg_place_00000199	Léontopolis	30.683333	31.35		Mariette donne au site sa désignation moderne « Tell Moqdam »		https://pleiades.stoa.org/places/727147	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=901-111-002	https://www.trismegistos.org/place/1238	
+CoEg_place_00000200	Ninive	36.366667	43.15			https://www.geonames.org/92878	https://pleiades.stoa.org/places/874621		https://www.trismegistos.org/place/10846	https://www.wikidata.org/wiki/Q5680
+CoEg_place_00000201	Khorsabad	36.50953	43.22931				https://pleiades.stoa.org/places/874458		http://www.trismegistos.org/place/48874	https://www.wikidata.org/wiki/Q253208
+CoEg_place_00000202	Canal Mahmoudieh	31.18464	29.88282			http://www.geonames.org/353064				https://www.wikidata.org/wiki/Q4120442
+CoEg_place_00000203	Ems	50.338056	7.710556			https://www.geonames.org/6557882				https://www.wikidata.org/wiki/Q490670
+CoEg_place_00000204	Héracléopolis Magna	29.085556	30.934444			https://www.geonames.org/355953	https://pleiades.stoa.org/places/736920	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=901-220-002	https://www.trismegistos.org/place/801	https://www.wikidata.org/wiki/Q249480
+CoEg_place_00000205	Cynopolis Inferior	30.896111	31.234167				https://pleiades.stoa.org/places/727144			https://www.wikidata.org/wiki/Q1795119
+CoEg_place_00000206	Qalioubieh				Galioubieh					
+CoEg_place_00000207	Touma el-Gebel									
+CoEg_place_00000208	Pas-de-Calais	50.95	1.85			https://www.geonames.org/2988430			https://www.trismegistos.org/place/24821	https://www.wikidata.org/wiki/Q12689
+CoEg_place_00000209	Menschih el-Ramleh									
+CoEg_place_00000210	Tell Yakoubieh									
+CoEg_place_00000211	Medinet el-Faris									
+CoEg_place_00000212	Wardan									
+CoEg_place_00000213	Qenah									
+CoEg_place_00000214	Éléphantine									
+CoEg_place_00000215	Tell-Yahamdieh									
+CoEg_place_00000216	Harabat el-Matfouneh									
 CoEg_place_imn	À identifier	0	0							

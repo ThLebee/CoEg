@@ -1,5 +1,5 @@
 id	orgName	note type=def	note type=Mariette	cat. gén. BNF	data.bnf	IdRéf	VIAF	Wikidata
-CoEg_org_00000001	Musée nationaux, direction des			https://catalogue.bnf.fr/ark:/12148/cb118639186	https://data.bnf.fr/ark:/12148/cb118639186	http://www.idref.fr/027551148	https://viaf.org/viaf/157729592	
+CoEg_org_00000001	Musées nationaux, direction des			https://catalogue.bnf.fr/ark:/12148/cb118639186	https://data.bnf.fr/ark:/12148/cb118639186	http://www.idref.fr/027551148	https://viaf.org/viaf/157729592	
 CoEg_org_00000002	Musée du Louvre			https://catalogue.bnf.fr/ark:/12148/cb11865019j	https://data.bnf.fr/ark:/12148/cb11865019j	https://www.idref.fr/026394677	https://viaf.org/viaf/257711507	https://www.wikidata.org/wiki/Q19675
 CoEg_org_00000003	Musée du Vatican			https://catalogue.bnf.fr/ark:/12148/cb123124629	https://data.bnf.fr/ark:/12148/cb123124629	https://www.idref.fr/03201418X	https://viaf.org/viaf/133520362/	https://www.wikidata.org/wiki/Q526381
 CoEg_org_00000004	Institut de France			https://catalogue.bnf.fr/ark:/12148/cb11864390h	https://data.bnf.fr/ark:/12148/cb11864390h	https://www.idref.fr/027262065	https://viaf.org/viaf/135715107	https://www.wikidata.org/wiki/Q377066
@@ -29,7 +29,7 @@ CoEg_org_00000027	Assemblée nationale législative	Parlement de la République 
 CoEg_org_00000028	comité royal de l’instruction publique							
 CoEg_org_00000029	collège communal de Boulogne							
 CoEg_org_00000030	comité local d’instruction primaire							
-CoEg_org_00000031	société d’agriculture et des sciences							
+CoEg_org_00000031	société d’agriculture et des sciences	société savante boulonnaise						
 CoEg_org_00000032	académie de Douai							
 CoEg_org_00000033	bibliothèque du Vatican			https://catalogue.bnf.fr/ark:/12148/cb11873553t	https://data.bnf.fr/ark:/12148/cb11873553t	https://www.idref.fr/027307808	https://viaf.org/viaf/146085455	https://www.wikidata.org/wiki/Q213678
 CoEg_org_00000034	Bodleian Library			https://catalogue.bnf.fr/ark:/12148/cb11930727f	https://data.bnf.fr/ark:/12148/cb11930727f	https://www.idref.fr/027217124	https://viaf.org/viaf/129788129	https://www.wikidata.org/wiki/Q82133
@@ -49,7 +49,7 @@ CoEg_org_00000047	Crédit mobilier		Banque fondée par la famille Péreire, dont
 CoEg_org_00000048	Académie impériale de musique	ou Opéra Le Peletier					https://viaf.org/viaf/124695439	https://www.wikidata.org/wiki/Q3249117
 CoEg_org_00000049	École normale supérieure			https://catalogue.bnf.fr/ark:/12148/cb122897952	https://data.bnf.fr/ark:/12148/cb122897952	https://www.idref.fr/031738419	https://viaf.org/viaf/147754228/	https://www.wikidata.org/wiki/Q83259
 CoEg_org_00000050	Lycée Louis-le-Grand			https://catalogue.bnf.fr/ark:/12148/cb12194037s	https://data.bnf.fr/ark:/12148/cb12194037s	https://www.idref.fr/030547024	https://viaf.org/viaf/156855299	https://www.wikidata.org/wiki/Q1059546
-CoEg_org_00000051	Mission égyptienne							https://www.wikidata.org/wiki/Q28495418
+CoEg_org_00000051	Mission égyptienne à Paris							https://www.wikidata.org/wiki/Q28495418
 CoEg_org_00000052	École des jeunes de langues							https://www.wikidata.org/wiki/Q3577936
 CoEg_org_00000053	Collège Sainte-Barbe			https://catalogue.bnf.fr/ark:/12148/cb15676313z	https://data.bnf.fr/ark:/12148/cb15676313z	https://www.idref.fr/093000901	https://viaf.org/viaf/168066345	https://www.wikidata.org/wiki/Q1110002
 CoEg_org_00000054	Sainte-Barbe des Champs	Annexe du collège Sainte-Barbe, proche de Paris						https://www.wikidata.org/wiki/Q22924333
@@ -72,3 +72,12 @@ CoEg_org_00000070	Ministère égyptien de l'Intérieur						https://viaf.org/via
 CoEg_org_00000071	Musée de Bologne							
 CoEg_org_00000072	Institut égyptien						https://viaf.org/viaf/139356442/	https://www.wikidata.org/wiki/Q1232190
 CoEg_org_00000073	Chemin de fer d’Alexandrie							
+CoEg_org_00000074	Institut national d'histoire de l'art							
+CoEg_org_00000075	Manufacture de Sèvres			https://catalogue.bnf.fr/ark:/12148/cb11881358q	https://data.bnf.fr/ark:/12148/cb11881358q	https://www.idref.fr/027558886	https://viaf.org/viaf/135638588/	https://www.wikidata.org/wiki/Q653307
+CoEg_org_00000076	Consulat de France au Caire			https://catalogue.bnf.fr/ark:/12148/cb118637895	https://data.bnf.fr/ark:/12148/cb118637895	https://www.idref.fr/026378744	https://viaf.org/viaf/146718895	
+CoEg_org_00000077	Musée national des antiquités (Leyde)			https://catalogue.bnf.fr/ark:/12148/cb11988993r	https://data.bnf.fr/ark:/12148/cb11988993r	https://www.idref.fr/027959414	https://viaf.org/viaf/129638127/	https://www.wikidata.org/wiki/Q1860378
+CoEg_org_00000078	Empire d'Autriche			https://catalogue.bnf.fr/ark:/12148/cb12270768s	https://data.bnf.fr/ark:/12148/cb12270768s	https://www.idref.fr/031505961	https://viaf.org/viaf/265182984/	https://www.wikidata.org/wiki/Q131964
+CoEg_org_00000079	service de conservation des antiquités de l'Égypte			https://cataloguer/11875664	https://data.bnf.fr/fr/11875664	http://www.idref.fr/026524570	https://viaf.org/viaf/153181200/	https://www.wikidata.org/wiki/Q40535
+CoEg_org_00000080	jardin d'acclimatation du Caire							
+CoEg_org_00000081	Conseil général du Pas-de-Calais							
+CoEg_org_00000082	Didot				https://data.bnf.fr/ark:/12148/cb149609031			https://www.wikidata.org/wiki/Q59419393
