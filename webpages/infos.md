@@ -33,7 +33,6 @@ nav-menu: true
 	<h2>Avancée du projet</h2>
 
 <p>L’édition des lettres sera progressive, afin de publier les documents régulièrement et d’en améliorer le format au moyen des suggestions qui pourront être recueillies au cours de l’entreprise. Les sources parisiennes seront dépouillées en priorité pour commencer (par commodité matérielle), mais bien d’autres devraient suivre.</p>
-<p>Vingt-quatre lettres issues des Archives nationales ont déjà été éditées à titre d’échantillon.</p>
 <p>Les enrichissements progressifs du corpus seront signalés sur le carnet de recherche <i><a href="https://hef.hypotheses.org/">Histoire de l’égyptologie en formation</a></i>&nbsp;; ils sont également listés dans les <a href="{{site.baseurl}}/webpages/News">actualités</a>.</p>
 	</div>
 </div>
