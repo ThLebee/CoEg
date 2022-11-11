@@ -47,7 +47,7 @@ CoEg_pers_00000045	hist	Nectanébo II	Roi égyptien			(XXXe dynastie)	Confondu p
 CoEg_pers_00000046	contemp	Pastré, Eugène	Homme d'affaires	1806	1868							https://www.wikidata.org/wiki/Q5408576
 CoEg_pers_00000047	myth	Ptah	Dieu égyptien			Patron de Memphis		https://catalogue.bnf.fr/ark:/12148/cb11980873x	https://data.bnf.fr/ark:/12148/cb11980873x		https://viaf.org/viaf/15571376	https://www.wikidata.org/wiki/Q146321
 CoEg_pers_00000048	contemp	Hékékyan [Bey], Joseph	Haut fonctionnaire égyptien	1807	1875			https://catalogue.bnf.fr/ark:/12148/cb165386095	https://data.bnf.fr/ark:/12148/cb165386095	http://www.idref.fr/148056822	http://viaf.org/viaf/257147724	https://www.wikidata.org/wiki/Q3185073
-CoEg_pers_00000049	contemp	Fleury-Hérard				Banquier ordinaire à Paris du corps diplomatique						
+CoEg_pers_00000049	contemp	Flûry-Hérard				Banquier ordinaire à Paris du corps diplomatique						
 CoEg_pers_00000050	contemp	Aïdi					Négociant d'Égypte auprès de qui Mariette pouvait retirer ses fonds au début de sa première mission					
 CoEg_pers_00000051	contemp	Brunet de Presle, Wladimir	Historien	1809	1875			https://catalogue.bnf.fr/ark:/12148/cb124629699	https://data.bnf.fr/ark:/12148/cb124629699	https://www.idref.fr/033808821	https://viaf.org/viaf/203410427	https://www.wikidata.org/wiki/Q4097433
 CoEg_pers_00000052	contemp	Le Moyne, Auguste	Fils de Le Moyne									
@@ -68,7 +68,7 @@ CoEg_pers_00000066	hist	Neshor					Mariette utilise la forme « Ensahor »
 CoEg_pers_00000067	contemp	Delaporte, Pacifique-Henri		1816	1877	Consul de France au Caire		https://catalogue.bnf.fr/ark:/12148/cb104669559	https://data.bnf.fr/ark:/12148/cb104669559	https://www.idref.fr/166147788	https://viaf.org/viaf/24591314	https://www.wikidata.org/wiki/Q47461240
 CoEg_pers_00000068	myth	Anubis	Dieu égyptien					https://catalogue.bnf.fr/ark:/12148/cb12264465p	https://data.bnf.fr/ark:/12148/cb12264465p	https://www.idref.fr/031428800	https://viaf.org/viaf/5144782931443628507	https://www.wikidata.org/wiki/Q47534
 CoEg_pers_00000069	hist	Antef					Mariette utilise la forme « Entef »					
-CoEg_pers_00000070	contemp	Bonnefoy		?	1859		Auxiliaire officieux de Mariette pendant ses premières fouilles au Sérapéum ; nommé membre du service de conservation des antiquités de l'Égypte à sa création en 1858					
+CoEg_pers_00000070	contemp	Bonnefoy, Marius		?	1859		Auxiliaire officieux de Mariette pendant ses premières fouilles au Sérapéum ; nommé membre du service de conservation des antiquités de l'Égypte à sa création en 1858					
 CoEg_pers_00000071	contemp	Napoléon III	Empereur des Français	1808	1873			https://catalogue.bnf.fr/ark:/12148/cb12462544v	https://data.bnf.fr/ark:/12148/cb12462544v	https://www.idref.fr/027274896	https://viaf.org/viaf/88934487	https://www.wikidata.org/wiki/Q7721
 CoEg_pers_00000072	myth	Allah										https://www.wikidata.org/wiki/Q234801
 CoEg_pers_00000074	contemp	Bonaparte, Napoléon-Jérôme	Prince français	1822	1891			https://catalogue.bnf.fr/ark:/12148/cb14539256j	https://data.bnf.fr/ark:/12148/cb14539256j	https://www.idref.fr/078526965	https://viaf.org/viaf/103645462	https://www.wikidata.org/wiki/Q434077
@@ -469,5 +469,43 @@ CoEg_pers_00000471	contemp	Turgot (marquis de), Louis Félix Étienne	Homme d'É
 CoEg_pers_00000472	hist	Wilkins, David	Orientaliste	1685	1745			https://catalogue.bnf.fr/ark:/12148/cb12003759r	https://data.bnf.fr/ark:/12148/cb12003759r	https://www.idref.fr/028144805	https://viaf.org/viaf/24611480/	https://www.wikidata.org/wiki/Q5241092
 CoEg_pers_00000473	contemp	Champfleury (Husson dit), Jules	Homme de lettres	1821	1889			https://catalogue.bnf.fr/ark:/12148/cb11895986s	https://data.bnf.fr/ark:/12148/cb11895986s	https://www.idref.fr/027395286	https://viaf.org/viaf/19675620/	https://www.wikidata.org/wiki/Q744488
 CoEg_pers_00000474	contemp	Barthélémy Saint Hilaire										
+CoEg_pers_00000474	contemp	Barthélémy-Saint Hilaire, Jules	Homme d'État	1805	1895	Proche collaborateur de Lesseps		https://catalogue.bnf.fr/ark:/12148/cb11890421m	https://data.bnf.fr/ark:/12148/cb11890421m	https://www.idref.fr/026707683	https://viaf.org/viaf/31992507/	https://www.wikidata.org/wiki/Q1332164
+CoEg_pers_00000475	contemp	Koenig Bey, Mathieu Auguste	Orientaliste	1802	1865	secrétaire des commandements du vice-roi Saïd Pacha						
+CoEg_pers_00000476	contemp	Khosrow Bey										
+CoEg_pers_00000477	contemp	Atouch abou Faïd				Reïs des fouilles à Gizah						
+CoEg_pers_00000478	contemp	Ibrahim abou Hagazeh				Reïs des fouilles à Mit Rahinah						
+CoEg_pers_00000479	contemp	Roubi abou Khamsaoui				Reïs des fouilles à Saqqarah						
+CoEg_pers_00000480	contemp	Mohammed Damarani				Reïs des fouilles à Karnak						
+CoEg_pers_00000481	contemp	Diab ben Timsah				Reïs des fouilles à Karnak						
+CoEg_pers_00000482	contemp	Aouad				Reïs des fouilles à Gournah						
+CoEg_pers_00000483	contemp	Aly				Reïs des fouilles à Gournah						
+CoEg_pers_00000484	contemp	Moustapha Agha				Cawas des fouilles à Gournah ; agent consulaire britannique à Louqsor						
+CoEg_pers_00000485	contemp	Moussa Bey										
 CoEg_pers_00000486	contemp	Heuzey, Léon	Historien d'art et orientaliste	1831	1922	Conservateur adjoint des antiques et de la sculpture moderne au musée du Louvre (1870-1881)		https://catalogue.bnf.fr/fr/12952296	https://data.bnf.fr/fr/12952296	https://www.idref.fr/032460910	https://viaf.org/viaf/24733588/	https://www.wikidata.org/wiki/Q709657
+CoEg_pers_00000487	hist	Aménirdis Ire	Princesse d'Égypte (XXVe dynastie) et divine adoratrice d'Amon								https://viaf.org/viaf/13385335/	https://www.wikidata.org/wiki/Q270393
+CoEg_pers_00000488	contemp	Chaillan, Louis				éphémère inspecteur des fouilles (1860)						
+CoEg_pers_00000489	contemp	Fadl Pacha				Moudir de Qéna						
+CoEg_pers_00000490	myth	Khonsou	Dieu égyptien					https://catalogue.bnf.fr/ark:/12148/cb16659121g	https://data.bnf.fr/fr/16659121	https://www.idref.fr/241473381	https://viaf.org/viaf/316451215/	https://www.wikidata.org/wiki/Q190521
+CoEg_pers_00000491	hist	Iâhhotep	Reine d'Égypte (XVIIe dynastie)									
+CoEg_pers_00000492	contemp	Zéki Bey										
+CoEg_pers_00000493	contemp	Lord Dufferin	Diplomate britannique	1826	1902			https://catalogue.bnf.fr/ark:/12148/cb13325718q	https://data.bnf.fr/ark:/12148/cb13325718q	https://www.idref.fr/090400844	https://viaf.org/viaf/29677139/	https://www.wikidata.org/wiki/Q336374
+CoEg_pers_00000494	contemp	Robert Colquhoun	Diplomate britannique	1803	1870							https://www.wikidata.org/wiki/Q7344788
+CoEg_pers_00000495	contemp	Béclard, Léon	Diplomate français			Consul général de France en Égypte à partir de 1859						
+CoEg_pers_00000496	contemp	Wadi										
+CoEg_pers_00000497	contemp	Wood										
+CoEg_pers_00000498	contemp	Gabet, Théobald	Égyptologue	1818	1869	Conservateur adjoint et inspecteur des fouilles de 1859 à 1866						
+CoEg_pers_00000499	contemp	Schmitz, Édouard	Architecte									
+CoEg_pers_00000500	contemp	Masson				Directeur des Travaux publics égyptiens en 1868						
+CoEg_pers_00000501	contemp	Travers, Gustav	Diplomate allemand	1839	1892	Consul d'Allemagne au Caire					https://viaf.org/viaf/336151172689339210003/	https://www.wikidata.org/wiki/Q1556476
+CoEg_pers_00000502	contemp	Saleh Aoïan				Reïs des fouilles à Abousir						
+CoEg_pers_00000503	contemp	Grand				Ingénieur au Caire						
+CoEg_pers_00000504	contemp	Mitton, A.				Fournisseur des perruques utilisées pour la création d'Aïda au Caire						
+CoEg_pers_00000505	contemp	Verdi, Giuseppe	Compositeur	1813	1901			https://catalogue.bnf.fr/ark:/12148/cb139008052	https://data.bnf.fr/ark:/12148/cb139008052	https://www.idref.fr/027453308	https://viaf.org/viaf/22329110/	https://www.wikidata.org/wiki/Q7317
+CoEg_pers_00000506	contemp	Parizot				Mouleur						
+CoEg_pers_00000507	contemp	Mohammed Effendi Sadeh				Secrétaire interprète du service de conservation des antiquités de l'Égypte jusqu'en 1880						
+CoEg_pers_00000508	contemp	Ahmad Kamal Pacha	Égyptologue	1849	1923			https://catalogue.bnf.fr/ark:/12148/cb12112526c	https://data.bnf.fr/ark:/12148/cb12112526c	https://www.idref.fr/097937452	https://viaf.org/viaf/92349964/	https://www.wikidata.org/wiki/Q329705
+CoEg_pers_00000509	contemp	Erfan Bey	Haut fonctionnaire égyptien			Administrateur des biens du vice-roi Saïd Pacha						
+CoEg_pers_00000510	hist	Sésostris III	Roi d'Égypte (XIIe dynastie)					https://catalogue.bnf.fr/12049333	https://data.bnf.fr/12049333	https://www.idref.fr/083207708	https://viaf.org/viaf/316434972	https://www.wikidata.org/wiki/Q19248
+CoEg_pers_00000511	hist	Cléopâtre VII	Reine d'Égypte	69	30			https://catalogue.bnf.fr/ark:/12148/cb11938532d	https://data.bnf.fr/ark:/12148/cb11938532d	https://www.idref.fr/027316564	https://viaf.org/viaf/67762941/	https://www.wikidata.org/wiki/Q635
+CoEg_pers_00000512	hist	Pompée	Homme d'État romain	106	48			https://catalogue.bnf.fr/ark:/12148/cb11938643b	https://data.bnf.fr/ark:/12148/cb11938643b	https://www.idref.fr/027318001	https://viaf.org/viaf/6224297/	https://www.wikidata.org/wiki/Q125414
 CoEg_pers_imn	contemp	À identifier				Personne non encore identifiée						
