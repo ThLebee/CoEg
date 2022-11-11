@@ -1821,6 +1821,120 @@
             <idno type="VIAF">https://viaf.org/viaf/24733588/</idno>
             <idno type="Wikidata">https://www.wikidata.org/wiki/Q709657</idno>
             <note type="def">Historien d'art et orientaliste (1831-1922). Conservateur adjoint des antiques et de la sculpture moderne au musée du Louvre (1870-1881).</note></person>
+          <person xml:id="CoEg_pers_00000474" role="contemp">
+            <persName>Barthélémy-Saint Hilaire, Jules</persName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb11890421m</idno>
+            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb11890421m</idno>
+            <idno type="IdRef">https://www.idref.fr/026707683</idno>
+            <idno type="VIAF">https://viaf.org/viaf/31992507/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q1332164</idno>
+            <note type="def">Homme d'État (1805-1895). Proche collaborateur de Lesseps.</note></person>
+          <person xml:id="CoEg_pers_00000475" role="contemp">
+            <persName>Koenig Bey, Mathieu Auguste</persName>
+            <note type="def">Orientaliste (1802-1865). Secrétaire des commandements du vice-roi Saïd Pacha.</note></person>
+          <person xml:id="CoEg_pers_00000476" role="contemp">
+            <persName>Khosrow Bey</persName></person>
+          <person xml:id="CoEg_pers_00000477" role="contemp">
+            <persName>Atouch abou Faïd</persName>
+            <note type="def">Reïs des fouilles à Gizah.</note></person>
+          <person xml:id="CoEg_pers_00000478" role="contemp">
+            <persName>Ibrahim abou Hagazeh</persName>
+            <note type="def">Reïs des fouilles à Mit Rahinah.</note></person>
+          <person xml:id="CoEg_pers_00000479" role="contemp">
+            <persName>Roubi abou Khamsaoui</persName>
+            <note type="def">Reïs des fouilles à Saqqarah.</note></person>
+          <person xml:id="CoEg_pers_00000480" role="contemp">
+            <persName>Mohammed Damarani</persName>
+            <note type="def">Reïs des fouilles à Karnak.</note></person>
+          <person xml:id="CoEg_pers_00000481" role="contemp">
+            <persName>Diab ben Timsah</persName>
+            <note type="def">Reïs des fouilles à Karnak.</note></person>
+          <person xml:id="CoEg_pers_00000482" role="contemp">
+            <persName>Aouad</persName>
+            <note type="def">Reïs des fouilles à Gournah.</note></person>
+          <person xml:id="CoEg_pers_00000483" role="contemp">
+            <persName>Aly</persName>
+            <note type="def">Reïs des fouilles à Gournah.</note></person>
+          <person xml:id="CoEg_pers_00000484" role="contemp">
+            <persName>Moustapha Agha</persName>
+            <note type="def">Cawas des fouilles à Gournah ; agent consulaire britannique à Louqsor.</note></person>
+          <person xml:id="CoEg_pers_00000485" role="contemp">
+            <persName>Moussa Bey</persName></person>
+          <person xml:id="CoEg_pers_00000488" role="contemp">
+            <persName>Chaillan, Louis</persName>
+            <note type="def">Éphémère inspecteur des fouilles (1860).</note></person>
+          <person xml:id="CoEg_pers_00000489" role="contemp">
+            <persName>Fadl Pacha</persName>
+            <note type="def">Moudir de Qéna.</note></person>
+          <person xml:id="CoEg_pers_00000492" role="contemp">
+            <persName>Zéki Bey</persName></person>
+          <person xml:id="CoEg_pers_00000493" role="contemp">
+            <persName>Lord Dufferin</persName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb13325718q</idno>
+            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb13325718q</idno>
+            <idno type="IdRef">https://www.idref.fr/090400844</idno>
+            <idno type="VIAF">https://viaf.org/viaf/29677139/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q336374</idno>
+            <note type="def">Diplomate britannique (1826-1902).</note></person>
+          <person xml:id="CoEg_pers_00000494" role="contemp">
+            <persName>Robert Colquhoun</persName>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q7344788</idno>
+            <note type="def">Diplomate britannique (1803-1870).</note></person>
+          <person xml:id="CoEg_pers_00000495" role="contemp">
+            <persName>Béclard, Léon</persName>
+            <note type="def">Diplomate français. Consul général de France en Égypte à partir de 1859.</note></person>
+          <person xml:id="CoEg_pers_00000496" role="contemp">
+            <persName>Wadi</persName></person>
+          <person xml:id="CoEg_pers_00000497" role="contemp">
+            <persName>Wood</persName></person>
+          <person xml:id="CoEg_pers_00000498" role="contemp">
+            <persName>Gabet, Théobald</persName>
+            <note type="def">Égyptologue (1818-1869). Conservateur adjoint et inspecteur des fouilles de 1859 à 1866.</note></person>
+          <person xml:id="CoEg_pers_00000499" role="contemp">
+            <persName>Schmitz, Édouard</persName>
+            <note type="def">Architecte.</note></person>
+          <person xml:id="CoEg_pers_00000500" role="contemp">
+            <persName>Masson</persName>
+            <note type="def">Directeur des Travaux publics égyptiens en 1868.</note></person>
+          <person xml:id="CoEg_pers_00000501" role="contemp">
+            <persName>Travers, Gustav</persName>
+            <idno type="VIAF">https://viaf.org/viaf/336151172689339210003/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q1556476</idno>
+            <note type="def">Diplomate allemand (1839-1892). Consul d'Allemagne au Caire.</note></person>
+          <person xml:id="CoEg_pers_00000502" role="contemp">
+            <persName>Saleh Aoïan</persName>
+            <note type="def">Reïs des fouilles à Abousir.</note></person>
+          <person xml:id="CoEg_pers_00000503" role="contemp">
+            <persName>Grand</persName>
+            <note type="def">Ingénieur au Caire.</note></person>
+          <person xml:id="CoEg_pers_00000504" role="contemp">
+            <persName>Mitton, A.</persName>
+            <note type="def">Fournisseur des perruques utilisées pour la création d'Aïda au Caire.</note></person>
+          <person xml:id="CoEg_pers_00000505" role="contemp">
+            <persName>Verdi, Giuseppe</persName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb139008052</idno>
+            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb139008052</idno>
+            <idno type="IdRef">https://www.idref.fr/027453308</idno>
+            <idno type="VIAF">https://viaf.org/viaf/22329110/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q7317</idno>
+            <note type="def">Compositeur (1813-1901).</note></person>
+          <person xml:id="CoEg_pers_00000506" role="contemp">
+            <persName>Parizot</persName>
+            <note type="def">Mouleur.</note></person>
+          <person xml:id="CoEg_pers_00000507" role="contemp">
+            <persName>Mohammed Effendi Sadeh</persName>
+            <note type="def">Secrétaire interprète du service de conservation des antiquités de l'Égypte jusqu'en 1880.</note></person>
+          <person xml:id="CoEg_pers_00000508" role="contemp">
+            <persName>Ahmad Kamal Pacha</persName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb12112526c</idno>
+            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb12112526c</idno>
+            <idno type="IdRef">https://www.idref.fr/097937452</idno>
+            <idno type="VIAF">https://viaf.org/viaf/92349964/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q329705</idno>
+            <note type="def">Égyptologue (1849-1923).</note></person>
+          <person xml:id="CoEg_pers_00000509" role="contemp">
+            <persName>Erfan Bey</persName>
+            <note type="def">Haut fonctionnaire égyptien. Administrateur des biens du vice-roi Saïd Pacha.</note></person>
         </listPerson>
         <listPerson>
           <head>Personnages historiques</head>
@@ -1866,7 +1980,7 @@
             <persName>Nectanébo II</persName>
             <idno type="VIAF">https://viaf.org/viaf/45098268</idno>
             <idno type="Wikidata">https://www.wikidata.org/wiki/Q313126</idno>
-            <note type="def">Roi d'Égypte. Confondu par Mariette avec 	<persName sameAs="https://thlebee.github.io/CoEg/doc/CoEg_Index.xml#CoEg_pers_00000013">Nectanébo Ier</persName> (Lauer, Jean-Philippe, « Mariette à Sakkarah. Du Sérapéum à la direction des antiquités », dans Mélanges Mariette (Bibliothèque d'études 32), Le Caire, Institut français d'archéologie orientale, 1961, p. 3-55, p. 7, n. 2 [https://archive.org/details/BdE-32/page/n9/mode/2up]).</note></person>
+            <note type="def">Roi d'Égypte. Confondu par Mariette avec <persName sameAs="https://thlebee.github.io/CoEg/doc/CoEg_Index.xml#CoEg_pers_00000013">Nectanébo Ier</persName> (Lauer, Jean-Philippe, « Mariette à Sakkarah. Du Sérapéum à la direction des antiquités », dans Mélanges Mariette (Bibliothèque d'études 32), Le Caire, Institut français d'archéologie orientale, 1961, p. 3-55, p. 7, n. 2 [https://archive.org/details/BdE-32/page/n9/mode/2up]).</note></person>
           <person xml:id="CoEg_pers_00000055" role="hist">
             <persName>Artaxerxès III</persName>
             <idno type="Wikidata">https://www.wikidata.org/wiki/Q192867</idno>
@@ -2675,6 +2789,38 @@
             <idno type="VIAF">https://viaf.org/viaf/24611480/</idno>
             <idno type="Wikidata">https://www.wikidata.org/wiki/Q5241092</idno>
             <note type="def">Orientaliste (1685-1745).</note></person>
+          <person xml:id="CoEg_pers_00000487" role="hist">
+            <persName>Aménirdis Ire</persName>
+            <idno type="VIAF">https://viaf.org/viaf/13385335/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q270393</idno>
+            <note type="def">Princesse d'Égypte (XXVe dynastie) et divine adoratrice d'Amon.</note></person>
+          <person xml:id="CoEg_pers_00000491" role="hist">
+            <persName>Iâhhotep</persName>
+            <note type="def">Reine d'Égypte (XVIIe dynastie).</note></person>
+          <person xml:id="CoEg_pers_00000510" role="hist">
+            <persName>Sésostris III</persName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/12049333</idno>
+            <idno type="dataBnF">https://data.bnf.fr/12049333</idno>
+            <idno type="IdRef">https://www.idref.fr/083207708</idno>
+            <idno type="VIAF">https://viaf.org/viaf/316434972</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q19248</idno>
+            <note type="def">Roi d'Égypte (XIIe dynastie).</note></person>
+          <person xml:id="CoEg_pers_00000511" role="hist">
+            <persName>Cléopâtre VII</persName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb11938532d</idno>
+            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb11938532d</idno>
+            <idno type="IdRef">https://www.idref.fr/027316564</idno>
+            <idno type="VIAF">https://viaf.org/viaf/67762941/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q635</idno>
+            <note type="def">Reine d'Égypte (69-30).</note></person>
+          <person xml:id="CoEg_pers_00000512" role="hist">
+            <persName>Pompée</persName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb11938643b</idno>
+            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb11938643b</idno>
+            <idno type="IdRef">https://www.idref.fr/027318001</idno>
+            <idno type="VIAF">https://viaf.org/viaf/6224297/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q125414</idno>
+            <note type="def">Homme d'État romain (106-48).</note></person>
         </listPerson>
         <listPerson>
           <head>Figures mythologiques ou religieuses</head>
@@ -2910,6 +3056,14 @@
             <idno type="VIAF">https://viaf.org/viaf/147328714/</idno>
             <idno type="Wikidata">https://www.wikidata.org/wiki/Q128267</idno>
             <note type="def">Personnage biblique.</note></person>
+          <person xml:id="CoEg_pers_00000490" role="myth">
+            <persName>Khonsou</persName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb16659121g</idno>
+            <idno type="dataBnF">https://data.bnf.fr/fr/16659121</idno>
+            <idno type="IdRef">https://www.idref.fr/241473381</idno>
+            <idno type="VIAF">https://viaf.org/viaf/316451215/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q190521</idno>
+            <note type="def">Dieu égyptien.</note></person>
         </listPerson>
       </div>
 
@@ -3345,6 +3499,23 @@
             <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb149609031</idno>
             <idno type="Wikidata">https://www.wikidata.org/wiki/Q59419393</idno>
           </org>
+          <org xml:id="CoEg_org_00000083">
+            <orgName>Daïrah Sanieh</orgName>
+            <note>structure gérant une partie du patrimoine du vice-roi d'Égypte</note></org>
+          <org xml:id="CoEg_org_00000084">
+            <orgName>Empire d'Allemagne</orgName>
+            <idno type="IdRef">https://www.idref.fr/030685435</idno>
+            <idno type="VIAF">https://viaf.org/viaf/189116956/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q183</idno>
+            <note>(en tant qu'État ; voir l'index géographique pour le territoire correspondant). Gouvernement et administration de l'Empire d'Allemagne</note></org>
+          <org xml:id="CoEg_org_00000085">
+            <orgName>École d'égyptologie de Brugsch</orgName>
+            <note>École conçue par Heinrich Brugsch pour enseigner l'égyptologie à des Égyptiens (1869-1873)</note></org>
+          <org xml:id="CoEg_org_00000086">
+            <orgName>École pratique des hautes études</orgName>
+            <idno type="IdRef">https://www.idref.fr/026375478</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q273631</idno></org>
+
         </listOrg>
       </div>
       <div>
@@ -4640,6 +4811,49 @@
           <idno type="GeoNames">https://www.geonames.org/2988430</idno>
           <idno type="Trismegistos">https://www.trismegistos.org/place/24821</idno>
           <idno type="Wikidata">https://www.wikidata.org/wiki/Q12689</idno></place>
+        <place xml:id="CoEg_place_00000209"><placeName>Menschih el-Ramleh</placeName>
+          <location><geo>30,44073, 31,1573</geo></location>
+          <idno type="GeoName">https://www.geonames.org/360135</idno></place>
+        <place xml:id="CoEg_place_00000210">
+          <placeName>Tell Yahoudieh</placeName><idno type="Pleiades">https://pleiades.stoa.org/places/727146</idno><idno type="Wikidata">https://www.wikidata.org/wiki/Q2372919</idno><note type="def">(تلّ اليهودية [Tall al-Yahūdīyah])</note></place>
+        <place xml:id="CoEg_place_00000211">
+          <placeName>Médinet el-Faris</placeName>
+          <location><geo>29,322473, 30,833487</geo></location>
+          <idno type="Pleiades">https://pleiades.stoa.org/places/736948</idno>
+          <idno type="Trismegistos">https://www.trismegistos.org/place/327</idno>
+          <idno type="Wikidata">https://www.wikidata.org/wiki/Q12236790</idno></place>
+        <place xml:id="CoEg_place_00000212">
+          <placeName>Wardan</placeName></place>
+        <place xml:id="CoEg_place_00000213">
+          <placeName>Qéna</placeName>
+          <location><geo>26,166667, 32,716667</geo></location>
+          <idno type="GeoName">https://www.geonames.org/350550</idno>
+          <idno type="Pleiades">https://pleiades.stoa.org/places/786047</idno>
+          <idno type="Trismegistos">https://www.trismegistos.org/place/952</idno>
+          <idno type="Wikidata">https://www.wikidata.org/wiki/Q336661</idno>
+          <note type="def">(قنا [Qinā]) </note></place>
+        <place xml:id="CoEg_place_00000216">
+          <placeName>Arabet el-Madfouneh</placeName>
+          <location><geo>26,175, 31,911111</geo></location>
+          <idno type="GeoName">https://www.geonames.org/357946</idno>
+          <idno type="Wikidata">https://www.wikidata.org/wiki/Q5350763</idno>
+          <note type="def">(العربة المدفونة [al-ʿArabat al-Madfūnah])</note></place>
+        <place xml:id="CoEg_place_00000214">
+          <placeName>Tourah</placeName>
+          <location><geo>29,939279, 31,290007</geo></location>
+          <idno type="GeoName">https://www.geonames.org/347194</idno>
+          <idno type="Trismegistos">https://www.trismegistos.org/place/2480</idno>
+          <idno type="Wikidata">https://www.wikidata.org/wiki/Q1027627</idno>
+          <note type="def">(طره [Ṭurah])</note></place>
+        <place xml:id="CoEg_place_00000215">
+          <placeName>Semnah</placeName>
+          <location><geo>21,5, 30,966667</geo></location>
+          <idno type="GeoName">https://www.geonames.org/367456</idno>
+          <idno type="Pleiades">https://pleiades.stoa.org/places/766402</idno>
+          <idno type="Trismegistos">https://www.trismegistos.org/place/3474</idno>
+          <idno type="Wikidata">https://www.wikidata.org/wiki/Q1485667</idno>
+          <note type="def">(سمنة [Semnah])</note></place>
+
       </listPlace>
     </div>
       <div>
@@ -5296,6 +5510,24 @@
               <date>1872</date>
               <biblScope>p. 198-199</biblScope></bibl>
             <bibl xml:id="CoEg_bibl_00000133">
+              <author><persName sameAs="CoEg_pers_00000001">Mariette, Auguste</persName></author>
+              <title type="monogr">Thèbes</title></bibl>
+            <bibl xml:id="CoEg_bibl_00000134">
+              <author><persName sameAs="CoEg_pers_00000001">Mariette, Auguste</persName></author>
+              <title type="monogr">Memphis</title></bibl>
+            <bibl xml:id="CoEg_bibl_00000135">
+              <author><persName sameAs="CoEg_pers_00000001">Mariette, Auguste</persName></author>
+              <title type="monogr">Dissertation historique et archéologique sur les différents noms de Boulogne dans l'Antiquité</title>
+              <pubPlace>Boulogne-sur-Mer</pubPlace>
+              <publisher>Le Roy-Mabille</publisher>
+              <date>1847</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000136">
+              <author><persName sameAs="CoEg_pers_00000149">Lajard, Félix</persName></author>
+              <title type="monogr">Introduction à l'étude du culte public et des mystères de Mithra en Orient et en Occident</title>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Imprimerie royale</publisher>
+              <date>1847</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000137">
               <author><persName sameAs="CoEg_pers_00000244">Desjardins, Ernest</persName></author>
               <title type="article">Découvertes de M. Mariette, en Égypte</title>
               <title type="monogr" n="18">La revue générale de l'architecture</title>
@@ -6517,6 +6749,14 @@
               <physDesc><objectDesc form="stela"/></physDesc>
             <history><provenance sameAs="CoEg_place_00000007">Gizah</provenance></history>
             <note type="def">« Stèle de l'inventaire » (XXVIe dynastie, Gizah)</note></object>
+          <object xml:id="CoEg_obj_00000090">
+            <objectIdentifier>
+              <institution sameAs="#CoEg_coll_00000022">Musée du Caire</institution>
+              <idno type="M-Caire">CG 565 (JE 3420)</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Q23054821</idno></objectIdentifier>
+              <physDesc><objectDesc form="statue"/></physDesc>
+            <history><provenance sameAs="CoEg_place_00000117">Karnak</provenance></history>
+            <note type="def">Statue d'Aménirdis Ire (XXVe dynastie, Karnak)</note></object>
         </listObject>
       </div>
 
@@ -6546,7 +6786,7 @@
           <ref type="CNRTL">https://www.cnrtl.fr/definition/firman</ref></entry>
         <entry xml:id="CoEg_entry_00000006">
           <form>drogman</form>
-          <note>De l’arabe تُرْجُمَان [turjuman] « guide, interprète ». Agent auxiliaire des consulats ou des étrangers en voyage.</note>
+          <note>De l’arabe تُرْجُمَان [turǧuman] « guide, interprète ». Agent auxiliaire des consulats ou des étrangers en voyage.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q1136290</ref>
           <ref type="CNRTL">https://www.cnrtl.fr/definition/drogman</ref></entry>
         <entry xml:id="CoEg_entry_00000007">
@@ -6595,7 +6835,7 @@
           <note>De l’arabe شَيْخ الْبَلَد‎ [šayḫ al-balad], « chef de village ».</note></entry>
         <entry xml:id="CoEg_entry_00000017">
           <form>medjidie</form>
-          <note>Du turc ottoman مجیدی [mejīdī] « de (Abdül)-Mecid (II) », pièce de monnaie ottomane en argent.</note>
+          <note>Du turc ottoman مجیدی [meǧīdī] « de (Abdül)-Mecid (II) », pièce de monnaie ottomane en argent.</note>
           <note type="Mariette">Mariette semble écrire "midjidi".</note></entry>
         <entry xml:id="CoEg_entry_00000018">
           <form>ad hoc</form>
@@ -6603,7 +6843,7 @@
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q192683</ref>
           <ref type="CNRTL">https://www.cnrtl.fr/definition/ad hoc</ref></entry>
         <entry xml:id="CoEg_entry_00000019">
-          <form>cawass</form>
+          <form>qawas</form>
           <note>De l’arabe قَوَّاس [qawwās] (Thatcher, G. W., Arabic grammar of the written language, Londres – Heidelberg, 1911, p. 271), huissier.</note>
           <ref type="CNRTL">https://www.cnrtl.fr/definition/cawas</ref></entry>
         <entry xml:id="CoEg_entry_00000020">
@@ -6711,7 +6951,7 @@
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q1778332</ref></entry>
         <entry xml:id="CoEg_entry_00000044">
           <form>medjidie</form>
-          <note>Du turc ottoman مجیدی [mejīdī] « de (Abdül)-Mecid (II) », décoration honorifique ottomane.</note>
+          <note>Du turc ottoman مجیدی [meǧīdī] « de (Abdül)-Mecid (II) », décoration honorifique ottomane.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q599024</ref>
           <ref type="CNRTL">https://www.cnrtl.fr/definition/medjidi%C3%A9</ref></entry>
         <entry xml:id="CoEg_entry_00000045">
@@ -6818,6 +7058,40 @@
           <note>De l'arabe حريم [ḥarīm], « lieu consacré », appartement des femmes.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q165853</ref>
           <ref type="CNRTL">https://www.cnrtl.fr/definition/harem</ref></entry>
+        <entry xml:id="CoEg_entry_00000067">
+          <form>nazir el-kism</form>
+          <note>De l'arabe نَاظِر القسم [nāẓir al-qism] « inspecteur du canton ».</note></entry>
+        <entry xml:id="CoEg_entry_00000068">
+          <form>vakil</form>
+          <note>De l'arabe وَكِيل [wakīl] « agent, adjoint ».</note>
+          <ref type="Wikidata">https://www.wikidata.org/wiki/Q22909693</ref></entry>
+        <entry xml:id="CoEg_entry_00000069">
+          <form>rishi</form>
+          <note>De l'arabe  ريشة [rīšah] « plume » ; désigne les cercueils de la Deuxième Période intermédiaire, décorés de motifs de plumes.</note>
+          <ref type="Wikidata">https://www.wikidata.org/wiki/Q2154652</ref></entry>
+        <entry xml:id="CoEg_entry_00000070">
+          <form>agha</form><note>Du turc ottoman  آغا‎ [āğā] « chef ».</note>
+          <ref type="Wikidata">https://www.wikidata.org/wiki/Q393436</ref></entry>
+        <entry xml:id="CoEg_entry_00000071">
+          <form>nazir</form><note>De l'arabe نَاظِر [nāẓir] « inspecteur, intendant ».</note>
+          <ref type="Wikidata">https://www.wikidata.org/wiki/Q65121941</ref><ref type="CNRTL">https://www.cnrtl.fr/definition/nazir</ref></entry>
+        <entry xml:id="CoEg_entry_00000072">
+          <form>Gamed Aker</form><note>De l'arabe جُمَادَىٰ ٱلْآخِر  [Ǧumādā al-ʾĀkhir] « dernier mois de Jumada ».</note>
+          <ref type="Wikidata">https://www.wikidata.org/wiki/Q822218</ref></entry>
+        <entry xml:id="CoEg_entry_00000073">
+          <form>chounah</form><note>De l'arabe égyptien شُونَة [šūnah] « grenier », d'où « magasin, réserve ».</note></entry>
+        <entry xml:id="CoEg_entry_00000074">
+          <form>daïrah</form><note>De l'arabe دائرة [dāʾirah] « cercle », structure administrative, notamment la Daïrah Sanieh.</note></entry>
+        <entry xml:id="CoEg_entry_00000075">
+          <form>bakchich</form><note>Du persan بخشش [baḫšeš] « don », d'où « pourboire, pot-de-vin ».</note>
+          <ref type="Wikidata">https://www.wikidata.org/wiki/Q305459</ref>
+          <ref type="CNRTL">https://www.cnrtl.fr/definition/bakchich</ref></entry>
+        <entry xml:id="CoEg_entry_00000076">
+          <form>moharrem</form><note>De l'arabe مُحَرَّمٌ [muḥarram], premier mois de l'année.</note>
+          <ref type="Wikidata">https://www.wikidata.org/wiki/Q1952053</ref></entry>
+        <entry xml:id="CoEg_entry_00000077">
+          <form>zilhidgé</form><note>De l'arabe ذو الحجة [ḍū al-ḥaǧah], dernier mois de l'année.</note>
+          <ref type="Wikidata">https://www.wikidata.org/wiki/Q186022</ref></entry>
       </div>
 
       <div>
