@@ -1,0 +1,16 @@
+++JSesh_Info 1.0 +s
+++JSesh_use_lines_for_shading true +s
+++JSesh_max_quadrant_width 22.0 +s
+++JSesh_line_skip 6.0 +s
+++JSesh_small_skip 2.0 +s
+++JSesh_column_skip 10.0 +s
+++JSesh_standard_sign_height 18.0 +s
+++JSesh_small_body_scale_limit 12.0 +s
+++JSesh_cartouche_line_width 1.0 +s
+++JSesh_small_sign_centered true +s
+++JSesh_page_direction LEFT_TO_RIGHT +s
+++JSesh_max_quadrantHeight 18.0 +s
+++JSesh_page_orientation HORIZONTAL +s
+G28-G17-N35:X1-G43-I9:D21-O6-X1:O1-F30:D46-N12:N14-D46:O49-!
+G17-M3:Aa1*X1-N12:N14-N5:Z2-F47\\R180:D21-S29-N35:Z2-K1:Z2-M17-D46-V28-M139B-M17-G1-N16:V30-!
+G43-D21:V23-V28-M139B-O49
