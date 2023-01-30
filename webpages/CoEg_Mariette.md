@@ -59,7 +59,7 @@ nav-menu: true
 	</div>
 		<hr>
 	<h3>Lieux mentionnés dans les lettres</h3>
-<p>Cette carte indique les lieux indexés dans les lettres de Mariette. Leur description plus détaillée des lieux est accessible dans l’<a href="{{site.baseurl}}/webpages/data">index</a>.</p>
+<p>Cette carte indique les lieux indexés dans les lettres de Mariette. La description plus détaillée des lieux est accessible dans l’<a href="{{site.baseurl}}/webpages/data">index</a>.</p>
 			<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux_461360?scaleControl=false&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#5/37.996/25.884"></iframe>
 			<center><p><a href="//umap.openstreetmap.fr/fr/map/correspondances-egyptologiques-lieux_461360" class="button small">Voir en plein écran</a></p></center>
 </section>
