@@ -19,7 +19,7 @@ nav-menu: true
 
 <p>Les lettres peuvent être téléchargées sous plusieurs formats&nbsp;:
 <ul>
-	<li>Une édition PDF qui permet de consulter le corpus, (à consulter <a href="https://github.com/ThLebee/CoEg/blob/gh-pages/doc/CoEg_Mariette.pdf">sur Github</a>, <a href="https://raw.githubusercontent.com/ThLebee/CoEg/gh-pages/doc/CoEg_Mariette.pdf">dans le navigateur</a> ou <a href="{{site.baseurl}}/doc/CoEg_Mariette.pdf" download>télécharger</a>&nbsp;;</li>
+	<li>Une édition PDF qui permet de consulter le corpus, à consulter <a href="https://github.com/ThLebee/CoEg/blob/gh-pages/doc/CoEg_Mariette.pdf">sur Github</a>, <a href="https://raw.githubusercontent.com/ThLebee/CoEg/gh-pages/doc/CoEg_Mariette.pdf">dans le navigateur</a> ou <a href="{{site.baseurl}}/doc/CoEg_Mariette.pdf" download>télécharger</a>&nbsp;;</li>
 	<li>Le fichier Latex qui a permis de générer l’édition PDF, accessible <a href="https://github.com/ThLebee/CoEg/blob/gh-pages/doc/CoEg_Mariette.tex">sur Github</a> ou <a href="{{site.baseurl}}/doc/CoEg_Mariette.tex" download>en téléchargement</a>&nbsp;;</li>
 	<li>Une édition en XML-TEI&nbsp;: elle aussi consultable <a href="https://github.com/ThLebee/CoEg/blob/gh-pages/doc/CoEg_Mariette.xml">sur Github</a> ou <a href="{{site.baseurl}}/doc/CoEg_Mariette.xml" download>téléchargeable directement</a>.</li></ul></p>
 
