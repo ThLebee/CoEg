@@ -1,3 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="aed_schema.xsd"?>
 <TEI version="4.0.0" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
@@ -1367,7 +1369,7 @@
 						<idno type="Wikidata">https://www.wikidata.org/wiki/Q374306</idno>
 						<note type="def">Khédive d'Égypte (1852-1892).</note></person>
 					<person xml:id="CoEg_pers_00000367" role="contemp">
-            <persName>Miller,  Emmanuel</persName>
+            <persName>Miller, Emmanuel</persName>
 						<idno type="catGenBNF">https://catalogue.bnf.fr/fr/15407922/emmanuel_miller/</idno>
 						<idno type="dataBnF">https://data.bnf.fr/fr/15407922/emmanuel_miller/</idno>
 						<idno type="IdRef">http://www.idref.fr/097911798</idno>
@@ -1634,7 +1636,7 @@
             <persName>Locle (du), Camille</persName>
             <note type="def">Librettiste.</note></person>
           <person xml:id="CoEg_pers_00000437" role="contemp">
-            <persName>Arakal</persName>
+            <persName>Arakel</persName>
             <note type="def">Secrétaire du vice-roi.</note></person>
           <person xml:id="CoEg_pers_00000438" role="contemp">
             <persName>Gastinel-Pacha, docteur Joseph-Bernard</persName>
@@ -1935,6 +1937,173 @@
           <person xml:id="CoEg_pers_00000509" role="contemp">
             <persName>Erfan Bey</persName>
             <note type="def">Haut fonctionnaire égyptien. Administrateur des biens du vice-roi Saïd Pacha.</note></person>
+            <person xml:id="CoEg_pers_00000513" role="contemp">
+              <persName>Daninos Pacha, Albert</persName><note type="def">Égyptologue (1843-1925).</note></person>
+          <person xml:id="CoEg_pers_00000515" role="contemp">
+            <persName>Klinckseick, Friedrich</persName>
+            <idno type="dataBnF">https://www.wikidata.org/wiki/Q3197874</idno></person>
+          <person xml:id="CoEg_pers_00000516" role="contemp">
+            <persName>Grébaut, Eugène</persName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb13498855j</idno>
+            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb13498855j</idno>
+            <idno type="IdRef">https://www.idref.fr/035356235</idno>
+            <idno type="VIAF">https://viaf.org/viaf/27222257/</idno><idno type="Wikidata">https://www.wikidata.org/wiki/Q3059902</idno>
+            <note type="def">Égyptologue (1846-1915).</note></person>
+          <person xml:id="CoEg_pers_00000517" role="contemp">
+            <persName>Boucher de Perthes, Jacques</persName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb12199442p</idno>
+            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb12199442p</idno>
+            <idno type="IdRef">https://www.idref.fr/030614333</idno>
+            <idno type="VIAF">https://viaf.org/viaf/29581175/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q559656</idno>
+            <note type="def">Archéologue (1788-1868).</note></person>
+          <person xml:id="CoEg_pers_00000518" role="contemp">
+            <persName>Dujardin</persName>
+            <note type="def">Graveur.</note>
+            <note type="Mariette">Vraisemblablement Gustave Alexandre, associé à son frère Paul qui reprendra leur affaire familale à partir de 1875.</note></person>
+          <person xml:id="CoEg_pers_00000519" role="contemp">
+            <persName>Simonidès, Konstantinos</persName>
+            <idno type="IdRef">https://www.idref.fr/132482630</idno>
+            <idno type="VIAF">https://viaf.org/viaf/41507833/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q385708</idno>
+            <note type="def">Marchand d'art et faussaire (1820-1890).</note></person>
+          <person xml:id="CoEg_pers_00000520" role="contemp">
+            <persName>Ebers, Georg</persName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb12992978r</idno>
+            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb12992978r</idno>
+            <idno type="IdRef">https://www.idref.fr/070384177</idno>
+            <idno type="VIAF">https://viaf.org/viaf/67259743/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q62765</idno>
+            <note type="def">Égyptologue (1837-1898).</note></person>
+          <person xml:id="CoEg_pers_00000521" role="contemp">
+            <persName>Stern</persName></person>
+          <person xml:id="CoEg_pers_00000522" role="contemp">
+            <persName>Marquet, Mayeur ?</persName>
+            <note type="def">Fondeur.</note></person>
+          <person xml:id="CoEg_pers_00000523" role="contemp">
+            <persName>Lenègre</persName>
+            <note type="def">Relieur.</note></person>
+          <person xml:id="CoEg_pers_00000524" role="contemp">
+            <persName>Oury, Charles</persName>
+            <note type="def">Graveur.</note></person>
+          <person xml:id="CoEg_pers_00000525" role="contemp">
+            <persName>Maspero née Yapp, Harriett</persName></person>
+            <note type="def">Première épouse de Maspero.</note>
+          <person xml:id="CoEg_pers_00000529" role="contemp">
+            <persName>Maspero, Bella</persName></person>
+            <note type="def">Fils de Maspero.</note>
+          <person xml:id="CoEg_pers_00000530" role="contemp">
+            <persName>Maspero, Georges</persName></person>
+            <note type="def">Fils de Maspero.</note>
+          <person xml:id="CoEg_pers_00000531" role="contemp">
+            <persName>Rochemonteix (de), Maxence</persName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb12016084z</idno>
+            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb12016084z</idno>
+            <idno type="IdRef">https://www.idref.fr/028296354</idno>
+            <idno type="VIAF">https://viaf.org/viaf/44310370/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q3302431</idno>
+            <note type="def">Égyptologue (1849-1891).</note></person>
+          <person xml:id="CoEg_pers_00000532" role="contemp">
+            <persName>Naviaux, Georges</persName></person>
+          <person xml:id="CoEg_pers_00000534" role="contemp">
+            <persName>Rost, Hermann</persName></person>
+          <person xml:id="CoEg_pers_00000535" role="contemp">
+            <persName>Amyot</persName></person>
+          <person xml:id="CoEg_pers_00000536" role="contemp">
+            <persName>Hinrichs</persName></person>
+          <person xml:id="CoEg_pers_00000543" role="contemp">
+            <persName>Ismaïl Siddiq Pacha</persName>
+            <idno type="VIAF">https://viaf.org/viaf/75733634/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q22928836</idno>
+            <note type="def">Homme d'État égyptien (1830-1876). ministre des Finances disgracié en 1876.</note></person>
+          <person xml:id="CoEg_pers_00000544" role="contemp">
+            <persName>Daldini (?)</persName>
+            <note type="def">Dessinateur.</note></person>
+          <person xml:id="CoEg_pers_00000547" role="contemp">
+            <persName>Brunet, Joseph</persName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb10727229r</idno>
+            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb10727229r</idno>
+            <idno type="IdRef">https://www.idref.fr/17599949X</idno>
+            <idno type="VIAF">https://viaf.org/viaf/173127175/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q3184674</idno>
+            <note type="def">Homme d'État français (1829-1891). Ministre de l'Instruction publique.</note></person>
+          <person xml:id="CoEg_pers_00000548" role="contemp">
+            <persName>Rougé (de), Jacques</persName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/10575509</idno>
+            <idno type="dataBnF">https://data.bnf.fr/10575509</idno>
+            <idno type="IdRef">http://www.idref.fr/032622988</idno>
+            <idno type="VIAF">http://viaf.org/viaf/190493626</idno>
+            <idno type="Wikidata">http://wikidata.org/entity/Q28790249</idno>
+            <note type="def">Égyptologue (1841-1923).</note></person>
+          <person xml:id="CoEg_pers_00000549" role="contemp">
+            <persName>Senlis, Mme</persName></person>
+          <person xml:id="CoEg_pers_00000550" role="contemp">
+            <persName>Senlis, Auguste</persName></person>
+          <person xml:id="CoEg_pers_00000553" role="contemp">
+            <persName>Bernard, Claude</persName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb11891495d</idno>
+            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb11891495d</idno>
+            <idno type="IdRef">https://www.idref.fr/026721902</idno>
+            <idno type="VIAF">https://viaf.org/viaf/73849966/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q208230</idno>
+            <note type="def">Médecin (1813-1878).</note></person>
+          <person xml:id="CoEg_pers_00000554" role="contemp">
+            <persName>Bignon, Louis</persName>
+            <idno type="IdRef">https://www.idref.fr/183915097</idno>
+            <idno type="VIAF">https://viaf.org/viaf/315087518/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q15040607</idno>
+            <note type="def">Homme d'État français (1816-1906).</note></person>
+          <person xml:id="CoEg_pers_00000555" role="contemp">
+            <persName>Renan, Noëmi</persName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb12185802c</idno>
+            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb12185802c</idno>
+            <idno type="IdRef">https://www.idref.fr/030444942</idno>
+            <idno type="VIAF">https://viaf.org/viaf/7434536/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q56118594</idno>
+            <note type="def">Femme de lettres (1862-1943). Fille d'Ernest Renan.</note></person>
+          <person xml:id="CoEg_pers_00000556" role="contemp">
+            <persName>Renan, Ary</persName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb132056792</idno>
+            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb132056792</idno>
+            <idno type="IdRef">https://www.idref.fr/050153714</idno>
+            <idno type="VIAF">https://viaf.org/viaf/32141463/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q2866094</idno>
+            <note type="def">Peintre (1857-1900). Fils d'Ernest Renan.</note></person>
+          <person xml:id="CoEg_pers_00000557" role="contemp">
+            <persName>Paris, Gaston</persName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb119186239</idno>
+            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb119186239</idno>
+            <idno type="IdRef">https://www.idref.fr/027058352</idno>
+            <idno type="VIAF">https://viaf.org/viaf/39382261/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q514741</idno>
+            <note type="def">Historien (1839-1903).</note></person>
+          <person xml:id="CoEg_pers_00000558" role="contemp">
+            <persName>Hauréau, Jean-Barthélémy</persName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb11907016x</idno>
+            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb11907016x</idno>
+            <idno type="IdRef">https://www.idref.fr/026916215</idno>
+            <idno type="VIAF">https://viaf.org/viaf/7391370/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q347539</idno>
+            <note type="def">Historien (1812-1896). Directeur de l'Imprimerie nationale de 1870 à 1882.</note></person>
+          <person xml:id="CoEg_pers_00000559" role="contemp">
+            <persName>Naville, Édouard</persName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb130842342</idno>
+            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb130842342</idno>
+            <idno type="IdRef">https://www.idref.fr/031957927</idno>
+            <idno type="VIAF">https://viaf.org/viaf/22277258/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q115746</idno>
+            <note type="def">Égyptologue (1844-1926).</note></person>
+          <person xml:id="CoEg_pers_00000561" role="contemp">
+            <persName>Brugsch, Emil</persName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb15068679z</idno>
+            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb15068679z</idno>
+            <idno type="IdRef">https://www.idref.fr/066511933</idno>
+            <idno type="VIAF">https://viaf.org/viaf/27353725/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q73057</idno>
+            <note type="def">Égyptologue (1842-1930).</note></person>
+          <person xml:id="CoEg_pers_00000562" role="contemp">
+            <persName>Nubar Pacha, Mme</persName></person>
+
         </listPerson>
         <listPerson>
           <head>Personnages historiques</head>
@@ -2821,7 +2990,77 @@
             <idno type="VIAF">https://viaf.org/viaf/6224297/</idno>
             <idno type="Wikidata">https://www.wikidata.org/wiki/Q125414</idno>
             <note type="def">Homme d'État romain (106-48).</note></person>
+          <person xml:id="CoEg_pers_00000514" role="hist">
+            <persName>Touya</persName>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q270381</idno>
+            <note type="def">Reine d'Égypte (XIXe dynastie).</note></person>
+          <person xml:id="CoEg_pers_00000526" role="hist">
+            <persName>Thoutmosis Ier</persName>
+            <idno type="VIAF">https://viaf.org/viaf/35862203/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q157962</idno>
+            <note type="def">Roi d'Égypte (XVIIIe dynastie).</note></person>
+          <person xml:id="CoEg_pers_00000527" role="hist">
+            <persName>Thoutmosis IV</persName>
+            <idno type="VIAF">https://viaf.org/viaf/26233914/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q157985</idno>
+            <note type="def">Roi d'Égypte (XVIIIe dynastie).</note></person>
+          <person xml:id="CoEg_pers_00000528" role="hist">
+            <persName>Ramsès V</persName>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q4064</idno>
+            <note type="def">Roi d'Égypte (XXe dynastie).</note></person>
+          <person xml:id="CoEg_pers_00000533" role="hist">
+            <persName>Antef l'Ancien</persName>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q571686</idno>
+            <note type="def">Prince égyptien (XIe dynastie).</note></person>
+          <person xml:id="CoEg_pers_00000537" role="hist">
+            <persName>Pentaour</persName>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q3374904</idno>
+            <note type="def">Écrivain égyptien.</note></person>
+          <person xml:id="CoEg_pers_00000539" role="hist">
+            <persName>Péretié, Aimé</persName>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q85290775</idno>
+            <note type="def">(1808-1882).</note></person>
+          <person xml:id="CoEg_pers_00000540" role="hist">
+            <persName>Broca, Paul</persName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb11894093b</idno>
+            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb11894093b</idno>
+            <idno type="IdRef">https://www.idref.fr/026753804</idno>
+            <idno type="VIAF">https://viaf.org/viaf/14766849/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q311276</idno></person>
+          <person xml:id="CoEg_pers_00000541" role="hist">
+            <persName>Ebner, Florian</persName>
+            <note type="def">Libraire cairote.</note></person>
+          <person xml:id="CoEg_pers_00000542" role="hist">
+            <persName>Taouret</persName>
+            <note type="def">Dame égyptienne.</note></person>
+          <person xml:id="CoEg_pers_00000545" role="hist">
+            <persName>Ésope</persName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb11929800n</idno>
+            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb11929800n</idno>
+            <idno type="IdRef">https://www.idref.fr/027205444</idno>
+            <idno type="VIAF">https://viaf.org/viaf/64013451/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q43423</idno>
+            <note type="def">Fabuliste grec.</note></person>
+          <person xml:id="CoEg_pers_00000546" role="hist">
+            <persName>Djéhoutymès</persName>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q632254</idno>
+            <note type="def">Prince égyptien.</note></person>
+          <person xml:id="CoEg_pers_00000551" role="hist">
+            <persName>Ti</persName>
+            <note type="def">Haut fonctionnaire égyptien (Ve dynastie).</note></person>
+          <person xml:id="CoEg_pers_00000552" role="hist">
+            <persName>Ptahhotep</persName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb12326706t</idno>
+            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb12326706t</idno>
+            <idno type="IdRef">https://www.idref.fr/03218803X</idno>
+            <idno type="VIAF">https://viaf.org/viaf/95218359/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q573606</idno>
+            <note type="def">Haut fonctionnaire et moraliste égyptien.</note></person>
+          <person xml:id="CoEg_pers_00000560" role="hist">
+            <persName>Tany</persName>
+            <note type="def">Dame de la XXVe-XVIe dynastie.</note></person>
         </listPerson>
+
         <listPerson>
           <head>Figures mythologiques ou religieuses</head>
           <person xml:id="CoEg_pers_00000011" role="myth">
@@ -3064,7 +3303,25 @@
             <idno type="VIAF">https://viaf.org/viaf/316451215/</idno>
             <idno type="Wikidata">https://www.wikidata.org/wiki/Q190521</idno>
             <note type="def">Dieu égyptien.</note></person>
+          <person xml:id="CoEg_pers_00000538" role="myth">
+            <persName>Maât</persName>
+            <idno type="IdRef">https://www.idref.fr/03125537X</idno>
+            <idno type="VIAF">https://viaf.org/viaf/22941468/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q170471</idno>
+            <note type="def">Déesse égyptienne.</note></person>
         </listPerson>
+
+        <listPerson>
+          <head>Animaux</head>
+          <person xml:id="CoEg_pers_00000563" role="anim">
+            <persName>Titi</persName>
+            <note type="def">Singe</note></person>
+          <person xml:id="CoEg_pers_00000564" role="anim">
+            <persName>Fiston</persName>
+            <note type="def">Singe</note></person>
+          <person xml:id="CoEg_pers_00000565" role="anim">
+            <persName>Guzel</persName>
+            <note type="def">Gazelle</note></person></listPerson>
       </div>
 
       <div>
@@ -3515,9 +3772,40 @@
             <orgName>École pratique des hautes études</orgName>
             <idno type="IdRef">https://www.idref.fr/026375478</idno>
             <idno type="Wikidata">https://www.wikidata.org/wiki/Q273631</idno></org>
-
+          <org xml:id="CoEg_org_00000087">
+            <orgName>Académie française</orgName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb11872851q</idno>
+            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb11872851q</idno>
+            <idno type="IdRef">https://www.idref.fr/027259056</idno>
+            <idno type="VIAF">https://viaf.org/viaf/126246242/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q161806</idno></org>
+          <org xml:id="CoEg_org_00000088">
+            <orgName>musée de Boulogne</orgName>
+            <idno type="IdRef">https://www.idref.fr/137811438</idno>
+            <idno type="VIAF">https://viaf.org/viaf/141444644/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q2967822</idno></org>
+          <org xml:id="CoEg_org_00000089">
+            <orgName>Statues de Saint-Jacques</orgName>
+            <note>magasin de nouveautés à Paris (1840-1882)</note></org>
+          <org xml:id="CoEg_org_00000090">
+            <orgName>Chevet</orgName>
+            <note>maison de restauration</note></org>
+          <org xml:id="CoEg_org_00000091">
+            <orgName>Fanta</orgName>
+            <note>brasserie</note></org>
+          <org xml:id="CoEg_org_00000092">
+            <orgName>École centrale</orgName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb120076521</idno>
+            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb120076521</idno>
+            <idno type="IdRef">https://www.idref.fr/033894221</idno>
+            <idno type="VIAF">https://viaf.org/viaf/148568268/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q273649</idno></org>
+          <org xml:id="CoEg_org_00000093">
+            <orgName>Crédit foncier</orgName>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q3006216</idno></org>
         </listOrg>
       </div>
+
       <div>
         <listPlace><head>Noms de lieux</head>
         <place xml:id="CoEg_place_imn">
@@ -4680,6 +4968,11 @@
           <placeName>170 rue de Rivoli</placeName>
           <location><geo>48.8627286, 2.3359078</geo></location></place>
           <note type="toSelf">Est-ce l'Hôtel du Louvre ? le numéro ne semble pas correspondre exactement.</note>
+        <place xml:id="CoEg_place_00000183">
+          <placeName>Montevideo</placeName>
+          <location><geo>-34.866667, -56.166667</geo></location>
+          <idno type="GeoName">https://www.geonames.org/3441575</idno>
+          <idno type="Wikidata">https://www.wikidata.org/wiki/Q1335</idno></place>
         <place xml:id="CoEg_place_00000184">
           <placeName>Persépolis</placeName>
           <location><geo>29.934444,52.891389 </geo></location>
@@ -4815,7 +5108,10 @@
           <location><geo>30,44073, 31,1573</geo></location>
           <idno type="GeoName">https://www.geonames.org/360135</idno></place>
         <place xml:id="CoEg_place_00000210">
-          <placeName>Tell Yahoudieh</placeName><idno type="Pleiades">https://pleiades.stoa.org/places/727146</idno><idno type="Wikidata">https://www.wikidata.org/wiki/Q2372919</idno><note type="def">(تلّ اليهودية [Tall al-Yahūdīyah])</note></place>
+          <placeName>Tell Yahoudieh</placeName>
+          <idno type="Pleiades">https://pleiades.stoa.org/places/727146</idno>
+          <idno type="Wikidata">https://www.wikidata.org/wiki/Q2372919</idno>
+          <note type="def">(تلّ اليهودية [Tall al-Yahūdīyah])</note></place>
         <place xml:id="CoEg_place_00000211">
           <placeName>Médinet el-Faris</placeName>
           <location><geo>29,322473, 30,833487</geo></location>
@@ -4832,12 +5128,6 @@
           <idno type="Trismegistos">https://www.trismegistos.org/place/952</idno>
           <idno type="Wikidata">https://www.wikidata.org/wiki/Q336661</idno>
           <note type="def">(قنا [Qinā]) </note></place>
-        <place xml:id="CoEg_place_00000216">
-          <placeName>Arabet el-Madfouneh</placeName>
-          <location><geo>26,175, 31,911111</geo></location>
-          <idno type="GeoName">https://www.geonames.org/357946</idno>
-          <idno type="Wikidata">https://www.wikidata.org/wiki/Q5350763</idno>
-          <note type="def">(العربة المدفونة [al-ʿArabat al-Madfūnah])</note></place>
         <place xml:id="CoEg_place_00000214">
           <placeName>Tourah</placeName>
           <location><geo>29,939279, 31,290007</geo></location>
@@ -4853,7 +5143,80 @@
           <idno type="Trismegistos">https://www.trismegistos.org/place/3474</idno>
           <idno type="Wikidata">https://www.wikidata.org/wiki/Q1485667</idno>
           <note type="def">(سمنة [Semnah])</note></place>
-
+        <place xml:id="CoEg_place_00000216">
+          <placeName>Arabet el-Madfouneh</placeName>
+          <location><geo>26,175, 31,911111</geo></location>
+          <idno type="GeoName">https://www.geonames.org/357946</idno>
+          <idno type="Wikidata">https://www.wikidata.org/wiki/Q5350763</idno>
+          <note type="def">(العربة المدفونة [al-ʿArabat al-Madfūnah])</note></place>
+        <place xml:id="CoEg_place_00000217">
+          <placeName>Canope</placeName>
+          <location><geo>31.3, 30.083333</geo></location>
+          <idno type="GeoName">https://www.geonames.org/358565</idno>
+          <idno type="Pleiades">https://pleiades.stoa.org/places/727097</idno>
+          <idno type="TopBib">http://topbib.griffith.ox.ac.uk//dtb.html?topbib=901-103-001</idno>
+          <idno type="Trismegistos">https://www.trismegistos.org/place/1001</idno>
+          <idno type="Wikidata">https://www.wikidata.org/wiki/Q1145180</idno></place>
+        <place xml:id="CoEg_place_00000218">
+          <placeName>Nubie</placeName>
+          <location><geo>18.9508, 32.2558</geo></location>
+          <idno type="GeoName">https://www.geonames.org/350981</idno>
+          <idno type="Trismegistos">https://www.trismegistos.org/place/51</idno>
+          <idno type="Wikidata">https://www.wikidata.org/wiki/Q135028</idno></place>
+        <place xml:id="CoEg_place_00000219">
+          <placeName>Asie mineure</placeName>
+          <location><geo>39, 34</geo></location>
+          <idno type="GeoName">https://www.geonames.org/323835</idno>
+          <idno type="Pleiades">https://pleiades.stoa.org/places/837</idno>
+          <idno type="Trismegistos">https://www.trismegistos.org/place/51</idno>
+          <idno type="Wikidata">https://www.wikidata.org/wiki/Q135028</idno></place>
+        <place xml:id="CoEg_place_00000220">
+          <placeName>Amérique</placeName>
+          <location><geo>19, -96</geo></location>
+          <idno type="GeoName">https://www.geonames.org/10861432</idno>
+          <idno type="Wikidata">https://www.wikidata.org/wiki/Q135028</idno></place>
+        <place xml:id="CoEg_place_00000221">
+          <placeName>pastophorium</placeName>
+          <idno type="Wikidata">https://www.wikidata.org/wiki/Q12824780</idno></place>
+        <place xml:id="CoEg_place_00000222">
+          <placeName>Chounet ez-Zébib</placeName>
+          <location><geo>26.189444, 31.907778</geo></location>
+          <idno type="Pleiades">https://pleiades.stoa.org/places/819299274</idno>
+          <idno type="TopBib">http://topbib.griffith.ox.ac.uk//dtb.html?topbib=502-010-020</idno>
+          <idno type="Wikidata">https://www.wikidata.org/wiki/Q828</idno>
+          <note type="def">(شونة الزبيب, [Šūnat az-Zabīb])</note></place>
+        <place xml:id="CoEg_place_00000223">
+          <placeName>Spa</placeName>
+          <location><geo>50.492277, 5.862211</geo></location>
+          <idno type="GeoName">https://www.geonames.org/2786319</idno></place>
+        <place xml:id="CoEg_place_00000224">
+          <placeName>Florence</placeName>
+          <location><geo>43.771389, 11.254167</geo></location>
+          <idno type="GeoName">https://www.geonames.org/6542285</idno>
+          <idno type="Pleiades">https://pleiades.stoa.org/places/413138</idno>
+          <idno type="Wikidata">https://www.wikidata.org/wiki/Q7505051</idno></place>
+        <place xml:id="CoEg_place_00000225">
+          <placeName>Wimereux</placeName>
+          <location><geo>50.769722, 1.61</geo></location>
+          <idno type="GeoName">https://www.geonames.org/2967351</idno>
+          <idno type="Wikidata">https://www.wikidata.org/wiki/Q39865</idno></place>
+        <place xml:id="CoEg_place_00000226">
+          <placeName>Gratz</placeName>
+          <location><geo>47.070833, 15.438611</geo></location>
+          <idno type="GeoName">https://www.geonames.org/2778058</idno>
+          <idno type="Wikidata">https://www.wikidata.org/wiki/Q2044</idno></place>
+        <place xml:id="CoEg_place_00000227">
+          <placeName>Gebel Yayah</placeName>
+          <location><geo>0, 0</geo></location>
+          <idno type="Wikidata">https://www.wikidata.org/wiki/Q383369</idno>
+          <note type="def">Nécropole supposée de Thinis</note></place>
+        <place xml:id="CoEg_place_00000228">
+          <placeName>Mastabat el-Faraoun</placeName>
+          <location><geo>29.838889, 31.215278</geo></location>
+          <idno type="Pleiades">https://pleiades.stoa.org/places/945930914</idno>
+          <idno type="TopBib">http://topbib.griffith.ox.ac.uk//dtb.html?topbib=309-020-090</idno>
+          <idno type="Wikidata">https://www.wikidata.org/wiki/Q13298</idno>
+          <note type="def">(مصطبة الفرعون, [Maṣṭabat al-Firʿawn])</note></place>
       </listPlace>
     </div>
       <div>
@@ -5251,7 +5614,7 @@
               <author><persName sameAs="#CoEg_pers_00000001">Mariette, Auguste</persName></author>
               <title type="monogr">Karnak. Étude topographique et archéologique</title>
               <pubPlace>Leipzig</pubPlace>
-              <publisher>J. C. Heinrichs</publisher>
+              <publisher>J. C. Hinrichs</publisher>
               <date>1875</date></bibl>
             <bibl xml:id="CoEg_bibl_00000085">
               <title type="article">Grand monument géographique du dix-septième siècle avant notre ère, retrouvé par Auguste Mariette-Bey sur un pylone de Karnak</title>
@@ -5435,7 +5798,7 @@
               <biblScope>p. 433-439</biblScope></bibl>
             <bibl xml:id="CoEg_bibl_00000118">
               <author><persName sameAs="CoEg_pers_00000448">Clarac (de), Charles</persName></author>
-              <title type="monogr">Musée de sculpture antique et moderne contenant la description historique et graphique du Louvre  t. 6</title>
+              <title type="monogr">Musée de sculpture antique et moderne contenant la description historique et graphique du Louvre, t. 6</title>
               <pubPlace>Paris</pubPlace>
               <publisher>Victor Texier</publisher>
               <date>1853</date></bibl>
@@ -5462,7 +5825,7 @@
               <title type="monogr">Annales de philosophie chrétienne</title></bibl>
             <bibl xml:id="CoEg_bibl_00000124">
               <author><persName sameAs="CoEg_pers_00000001">Mariette, Auguste</persName></author>
-              <title type="article">Lettre à M. Le vicomte de Rougé sur les fouilles de Tanis</title>
+              <title type="article">Lettre à M. le vicomte de Rougé sur les fouilles de Tanis</title>
               <title type="monogr" sameAs="#CoEg_bibl_00000069">Revue archéologique</title>
               <date>1863</date>
               <biblScope>p. 97-111</biblScope></bibl>
@@ -5533,6 +5896,91 @@
               <title type="monogr" n="18">La revue générale de l'architecture</title>
               <date>1860</date>
               <biblScope>p. 9-24, 49-61, 97-124, 145-164, 193-209</biblScope></bibl>
+            <bibl xml:id="CoEg_bibl_00000138">
+              <author><persName sameAs="CoEg_pers_00000001">Mariette, Auguste</persName></author>
+              <title type="monogr">Fouilles</title></bibl>
+            <bibl xml:id="CoEg_bibl_00000139">
+              <author><persName sameAs="CoEg_pers_00000032">Rougé (de), Emmanuel</persName></author>
+              <title type="article">Étude sur divers monuments du règne de Toutmès III découverts à Thèbes par M. Mariette</title>
+              <title type="monogr" sameAs="#CoEg_bibl_00000069" n="4">Revue archéologique</title>
+              <date>1861</date>
+              <biblScope>p. 196-222</biblScope></bibl>
+            <bibl xml:id="CoEg_bibl_00000140">
+              <author><persName sameAs="CoEg_pers_00000281">Brugsch, Heinrich</persName></author>
+              <title type="monogr">Geographische Inschriften altägyptischer Denkmäler</title>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Hinrichs</publisher>
+              <date>1857-1860</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000141">
+              <author><persName sameAs="CoEg_pers_00000281">Brugsch, Heinrich</persName></author>
+              <title type="monogr">Histoire d'Égypte dès les premiers temps de son existence jusqu'à nos jours, t. 1 L'Égypte sous les rois indigènes</title>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Hinrichs</publisher>
+              <date>1859</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000142">
+              <author><persName sameAs="CoEg_pers_00000281">Brugsch, Heinrich</persName></author>
+              <title type="monogr">Recueil de monuments égyptiens</title>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>Hinrichs</publisher>
+              <date>1862-1885</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000143">
+              <author><persName sameAs="CoEg_pers_00000545">Ésope</persName></author>
+              <title type="monogr">Fables</title></bibl>
+            <bibl xml:id="CoEg_bibl_00000144">
+              <author><persName sameAs="CoEg_pers_00000138">Wilkinson, John Gardner</persName></author>
+              <title type="monogr">Manners and customs of the Ancient Egyptians</title>
+              <pubPlace>Londres</pubPlace>
+              <publisher>J. Murray</publisher>
+              <date>1837</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000145">
+              <author><persName sameAs="CoEg_pers_00000179">Birch, Samuel</persName></author>
+              <title type="monogr">Facsimile of an Egyptian hieratic papyrus of the reign of Rameses III</title>
+              <pubPlace>Londres</pubPlace>
+              <publisher>Harrisson and Sons</publisher>
+              <date>1876</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000146">
+              <title type="monogr">Études égyptologiques</title>
+              <pubPlace>Paris</pubPlace>
+              <publisher>F. Vieweg</publisher>
+              <date>1873-1880</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000147">
+              <author><persName sameAs="CoEg_pers_00000200">Lenormant, François</persName></author>
+              <title type="monogr">Sur les animaux employés par les anciens Égyptiens à la chasse et à la guerre</title>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Gauthier-Villars</publisher>
+              <date>1870</date>
+              <note>communication présentée à l'Académie des inscriptions et belles-lettres en 1870 sans être publiée in extenso dans les comptes rendus des séances</note></bibl>
+            <bibl xml:id="CoEg_bibl_00000148">
+              <author><persName sameAs="CoEg_pers_00000032">Rougé (de), Emmanuel</persName></author>
+              <title type="monogr">Album photographique de la mission remplie en Égypte</title>
+              <pubPlace>Paris</pubPlace>
+              <publisher>L. Samson</publisher>
+              <date>1865</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000149">
+              <author><persName sameAs="CoEg_pers_00000316">Chabas, François</persName></author>
+              <title type="monogr">Les Pasteurs en Égypte</title>
+              <pubPlace>Amsterdam</pubPlace>
+              <publisher>C. G. Van der Post</publisher>
+              <date>1868</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000150">
+              <author><persName sameAs="CoEg_pers_00000291">Maspero, Gaston</persName></author>
+              <title type="article">Un gouverneur de Thèbes du début de la XIIe dynastie (Stèle C, 1, du Louvre)</title>
+              <title type="monogr" n="2">Congrès international des orientalistes. Compte-rendu de la première session</title>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Maisonneuve</publisher>
+              <date>1876</date>
+              <biblScope>p. 48-61</biblScope></bibl>
+            <bibl xml:id="CoEg_bibl_00000151">
+              <author><persName sameAs="CoEg_pers_00000001">Mariette, Auguste</persName> et <persName sameAs="CoEg_pers_00000291">Maspero, Gaston</persName></author>
+              <title type="monogr">Les mastabas de l'Ancien Empire</title>
+              <pubPlace>Paris</pubPlace>
+              <publisher>F. Vieweg</publisher>
+              <date>1889</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000152">
+              <title type="monogr">Mélanges d'archéologie assyrienne et égyptienne</title>
+              <pubPlace>Paris</pubPlace>
+              <publisher>Imprimerie nationale, Feanck, F. Vieweg</publisher>
+              <date>1872-1877</date></bibl>
         </listBibl>
       </div>
       <div>
@@ -6757,6 +7205,55 @@
               <physDesc><objectDesc form="statue"/></physDesc>
             <history><provenance sameAs="CoEg_place_00000117">Karnak</provenance></history>
             <note type="def">Statue d'Aménirdis Ire (XXVe dynastie, Karnak)</note></object>
+          <object xml:id="CoEg_obj_00000091">
+            <objectIdentifier>
+              <institution sameAs="#CoEg_coll_00000022">Musée du Caire</institution>
+              <idno type="M-Caire">CG 3</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Q106224142</idno></objectIdentifier>
+              <physDesc><objectDesc form="statue"/></physDesc>
+            <history><provenance sameAs="CoEg_place_00000180">Meïdoum</provenance></history>
+            <note type="def">Statue de Rahotep (IVe dynastie, Meïdoum)</note></object>
+          <object xml:id="CoEg_obj_00000092">
+            <objectIdentifier>
+              <institution sameAs="#CoEg_coll_00000022">Musée du Caire</institution>
+              <idno type="M-Caire">CG 4</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Q106224142</idno></objectIdentifier>
+              <physDesc><objectDesc form="statue"/></physDesc>
+            <history><provenance sameAs="CoEg_place_00000180">Meïdoum</provenance></history>
+            <note type="def">Statue de Nofret (IVe dynastie, Meïdoum)</note></object>
+          <object xml:id="CoEg_obj_00000093">
+            <objectIdentifier>
+              <institution sameAs="#CoEg_coll_00000022">Musée du Caire</institution>
+              <idno type="M-Caire">CG 20009</idno></objectIdentifier>
+              <physDesc><objectDesc form="stela"/></physDesc>
+            <history><provenance sameAs="CoEg_place_00000165">Dra Abou el-Naga</provenance></history>
+            <note type="def">Stèle d'Antef (XIe dynastie, Dra Abou el-Naga)</note></object>
+          <object xml:id="CoEg_obj_00000094">
+            <objectIdentifier>
+              <institution sameAs="#CoEg_coll_00000022">Musée du Caire</institution>
+              <idno type="M-Caire">CG 39145</idno></objectIdentifier>
+              <physDesc><objectDesc form="statue"/></physDesc>
+            <history><provenance sameAs="CoEg_place_00000117">Karnak</provenance></history>
+            <note type="def">Statue de Taouret (XXVIe dynastie, Karnak)</note></object>
+          <object xml:id="CoEg_obj_00000095">
+            <objectIdentifier>
+              <institution sameAs="#CoEg_coll_00000022">Musée du Caire</institution>
+              <idno type="M-Caire">CG 20564</idno></objectIdentifier>
+              <physDesc><objectDesc form="stela"/></physDesc>
+            <history><provenance sameAs="CoEg_place_00000026">Abydos</provenance></history>
+            <note type="def">Stèle de la dame Tany (XXV-XXVIe dynastie, Abydos)</note></object>
+          <object xml:id="CoEg_obj_00000096">
+            <objectIdentifier>
+              <institution>Musée de Boulogne-sur-Mer</institution>
+              <collection>
+                <ident type="THOT">http://thot.philo.ulg.ac.be/concept/thot-4628</ident>
+                <ident type="Trismegistos">http://www.trismegistos.org/collection/1419</ident>
+              </collection>
+              <idno type="Musée de Boulogne-sur-Mer">1b.R2</idno></objectIdentifier>
+            <physDesc><objectDesc form="coffin"/></physDesc>
+            <history><provenance sameAs="CoEg_place_00000019">Thèbes</provenance></history>
+            <note type="def">Cercueil intermédiaire de Néhemsimontou (XXV-XXVIe dynastie, Thèbes) [Mariette a aussi connu le cercueil externe, disparu au début du XXe siècle]</note>
+          </object>
         </listObject>
       </div>
 
@@ -6765,11 +7262,13 @@
         <entry xml:id="CoEg_entry_00000001">
           <form>simoun</form>
           <note>De l’arabe سَمُوم‎ [samūm]. Vent chaud, sec et violent qui souffle sur les côtes orientales de la mer Méditerranée : au Sahara, en Palestine, en Syrie et dans le désert d’Arabie.</note><note type="Mariette">Mariette utilise le terme avec une majuscule.</note>
-          <ref type="Wikidata">https://www.wikidata.org/wiki/Q646585</ref><ref type="CNRTL">https://www.cnrtl.fr/definition/simoun</ref></entry>
+          <ref type="Wikidata">https://www.wikidata.org/wiki/Q646585</ref>
+          <ref type="CNRTL">https://www.cnrtl.fr/definition/simoun</ref></entry>
         <entry xml:id="CoEg_entry_00000002">
           <form>pacha</form>
           <note>Du turc ottoman پاشا‎ [pāšā]. Titre honorifique ottoman. réservé aux plus hauts dignitaires et aux souverains. Porté après le nom.</note>
-          <ref type="Wikidata">https://www.wikidata.org/wiki/Q184951</ref><ref type="CNRTL">https://www.cnrtl.fr/definition/pacha</ref></entry>
+          <ref type="Wikidata">https://www.wikidata.org/wiki/Q184951</ref>
+          <ref type="CNRTL">https://www.cnrtl.fr/definition/pacha</ref></entry>
         <entry xml:id="CoEg_entry_00000003">
           <form>bey</form>
           <note>Du turc ottoman بك [beg] « seigneur ». Titre honorifique ottoman. Les officiers civils et militaires le portent après leur nom.</note>
@@ -6960,10 +7459,12 @@
           <ref type="CNRTL">https://www.cnrtl.fr/definition/statu%20quo</ref>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q201610</ref></entry>
         <entry xml:id="CoEg_entry_00000046">
-          <form>iséum</form><note>Temple d'Isis.</note>
+          <form>iséum</form>
+          <note>Temple d'Isis.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q6079776</ref></entry>
         <entry xml:id="CoEg_entry_00000047">
-          <form>khédive</form><note>Du turc ottoman خدیو [ḫidīw] « seigneur », titre obtenu par le vice-roi d'Égypte du sultan ottoman en 1867.</note>
+          <form>khédive</form>
+          <note>Du turc ottoman خدیو [ḫidīw] « seigneur », titre obtenu par le vice-roi d'Égypte du sultan ottoman en 1867.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q127878</ref>
           <ref type="CNRTL">https://www.cnrtl.fr/definition/khedive</ref></entry>
         <entry xml:id="CoEg_entry_00000048">
@@ -7070,28 +7571,83 @@
           <note>De l'arabe  ريشة [rīšah] « plume » ; désigne les cercueils de la Deuxième Période intermédiaire, décorés de motifs de plumes.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q2154652</ref></entry>
         <entry xml:id="CoEg_entry_00000070">
-          <form>agha</form><note>Du turc ottoman  آغا‎ [āğā] « chef ».</note>
+          <form>agha</form>
+          <note>Du turc ottoman  آغا‎ [āğā] « chef ».</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q393436</ref></entry>
         <entry xml:id="CoEg_entry_00000071">
-          <form>nazir</form><note>De l'arabe نَاظِر [nāẓir] « inspecteur, intendant ».</note>
-          <ref type="Wikidata">https://www.wikidata.org/wiki/Q65121941</ref><ref type="CNRTL">https://www.cnrtl.fr/definition/nazir</ref></entry>
+          <form>nazir</form>
+          <note>De l'arabe نَاظِر [nāẓir] « inspecteur, intendant ».</note>
+          <ref type="Wikidata">https://www.wikidata.org/wiki/Q65121941</ref>
+          <ref type="CNRTL">https://www.cnrtl.fr/definition/nazir</ref></entry>
         <entry xml:id="CoEg_entry_00000072">
-          <form>Gamed Aker</form><note>De l'arabe جُمَادَىٰ ٱلْآخِر  [Ǧumādā al-ʾĀkhir] « dernier mois de Jumada ».</note>
+          <form>Gamed Aker</form>
+          <note>De l'arabe جُمَادَىٰ ٱلْآخِر  [Ǧumādā al-ʾĀkhir] « dernier mois de Jumada ».</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q822218</ref></entry>
         <entry xml:id="CoEg_entry_00000073">
-          <form>chounah</form><note>De l'arabe égyptien شُونَة [šūnah] « grenier », d'où « magasin, réserve ».</note></entry>
+          <form>chounah</form>
+          <note>De l'arabe égyptien شُونَة [šūnah] « grenier », d'où « magasin, réserve ».</note></entry>
         <entry xml:id="CoEg_entry_00000074">
-          <form>daïrah</form><note>De l'arabe دائرة [dāʾirah] « cercle », structure administrative, notamment la Daïrah Sanieh.</note></entry>
+          <form>daïrah</form>
+          <note>De l'arabe دائرة [dāʾirah] « cercle », structure administrative, notamment la Daïrah Sanieh.</note></entry>
         <entry xml:id="CoEg_entry_00000075">
-          <form>bakchich</form><note>Du persan بخشش [baḫšeš] « don », d'où « pourboire, pot-de-vin ».</note>
+          <form>bakchich</form>
+          <note>Du persan بخشش [baḫšeš] « don », d'où « pourboire, pot-de-vin ».</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q305459</ref>
           <ref type="CNRTL">https://www.cnrtl.fr/definition/bakchich</ref></entry>
         <entry xml:id="CoEg_entry_00000076">
-          <form>moharrem</form><note>De l'arabe مُحَرَّمٌ [muḥarram], premier mois de l'année.</note>
+          <form>moharrem</form>
+          <note>De l'arabe مُحَرَّمٌ [muḥarram], premier mois de l'année.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q1952053</ref></entry>
         <entry xml:id="CoEg_entry_00000077">
-          <form>zilhidgé</form><note>De l'arabe ذو الحجة [ḍū al-ḥaǧah], dernier mois de l'année.</note>
+          <form>zilhidgé</form>
+          <note>De l'arabe ذو الحجة [ḍū al-ḥaǧah], dernier mois de l'année.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q186022</ref></entry>
+          <entry xml:id="CoEg_entry_00000079"><form>ex professo</form><note>Du latin, « par profession. » .</note><ref type="Wikidata">https://www.wikidata.org/wiki/Q3735873</ref></entry>
+        <entry xml:id="CoEg_entry_00000080">
+          <form>ab ovo</form>
+          <note>Du latin, « depuis l'œuf » (Horace, Art poétique).</note>
+          <ref type="Wikidata">https://www.wikidata.org/wiki/Q284900</ref>
+          <ref type="CNRTL">https://www.cnrtl.fr/definition/ab%20ovo</ref></entry>
+        <entry xml:id="CoEg_entry_00000081">
+          <form>vale et me ama</form>
+          <note>Du latin, « adieu et aime-moi ». Formule de cloture épistolaire.</note></entry>
+        <entry xml:id="CoEg_entry_00000082">
+          <form>experto crede</form>
+          <note>Du latin, « crois l’expert » .</note>
+          <ref type="Wikidata">https://www.wikidata.org/wiki/Q5421236</ref></entry>
+        <entry xml:id="CoEg_entry_00000083">
+          <form>harpé</form><note>Arme à lame courbe.</note><ref type="Wikidata">https://www.wikidata.org/wiki/Q1137898</ref>
+          <ref type="CNRTL">https://www.cnrtl.fr/definition/harp%C3%A9</ref></entry>
+        <entry xml:id="CoEg_entry_00000084">
+          <form>néoménie</form><note>Premier jour du mois dans le calendrier égyptien.</note>
+          <ref type="Wikidata">https://www.wikidata.org/wiki/Q3347127</ref><ref type="CNRTL">https://www.cnrtl.fr/definition/n%C3%A9om%C3%A9nie</ref></entry>
+        <entry xml:id="CoEg_entry_00000085">
+          <form>Pachons (mois)</form>
+          <note>Premier mois de la saison de la récolte.</note>
+          <ref type="Wikidata">https://www.wikidata.org/wiki/Q56413959</ref></entry>
+        <entry xml:id="CoEg_entry_00000086">
+          <form>outen</form>
+          <note>Mesure de poids ; lecture ancienne de dbn.</note>
+          <note type="Mariette">Mariette écrit « uten ».</note></entry>
+        <entry xml:id="CoEg_entry_00000087">
+          <form>kite</form>
+          <note>Mesure de poids (qd.t) équivalent à 10 dbn.</note>
+          <note type="Mariette">Mariette écrit « kat ».</note></entry>
+        <entry xml:id="CoEg_entry_00000088">
+          <form>hin</form>
+          <note>Mesure de volume.</note></entry>
+        <entry xml:id="CoEg_entry_00000089">
+          <form>pastophorium</form>
+          <note>Du latin, annexe périphérique d'un sanctuaire paléochrétien.</note>
+          <note type="Mariette">utilisé pour désigner une zone du Sérapéum.</note>
+          <ref type="Wikidata">https://www.wikidata.org/wiki/Q2530842</ref></entry>
+        <entry xml:id="CoEg_entry_00000090">
+          <form>franco</form>
+          <note>De l'italien « sans taxe », d'où « sans frais ».</note>
+          <ref type="CNRTL">https://www.cnrtl.fr/definition/franco</ref></entry>
+        <entry xml:id="CoEg_entry_00000091">
+          <form>pecunia sit tecum</form>
+          <note>Citation tronquée du latin pecunia tua sit tecum in perditionem « que ton argent disparaisse avec toi » (Actes des Apôtres VIII, 20).</note></entry>
       </div>
 
       <div>
@@ -7174,383 +7730,490 @@
         <entry xml:id="CoEg_aeg_00000001">
           <form>ḥb</form>
           <sense>fête</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=850654&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/850654</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=850654</ref></entry>
         <entry xml:id="CoEg_aeg_00000002">
           <form>Ḥp</form>
           <sense>Apis</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=104000&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/104000</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=104000</ref></entry>
         <entry xml:id="CoEg_aeg_00000003">
           <form>ḥwt</form>
           <sense>temple</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=99790&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/99790</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=99790</ref></entry>
         <entry xml:id="CoEg_aeg_00000004">
           <form>ꜥḥ</form>
           <sense>palais</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=39850&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/39850</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=39850</ref></entry>
         <entry xml:id="CoEg_aeg_00000005">
           <form>ḥm</form>
           <sense>servant, prêtre</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=104680&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/104680</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=104680</ref></entry>
         <entry xml:id="CoEg_aeg_00000006">
           <form>m</form>
           <sense>dans</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=64360&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/64360</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=64360</ref></entry>
         <entry xml:id="CoEg_aeg_00000007">
           <form>sꜣ</form>
           <sense>fils</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=125510&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/125510</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=125510</ref></entry>
         <entry xml:id="CoEg_aeg_00000008">
           <form>wḥm</form>
           <sense>renouveler</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=48440&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/48440</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=48440</ref></entry>
         <entry xml:id="CoEg_aeg_00000009">
           <form>ꜥnḫ</form>
           <sense>vie</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=38540&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/38540</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=38540</ref></entry>
         <entry xml:id="CoEg_aeg_00000010">
           <form>n</form>
           <sense>pour, de</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=78870&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/78870</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=78870</ref></entry>
         <entry xml:id="CoEg_aeg_00000011">
           <form>Ptḥ</form>
           <sense>Ptah</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=62980&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/62980</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=62980</ref></entry>
         <entry xml:id="CoEg_aeg_00000012">
           <form>ꜥḥꜥ(w)</form>
           <sense>durée de vie</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=40480&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/40480</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=40480</ref></entry>
         <entry xml:id="CoEg_aeg_00000013">
           <form>nfr</form>
           <sense>(être) beau, bon, bien, parfait</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=854519&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/854519</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=854519</ref></entry>
         <entry xml:id="CoEg_aeg_00000014">
           <form>nṯr</form>
           <sense>dieu</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=90260&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/90260</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=90260</ref></entry>
         <entry xml:id="CoEg_aeg_00000015">
           <form>pn</form>
           <sense>ce</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=59920&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/59920</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=59920</ref></entry>
         <entry xml:id="CoEg_aeg_00000016">
           <form>rnpt</form>
           <sense>année</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=94920&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/94920</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=94920</ref></entry>
         <entry xml:id="CoEg_aeg_00000017">
           <form>tm</form>
           <sense>(être) complet, achevé, total</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=172000&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/172000</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=172000</ref></entry>
         <entry xml:id="CoEg_aeg_00000018">
           <form>ḫprw</form>
           <sense>advenir, apparaître, se manifester</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=116300&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/116300</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=116300</ref></entry>
         <entry xml:id="CoEg_aeg_00000019">
           <form>Wnn-nfr</form>
           <sense>Ounennéfer</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=850648&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/850648</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=850648</ref></entry>
         <entry xml:id="CoEg_aeg_00000020">
           <form>Ꞽw·f-ꜥnḫ</form>
           <sense>Ioufânkh, nom masculin</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=701657&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/701657</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=701657</ref></entry>
         <entry xml:id="CoEg_aeg_00000021">
           <form>mꜣꜥ-ḫrw</form>
           <sense>juste de voix</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=66750&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/66750</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=66750</ref></entry>
         <entry xml:id="CoEg_aeg_00000022">
-          <form>gm</form>
+          <form>gmꞽ</form>
           <sense>trouver</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=167210&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/167210</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=167210</ref></entry>
         <entry xml:id="CoEg_aeg_00000023">
           <form>Ꞽmntt</form>
           <sense>Occident</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=26180&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/26180</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=26180</ref></entry>
         <entry xml:id="CoEg_aeg_00000024">
           <form>Wsꞽr</form>
           <sense>Osiris</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=49460&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/49460</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=49460</ref></entry>
         <entry xml:id="CoEg_aeg_00000025">
           <form>ꜥꜣ</form>
           <sense>grand</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=450158&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/450158</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=450158</ref></entry>
         <entry xml:id="CoEg_aeg_00000026">
           <form>ꜣbd</form>
           <sense>mois</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=93&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/93</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=93</ref></entry>
         <entry xml:id="CoEg_aeg_00000027">
           <form>wꜥ</form>
           <sense>unique</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=44150&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/44150</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=44150</ref></entry>
         <entry xml:id="CoEg_aeg_00000028">
-          <form>ḫpr</form><sense>advenir</sense><ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=854383&amp;db=0</ref><ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=854383</ref></entry>
+          <form>ḫpr</form>
+          <sense>advenir</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/854383</ref>
+          <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=854383</ref></entry>
         <entry xml:id="CoEg_aeg_00000029">
-          <form>ḥꜣt</form><sense>avant</sense><ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=100310&amp;db=0</ref><ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=100310</ref></entry>
+          <form>ḥꜣt</form>
+          <sense>avant</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/100310</ref>
+          <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=100310</ref></entry>
         <entry xml:id="CoEg_aeg_00000030">
-          <form>psḏt</form><sense>Ennéade</sense><ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=62500&amp;db=0</ref><ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=62500</ref></entry>
+          <form>psḏt</form>
+          <sense>Ennéade</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/62500</ref>
+          <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=62500</ref></entry>
         <entry xml:id="CoEg_aeg_00000031">
-          <form>ḫnty</form><sense>qui préside à</sense><ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=119130&amp;db=0</ref><ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=119130</ref></entry>
+          <form>ḫnty</form>
+          <sense>qui préside à</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/119130</ref>
+          <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=119130</ref></entry>
         <entry xml:id="CoEg_aeg_00000032">
           <form>r</form>
           <sense>vers, contre</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=91900&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/91900</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=91900</ref></entry>
         <entry xml:id="CoEg_aeg_00000033">
-          <form>Hw.t-Sd-Abd</form>
+          <form>Hwt-šd-ꜣbd</form>
           <sense>Hout-ched-abed</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=</ref></entry>
         <entry xml:id="CoEg_aeg_00000034">
           <form>m-ḫt</form>
           <sense>après</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=65300&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/65300</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=65300</ref></entry>
         <entry xml:id="CoEg_aeg_00000035">
           <form>pẖr</form>
           <sense>parcourir</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=61900&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/61900</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=61900</ref></entry>
         <entry xml:id="CoEg_aeg_00000036">
           <form>ꞽnt</form>
           <sense>vallée</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=26780&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/26780</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=26780</ref></entry>
         <entry xml:id="CoEg_aeg_00000037">
           <form>ꞽw</form>
           <sense>île</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=21940&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/21940</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=21940</ref></entry>
         <entry xml:id="CoEg_aeg_00000038">
           <form>ꞽdḥw</form>
           <sense>le Delta</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=34240&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/34240</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=34240</ref></entry>
         <entry xml:id="CoEg_aeg_00000039">
           <form>tꜣ-mḥw</form>
           <sense>le pays du nord, c.-à-d. La Basse-Égypte</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=169120&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/169120</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=169120</ref></entry>
         <entry xml:id="CoEg_aeg_00000040">
           <form>nb</form>
           <sense>tout, chacun</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=81660&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/81660</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=81660</ref></entry>
         <entry xml:id="CoEg_aeg_00000041">
           <form>ẖꜣt</form>
           <sense>lagune</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=122270&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/122270</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=122270</ref></entry>
         <entry xml:id="CoEg_aeg_00000042">
           <form>msꞽ</form>
           <sense>naissance, naître</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=74950&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/74950</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=74950</ref></entry>
         <entry xml:id="CoEg_aeg_00000043">
           <form>šps</form>
           <sense>auguste</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=400546&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/400546</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=400546</ref></entry>
         <entry xml:id="CoEg_aeg_00000044">
           <form>Mn-nfr</form>
           <sense>Memphis</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=70010&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/70010</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=70010</ref></entry>
         <entry xml:id="CoEg_aeg_00000045">
           <form>m-ẖnw</form>
           <sense>à l'intérieur</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=65370&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/65370</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=65370</ref></entry>
         <entry xml:id="CoEg_aeg_00000046">
           <form>nswt-bꞽty</form>
           <sense>roi</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=88060&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/88060</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=88060</ref></entry>
         <entry xml:id="CoEg_aeg_00000047">
           <form>Ꞽwnw</form>
           <sense>Héliopolis</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=22850&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/22850</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=22850</ref></entry>
         <entry xml:id="CoEg_aeg_00000048">
           <form>Ḥꜥp</form>
           <sense>Hâpy, le Nil</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=650066&amp;db=0</ref>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=102190&amp;db=0</ref>
-          <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=650066</ref>
-          <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=102190</ref></entry>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/650066/102190</ref>
+          <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=650066/102190</ref></entry>
         <entry xml:id="CoEg_aeg_00000049">
           <form>nty</form>
           <sense>pronom relatif</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=89850&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/89850</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=89850</ref></entry>
         <entry xml:id="CoEg_aeg_00000050">
           <form>spd</form>
-          <sense>(être) pointu, aiguisé, prêt ; fournir, munir</sense><ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=133200&amp;db=0</ref><ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=133200</ref></entry>
+          <sense>(être) pointu, aiguisé, prêt ; fournir, munir</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/133200</ref>
+          <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=133200</ref></entry>
         <entry xml:id="CoEg_aeg_00000051">
           <form>msḏr</form>
           <sense>oreille</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=76230&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/76230</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=76230</ref></entry>
         <entry xml:id="CoEg_aeg_00000052">
           <form>hrw</form>
           <sense>jour</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=99060&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/99060</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=99060</ref></entry>
         <entry xml:id="CoEg_aeg_00000053">
           <form>ꞽwꞽ</form>
           <sense>venir</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=21930&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/21930</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=21930</ref></entry>
         <entry xml:id="CoEg_aeg_00000054">
           <form>sḫnꞽ</form>
           <sense>rejoindre</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=142440&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/142440</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=142440</ref></entry>
         <entry xml:id="CoEg_aeg_00000055">
           <form>wꜥꞽ</form>
           <sense>être seul</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=44350&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/44350</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=44350</ref></entry>
         <entry xml:id="CoEg_aeg_00000056">
           <form>pꜣwt</form>
           <sense>origine</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=58830&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/58830</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=58830</ref></entry>
         <entry xml:id="CoEg_aeg_00000057">
           <form>ḏs</form>
           <sense>(avec un pronom suffixe) en personne, soi-même</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=854591&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/854591</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=854591</ref></entry>
         <entry xml:id="CoEg_aeg_00000058">
           <form>·f</form>
           <sense>pronom personnel de troisième personne masculin singulier</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=10050&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/10050</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=10050</ref></entry>
         <entry xml:id="CoEg_aeg_00000059">
           <form>·sn</form>
           <sense>pronom personnel de troisième personne pluriel</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=10100&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/10100</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=10100</ref></entry>
         <entry xml:id="CoEg_aeg_00000060">
           <form>ꜣḫt</form>
           <sense>saison de l'inondation</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=216&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/216</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=216</ref></entry>
         <entry xml:id="CoEg_aeg_00000061">
           <form>tw</form>
           <sense>pronom indéfini</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=600479&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/600479</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=600479</ref></entry>
         <entry xml:id="CoEg_aeg_00000062">
           <form>ꞽm</form>
           <sense>là</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=24640&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/24640</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=24640</ref></entry>
         <entry xml:id="CoEg_aeg_00000063">
           <form>prt</form>
           <sense>saison de la germination</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=60300&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/60300</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=60300</ref></entry>
         <entry xml:id="CoEg_aeg_00000064">
           <form>tpy</form>
           <sense>premier</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=171460&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/171460</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=171460</ref></entry>
         <entry xml:id="CoEg_aeg_00000065">
           <form>snn</form>
           <sense>image</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=137580&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/137580</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=137580</ref></entry>
         <entry xml:id="CoEg_aeg_00000066">
           <form>rdꞽ</form>
           <sense>faire, donner</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=96700&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/96700</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=96700</ref></entry>
         <entry xml:id="CoEg_aeg_00000067">
           <form>ꜥb</form>
           <sense>corne</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=36250&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/36250</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=36250</ref></entry>
         <entry xml:id="CoEg_aeg_00000068">
           <form>ḥr</form>
           <sense>visage</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=107510&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/107510</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=107510</ref></entry>
         <entry xml:id="CoEg_aeg_00000069">
           <form>sštꜣ</form>
           <sense>rendre secret</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=145680&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/145680</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=145680</ref></entry>
         <entry xml:id="CoEg_aeg_00000070">
           <form>mḥw</form>
           <sense>Basse-Égypte</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=73940&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/73940</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=73940</ref></entry>
         <entry xml:id="CoEg_aeg_00000071">
           <form>ꞽꜣt</form>
           <sense>butte, colline</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=20120&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/20120</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=20120</ref></entry>
         <entry xml:id="CoEg_aeg_00000072">
           <form>tꜣ</form>
           <sense>pays</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=854573&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/854573</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=854573</ref></entry>
         <entry xml:id="CoEg_aeg_00000073">
           <form>Rꜥ</form>
           <sense>Rê</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=400015&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/400015</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=400015</ref></entry>
         <entry xml:id="CoEg_aeg_00000074">
           <form>Stẖ</form>
           <sense>Seth</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=148520&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/148520</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=148520</ref></entry>
         <entry xml:id="CoEg_aeg_00000075">
-          <form>Ḥw.t-wꜥr.t </form>
+          <form>Ḥwt-wꜥrt</form>
           <sense>Avaris</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=99860&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/99860</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=99860</ref></entry>
         <entry xml:id="CoEg_aeg_00000076">
           <form>mrꞽ</form>
           <sense>aimer</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=72470&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/72470</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=72470</ref></entry>
         <entry xml:id="CoEg_aeg_00000077">
           <form>nb</form>
           <sense>maître</sense>
-          <ref type="TLA">http://aaew.bbaw.de/tla/servlet/GetWcnDetails?u=guest&amp;f=0&amp;l=0&amp;wn=81650&amp;db=0</ref>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/81650</ref>
           <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=81650</ref></entry>
+        <entry xml:id="CoEg_aeg_00000078">
+          <form>swt</form>
+          <sense>roseaux</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/129610</ref>
+          <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=129610</ref></entry>
+        <entry xml:id="CoEg_aeg_00000079">
+          <form>ꜥnḫ</form>
+          <sense>vivre</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/38530</ref>
+          <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=38530</ref></entry>
+        <entry xml:id="CoEg_aeg_00000080">
+          <form>Ḥꜥꜥ-ꞽb-Rꜥ</form>
+          <sense>Hââ-ib-Rê (Apriès)</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/862968</ref>
+          <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=862968</ref></entry>
+        <entry xml:id="CoEg_aeg_00000081">
+          <form>Ḥwt-Mḥn </form>
+          <sense>Hout-méhen</sense>
+          <note>toponyme non identifié</note></entry>
+        <entry xml:id="CoEg_aeg_00000082">
+          <form>Ḫnsw</form>
+          <sense>Khonsou</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/118720</ref>
+          <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=118720</ref></entry>
+        <entry xml:id="CoEg_aeg_00000083">
+          <form>Mꜣꜥt</form>
+          <sense>Maât</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/66630</ref>
+          <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=66630</ref></entry>
+        <entry xml:id="CoEg_aeg_00000084">
+          <form>sš</form>
+          <sense>corde</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/156930</ref>
+          <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=156930</ref></entry>
+        <entry xml:id="CoEg_aeg_00000085">
+          <form>pḏ</form>
+          <sense>dérouler</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/63170</ref>
+          <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=63170</ref></entry>
+        <entry xml:id="CoEg_aeg_00000086">
+          <form>m</form>
+          <sense>en tant que, comme</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/64362</ref>
+          <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=64362</ref></entry>
+        <entry xml:id="CoEg_aeg_00000087">
+          <form>ḥsꞽ</form>
+          <sense>louer, favoriser</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/109620</ref>
+          <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=109620</ref></entry>
+        <entry xml:id="CoEg_aeg_00000089">
+          <form>ḫr</form>
+          <sense>auprès de</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/850795</ref>
+          <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=850795</ref></entry>
+        <entry xml:id="CoEg_aeg_00000090">
+          <form>nswt</form>
+          <sense>roi</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/88040</ref>
+          <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=88040</ref></entry>
+        <entry xml:id="CoEg_aeg_00000091">
+          <form>ḥtp</form>
+          <sense>offrande, paix, être satisfait</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/111230</ref>
+          <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=111230</ref></entry>
+        <entry xml:id="CoEg_aeg_00000092">
+          <form>ḥr</form>
+          <sense>sur</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/107521</ref>
+          <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=107521</ref></entry>
+        <entry xml:id="CoEg_aeg_00000093">
+          <form>sꜣ</form>
+          <sense>phylé</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/125581</ref>
+          <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=125581</ref></entry>
+        <entry xml:id="CoEg_aeg_00000094">
+          <form>3-nw</form>
+          <sense>troisième</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/600235</ref>
+          <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=600235</ref></entry>
+        <entry xml:id="CoEg_aeg_00000095">
+          <form>Ꞽmn</form>
+          <sense>Amon</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/860839</ref>
+          <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=860839</ref></entry>
+        <entry xml:id="CoEg_aeg_00000096">
+          <form>pꜣ</form>
+          <sense>article défini masculin singulier</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/851446</ref>
+          <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=851446</ref></entry>
+        <entry xml:id="CoEg_aeg_00000097">
+          <form>wꞽꜣ</form>
+          <sense>barque</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/44020</ref>
+          <ref type="AVW">http://awv.informatik.uni-leipzig.de/awv/links?word=44020</ref></entry>
+
       </div>
 
       <div>
         <head>Abréviations</head>
         <superEntry>
           <entry xml:id="CoEg_abbr_00000001">
-            <form><abbr>Mr</abbr></form>
+            <form><abbr>M<hi rend="superscript_underline">r</hi></abbr></form>
             <sense>Monsieur</sense></entry>
           <entry xml:id="CoEg_abbr_00000002">
             <form><abbr>Aug.</abbr></form>
@@ -7562,13 +8225,13 @@
             <form><abbr>S. E.</abbr></form>
             <sense>Son Excellence</sense><note>Prédicat porté notamment par les ministres et les moudirs.</note></entry>
           <entry xml:id="CoEg_abbr_00000005">
-            <form><abbr>1o</abbr></form>
+            <form><abbr>1<hi rend="superscript_underline">o</hi></abbr></form>
             <sense>primo (« premièrement »)</sense></entry>
           <entry xml:id="CoEg_abbr_00000006">
-            <form><abbr>2o</abbr></form>
+            <form><abbr>2<hi rend="superscript_underline">o</hi></abbr></form>
             <sense>secundo (« deuxièmement »)</sense></entry>
           <entry xml:id="CoEg_abbr_00000007">
-            <form><abbr>3o</abbr></form>
+            <form><abbr>3<hi rend="superscript_underline">o</hi></abbr></form>
             <sense>tertio (« troisièmement »)</sense></entry>
           <entry xml:id="CoEg_abbr_00000008">
             <form><abbr>P. S.</abbr></form>
@@ -7577,10 +8240,10 @@
             <form><abbr>MM.</abbr></form>
             <sense>Messieurs</sense></entry>
           <entry xml:id="CoEg_abbr_00000010">
-            <form><abbr>no</abbr></form>
+            <form><abbr>n<hi rend="superscript_underline">o</hi></abbr></form>
             <sense>numéro</sense></entry>
           <entry xml:id="CoEg_abbr_00000011">
-            <form><abbr>nos</abbr></form>
+            <form><abbr>n<hi rend="superscript_underline">os</hi></abbr></form>
             <sense>numéros</sense></entry>
           <entry xml:id="CoEg_abbr_00000012">
             <form><abbr>Eug.</abbr></form>
@@ -7601,22 +8264,22 @@
             <form><abbr>fr</abbr></form>
             <sense>francs</sense><note>Variante de l'abréviation habituelle, sans point abréviatif.</note></entry>
           <entry xml:id="CoEg_abbr_00000018">
-            <form><abbr>Xbre</abbr></form>
+            <form><abbr>X<hi rend="superscript_underline">bre</hi></abbr></form>
             <sense>décembre</sense></entry>
           <entry xml:id="CoEg_abbr_00000019">
-            <form><abbr>7bre</abbr></form>
+            <form><abbr>7<hi rend="superscript_underline">bre</hi></abbr></form>
             <sense>septembre</sense></entry>
           <entry xml:id="CoEg_abbr_00000020">
-            <form><abbr>gal</abbr></form>
+            <form><abbr>g<hi rend="superscript_underline">al</hi></abbr></form>
             <sense>général</sense></entry>
           <entry xml:id="CoEg_abbr_00000021">
-            <form><abbr>9bre</abbr></form>
+            <form><abbr>9<hi rend="superscript_underline">bre</hi></abbr></form>
             <sense>novembre</sense></entry>
           <entry xml:id="CoEg_abbr_00000022">
-            <form><abbr>in-8o</abbr></form>
+            <form><abbr>in-8<hi rend="superscript_underline">o</hi></abbr></form>
             <sense>In-octavo</sense></entry>
           <entry xml:id="CoEg_abbr_00000023">
-            <form><abbr>in-4o</abbr></form>
+            <form><abbr>in-4<hi rend="superscript_underline">o</hi></abbr></form>
             <sense>In-quarto</sense></entry>
           <entry xml:id="CoEg_abbr_00000024">
             <form><abbr>in-fol.</abbr></form>
@@ -7664,7 +8327,7 @@
             <form><abbr>tab</abbr></form>
             <sense>tabula (« planche »)</sense></entry>
           <entry xml:id="CoEg_abbr_00000039">
-            <form><abbr>4to</abbr></form>
+            <form><abbr>4<hi rend="superscript_underline">to</hi></abbr></form>
             <sense>quarto</sense></entry>
           <entry xml:id="CoEg_abbr_00000040">
             <form><abbr>conf.</abbr></form>
@@ -7676,7 +8339,7 @@
             <form><abbr>loc. cit.</abbr></form>
             <sense>loco citato</sense></entry>
           <entry xml:id="CoEg_abbr_00000043">
-            <form><abbr>1er</abbr></form>
+            <form><abbr>1<hi rend="superscript_underline">er</hi></abbr></form>
             <sense>premier</sense></entry>
           <entry xml:id="CoEg_abbr_00000044">
             <form><abbr>Beau</abbr></form>
@@ -7694,10 +8357,10 @@
             <form><abbr>M.M.</abbr></form>
             <sense>Messieurs</sense></entry>
           <entry xml:id="CoEg_abbr_00000049">
-            <form><abbr>4o</abbr></form>
+            <form><abbr>4<hi rend="superscript_underline">o</hi></abbr></form>
             <sense>quarto</sense></entry>
           <entry xml:id="CoEg_abbr_00000050">
-            <form><abbr>5o</abbr></form>
+            <form><abbr>5<hi rend="superscript_underline">o</hi></abbr></form>
             <sense>quinto</sense></entry>
           <entry xml:id="CoEg_abbr_00000051">
             <form><abbr>L.</abbr></form>
@@ -7712,7 +8375,7 @@
             <form><abbr>ibid.</abbr></form>
             <sense>ibidem (« au même endroit »)</sense></entry>
           <entry xml:id="CoEg_abbr_00000055"
-            ><form><abbr>Made</abbr></form>
+            ><form><abbr>Mad<hi rend="superscript_underline">e</hi></abbr></form>
             <sense>Madame</sense></entry>
           <entry xml:id="CoEg_abbr_00000056">
             <form><abbr>c. à d.</abbr></form>
@@ -7721,13 +8384,13 @@
             <form><abbr>Mad.</abbr></form>
             <sense>Madame</sense></entry>
           <entry xml:id="CoEg_abbr_00000058">
-            <form><abbr>Melle</abbr></form>
+            <form><abbr>M<hi rend="superscript_underline">elle</hi></abbr></form>
             <sense>Mademoiselle</sense></entry>
           <entry xml:id="CoEg_abbr_00000059">
             <form><abbr>M.</abbr></form>
             <sense>Monsieur</sense></entry>
           <entry xml:id="CoEg_abbr_00000060">
-            <form><abbr>Mme</abbr></form>
+            <form><abbr>M<hi rend="superscript_underline">me</hi></abbr></form>
             <sense>Madame</sense></entry>
           <entry xml:id="CoEg_abbr_00000061">
             <form><abbr>dyn</abbr></form>
@@ -7748,7 +8411,7 @@
             <form><abbr>Prof</abbr></form>
             <sense>Professeur</sense></entry>
           <entry xml:id="CoEg_abbr_00000067">
-            <form><abbr>Hte</abbr></form>
+            <form><abbr>H<hi rend="superscript_underline">te</hi></abbr></form>
             <sense>Haute</sense></entry>
           <entry xml:id="CoEg_abbr_00000068">
             <form><abbr>Bl.</abbr></form>
@@ -7774,6 +8437,21 @@
           <entry xml:id="CoEg_abbr_00000075">
             <form><abbr>pap.</abbr></form>
             <sense>papyrus</sense></entry>
+          <entry xml:id="CoEg_abbr_00000076">
+            <form><abbr>Ch.</abbr></form>
+            <sense>Charles</sense></entry>
+          <entry xml:id="CoEg_abbr_00000077">
+            <form><abbr>S. M. I.</abbr></form>
+            <sense>Sa Majesté Impériale</sense></entry>
+          <entry xml:id="CoEg_abbr_00000078">
+            <form><abbr>8<hi rend="superscript_underline">bre</hi></abbr></form>
+            <sense>octobre</sense></entry>
+          <entry xml:id="CoEg_abbr_00000079">
+            <form><abbr>M<hi rend="superscript_underline">e</hi></abbr></form>
+            <sense>Madame</sense></entry>
+          <entry xml:id="CoEg_abbr_00000080">
+            <form><abbr>incl<hi rend="superscript_underline">t</hi></abbr></form>
+            <sense>inclusivement</sense></entry>
         </superEntry>
       </div>
     </body>
