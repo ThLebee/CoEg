@@ -15,8 +15,8 @@
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</licence>
                 </availability>
-                <date when="2021-10"/>
-                <idno type="url">https://thlebee.github.io/CoEg/doc/CoEg_Mariette_CMIF.xml</idno>
+                <date when="2023-07"/>
+                <idno n="1,376" type="url">https://thlebee.github.io/CoEg/doc/CoEg_Mariette_CMIF.xml</idno>
             </publicationStmt>
             <sourceDesc>
                 <bibl type="online" xml:id="afcd03a5-c676-476e-9cd5-2e2caef8addc">Mariette, Auguste (Lebée, Thomas, éd.), Correspondances égyptiennes. Lettres d'Auguste Mariette, 2020-2021.<ref target="https://thlebee.github.io/CoEg/webpages/CoEg_Mariette.html">https://thlebee.github.io/CoEg/webpages/CoEg_Mariette.html</ref>
