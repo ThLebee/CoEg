@@ -570,7 +570,7 @@
             <correspDesc ref="https://thlebee.github.io/CoEg/doc/CoEg_Mariette.xml" source="#afcd03a5-c676-476e-9cd5-2e2caef8addc" key="CoEg_Mariette_1868-10-29">
                 <correspAction type="sent">
                     <persName ref="https://d-nb.info/gnd/118731017">Mariette [Pacha], Auguste</persName>
-                    <date>29 octobre 1868</date>
+                    <date when="1868-10-29">29 octobre 1868</date>
                     <placeName ref="http://www.geonames.org/358683">Boulaq</placeName>
                 </correspAction>
                 <correspAction type="received">
