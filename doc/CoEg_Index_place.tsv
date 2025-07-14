@@ -1,4 +1,5 @@
 id	placeName	lat	lon	def	note type=Mariette	GeoName_URL	Pleiades_URL	TopBib_URL	TMGeo_URL	Wikidata_URL
+CoEg_place_imn	À identifier	0	0							
 CoEg_place_00000001	Saqqarah	29.85	31.233333333333	(سقّارة [Saqqārah])		http://www.geonames.org/349608	https://pleiades.stoa.org/places/796289136	http://topbib.griffith.ox.ac.uk//dtb.html?topbib=309		https://www.wikidata.org/wiki/Q192134
 CoEg_place_00000002	Paris	48.856944444444	2.3513888888889			http://www.geonames.org/2988507			https://www.trismegistos.org/place/3278	https://www.wikidata.org/wiki/Q90
 CoEg_place_00000003	Égypte	27	29			http://www.geonames.org/357994			https://www.trismegistos.org/place/49	https://www.wikidata.org/wiki/Q79
@@ -239,5 +240,19 @@ CoEg_place_00000238	Outreau	50.703889	1.593889			https://www.geonames.org/643977
 CoEg_place_00000239	Villa Borghèse	41.913647	12.485104			https://www.geonames.org/8015110				https://www.wikidata.org/wiki/Q678313
 CoEg_place_00000240	Asie	43.681111	87.331111			https://www.geonames.org/6255147	https://pleiades.stoa.org/places/915832			https://www.wikidata.org/wiki/Q48
 CoEg_place_00000241	Mer Rouge	22	38			https://www.geonames.org/350155				https://www.wikidata.org/wiki/Q23406
-CoEg_place_00000242	Sardaigne (royaume)	0	0							https://www.wikidata.org/wiki/Q2577303
-CoEg_place_imn	À identifier	0	0							
+CoEg_place_00000242	Sardaigne (royaume)	45.066667	7.7							https://www.wikidata.org/wiki/Q2577303
+CoEg_place_00000243	Dongola	19.176944	30.483889	(دنقلا [Dunqulā])		https://www.geonames.org/363417				https://www.wikidata.org/wiki/Q821321
+CoEg_place_00000244	Rhodes	36.17	27.92			https://www.geonames.org/400665	https://pleiades.stoa.org/places/590030			https://www.wikidata.org/wiki/Q43048
+CoEg_place_00000245	Philae	24.02174	32.88891			https://www.geonames.org/356859	https://pleiades.stoa.org/places/786089			https://www.wikidata.org/wiki/Q245062
+CoEg_place_00000246	Ismaïliah	30.583333	32.266667	(الإسماعيلية [al-Ismāʻīlīyah])		https://www.geonames.org/361055				https://www.wikidata.org/wiki/Q217156
+CoEg_place_00000247	Saint-Sulpice	48.851002	2.334923			https://www.geonames.org/6452782				https://www.wikidata.org/wiki/Q295844
+CoEg_place_00000248	Palais-royal	48.863333	2.336944			https://www.geonames.org/6545270				https://www.wikidata.org/wiki/Q329948
+CoEg_place_00000249	Cologne	50.942222	6.957778			https://www.geonames.org/3247451				https://www.wikidata.org/wiki/Q365
+CoEg_place_00000250	Saint-Pétersbourg	59.95	30.316667			https://www.geonames.org/498817				https://www.wikidata.org/wiki/Q656
+CoEg_place_00000251	Courbevoie	48.897222	2.252222			https://www.geonames.org/3023141				https://www.wikidata.org/wiki/Q189715
+CoEg_place_00000252	Pékin	39.90403	116.407526			https://www.geonames.org/1816670				https://www.wikidata.org/wiki/Q956
+CoEg_place_00000253	Yerres	48.716111	2.490833			https://www.geonames.org/6454885				https://www.wikidata.org/wiki/Q319933
+CoEg_place_00000254	Babylonie	32.5	44.5				https://pleiades.stoa.org/places/912816			https://www.wikidata.org/wiki/Q47690
+CoEg_place_00000255	Oaudi Halfa	21.792778	31.3775	(وادي حلفا [Wādī Ḥalfā])		https://www.geonames.org/364132			https://www.trismegistos.org/place/2499	https://www.wikidata.org/wiki/Q740865
+CoEg_place_00000256	Mer Méditerranée	38	17			https://www.geonames.org/363196	https://pleiades.stoa.org/places/1043			https://www.wikidata.org/wiki/Q4918
+CoEg_place_00000257	Ouadi Hammamat	25.964403	33.504066	(وادي الحمامات [Wādī al-Ḥammāmāt})		https://www.geonames.org/12504071	https://pleiades.stoa.org/places/786087		https://www.trismegistos.org/place/2839	https://www.wikidata.org/wiki/Q1479250

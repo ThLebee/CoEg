@@ -1,4 +1,5 @@
 person_id	type	persName	Qualité	Année de naissance	Année de décès	note type=def	note type=Mariette	BNF_URL	dataBnF	IDRef	VIAF	idno Wikidata
+CoEg_pers_imn	contemp	À identifier				Personne non encore identifiée						
 CoEg_pers_00000001	contemp	Mariette [Pacha], Auguste	Égyptologue	1821	1881	Inventeur du Sérapéum et fondateur du service des antiquités de l’Égypte		https://catalogue.bnf.fr/ark:/12148/cb12213258k	https://data.bnf.fr/ark:/12148/cb12213258k	https://www.idref.fr/030787130	https://viaf.org/viaf/2521520	https://www.wikidata.org/wiki/Q311850
 CoEg_pers_00000002	contemp	Nieuwerkerke (de), Émilien	Artiste et haut fonctionnaire	1811	1892	Successivement directeur général des musées, intendant des beaux-arts et surintendant des musées impériaux		https://catalogue.bnf.fr/ark:/12148/cb12969884g	https://data.bnf.fr/ark:/12148/cb12969884g	https://www.idref.fr/035300310	https://viaf.org/viaf/39508958	https://www.wikidata.org/wiki/Q1232403
 CoEg_pers_00000003	contemp	Esquirou de Parieu, Félix	Homme d'État	1815	1893	Ministre français de l’Instruction publique en 1850		https://catalogue.bnf.fr/ark:/12148/cb13475874p	https://data.bnf.fr/ark:/12148/cb13475874p	https://www.idref.fr/096198931	https://viaf.org/viaf/49372727	https://www.wikidata.org/wiki/Q535804
@@ -271,7 +272,7 @@ CoEg_pers_00000272	contemp	Floris, Michel Ange		1809	1888	Directeur de l'atelier
 CoEg_pers_00000273	hist	Séthi Ier	Roi égyptien (XIXe dynastie)								https://viaf.org/viaf/144996654/	https://www.wikidata.org/wiki/Q157918
 CoEg_pers_00000274	contemp	Russel, Stanislas	Explorateur	1811	1862			https://catalogue.bnf.fr/ark:/12148/cb10575646n	https://data.bnf.fr/ark:/12148/cb10575646n	https://www.idref.fr/204005353	https://viaf.org/viaf/311296474	https://www.wikidata.org/wiki/Q23901670
 CoEg_pers_00000275	hist	Ménès	Roi égyptien (Ire dynastie)								https://viaf.org/viaf/44150516675503442671/	https://www.wikidata.org/wiki/Q189582
-CoEg_pers_00000276	contemp	Révillout, Victor	Médecin		1894	Frère d'Eugène Révillout.	Participa à une mission médicale envoyée en Égypte pour lutter contre le choléra en 1865, au cours de laquelle il soigna – sans pouvoir la sauver – la femme de Mariette. Celui-ci écrit « Revilloud »			https://www.idref.fr/106085026	http://viaf.org/viaf/220241684	
+CoEg_pers_00000276	contemp	Revillout, Victor	Médecin		1894	Frère d'Eugène Revillout.	Participa à une mission médicale envoyée en Égypte pour lutter contre le choléra en 1865, au cours de laquelle il soigna – sans pouvoir la sauver – la femme de Mariette. Celui-ci écrit « Revilloud »			https://www.idref.fr/106085026	http://viaf.org/viaf/220241684	
 CoEg_pers_00000277	contemp	Gaillardot, Charles	Médecin	1814	1883			https://catalogue.bnf.fr/ark:/12148/cb153231839	https://data.bnf.fr/ark:/12148/cb153231839	https://www.idref.fr/183612914	https://viaf.org/viaf/29832833/	https://www.wikidata.org/wiki/Q18783417
 CoEg_pers_00000278	contemp	Mariette, Alphonse					Frère de Mariette ; vivait au Royaume-Uni					
 CoEg_pers_00000279	contemp	Baillère, Henri Paul Charles	Libraire-éditeur	1840	1905		Voyagea en Égypte en 1867	https://catalogue.bnf.fr/ark:/12148/cb12997980h	https://data.bnf.fr/ark:/12148/cb12997980h	http://www.idref.fr/033647739	http://viaf.org/viaf/19812004	
@@ -355,7 +356,7 @@ CoEg_pers_00000356	contemp	Huguet, Auguste		1822	1919	Maire de Boulogne-sur-Mer 
 CoEg_pers_00000357	contemp	Vogüé (de), Melchior		1829	1916			https://catalogue.bnf.fr/ark:/12148/cb11928621t	https://data.bnf.fr/ark:/12148/cb11928621t	https://www.idref.fr/058487441	https://viaf.org/viaf/22150082/	https://www.wikidata.org/wiki/Q3304994
 CoEg_pers_00000358	contemp	Vogüé (de), ?					Mariette le qualifie de neveu de Melchior de Vogüé (celui-ci ne semble cependant pas en avoir eu qui partagent son patronyme)					
 CoEg_pers_00000359	contemp	Biot		1774	1862			https://catalogue.bnf.fr/ark:/12148/cb12150160s	https://data.bnf.fr/ark:/12148/cb12150160s	https://www.idref.fr/029993806	https://viaf.org/viaf/71428323/	https://www.wikidata.org/wiki/Q58328
-CoEg_pers_00000360	contemp	Révillout, Eugène		1843	1913			https://catalogue.bnf.fr/ark:/12148/cb12283515k	https://data.bnf.fr/ark:/12148/cb12283515k	https://www.idref.fr/031662277	https://viaf.org/viaf/100206616/	https://www.wikidata.org/wiki/Q1347441
+CoEg_pers_00000360	contemp	Revillout, Eugène		1843	1913			https://catalogue.bnf.fr/ark:/12148/cb12283515k	https://data.bnf.fr/ark:/12148/cb12283515k	https://www.idref.fr/031662277	https://viaf.org/viaf/100206616/	https://www.wikidata.org/wiki/Q1347441
 CoEg_pers_00000361	contemp	Metternich (von), Klemens	Diplomate et homme d'État autrichien	1773	1859			https://catalogue.bnf.fr/ark:/12148/cb12122157r	https://data.bnf.fr/ark:/12148/cb12122157r	https://www.idref.fr/029638437	https://viaf.org/viaf/49258230/	https://www.wikidata.org/wiki/Q45662
 CoEg_pers_00000362	contemp	Hachette, G.										
 CoEg_pers_00000363	contemp	Béchard, Émile	Photographe	1844	v. 1890			https://catalogue.bnf.fr/ark:/12148/cb15342283r	https://data.bnf.fr/ark:/12148/cb15342283r	https://www.idref.fr/133209482	https://viaf.org/viaf/100933198/	https://www.wikidata.org/wiki/Q86289401
@@ -406,7 +407,7 @@ CoEg_pers_00000407	contemp	Chabas, Marie Madeleine	Fille de François Chabas	184
 CoEg_pers_00000408	contemp	Chabas, Isabelle Émilie	Fille de François Chabas	1847								
 CoEg_pers_00000409	hist	Hatchepsout, alias la Régente	Reine égyptienne (XVIIIe dynastie)					https://catalogue.bnf.fr/ark:/12148/cb11943631b	https://data.bnf.fr/ark:/12148/cb11943631b	https://www.idref.fr/027382419	https://viaf.org/viaf/67741469/	https://www.wikidata.org/wiki/Q129234
 CoEg_pers_00000410	hist	Ramsès IV	Roi égyptien (Xxe dynastie)					https://catalogue.bnf.fr/ark:/12148/cb11957298p	https://data.bnf.fr/fr/11957298		https://viaf.org/viaf/127422598/	https://www.wikidata.org/wiki/Q1532
-CoEg_pers_00000411	contemp	Geslin, Jean-Charles	Dessinateur	1814	1997			https://catalogue.bnf.fr/ark:/12148/cb17879750m	https://data.bnf.fr/fr/17879750	https://www.idref.fr/241175135	http://viaf.org/viaf/96213130 	
+CoEg_pers_00000411	contemp	Geslin, Jean-Charles	Dessinateur	1814	1997			https://catalogue.bnf.fr/ark:/12148/cb17879750m	https://data.bnf.fr/fr/17879750	https://www.idref.fr/241175135	http://viaf.org/viaf/96213130	
 CoEg_pers_00000412	contemp	Maisonneuve	Éditeur			Voir CoEg_org_00000062						
 CoEg_pers_00000413	contemp	Falloux (de), Alfred	Homme d'État	1811	1886	ministre de l'Instruction publique de 1848 à 1849		https://catalogue.bnf.fr/ark:/12148/cb12516645k	https://data.bnf.fr/ark:/12148/cb12516645k	https://www.idref.fr/03440788X	https://viaf.org/viaf/29640595/	https://www.wikidata.org/wiki/Q2627019
 CoEg_pers_00000414	contemp	Leleux	Éditeur									
@@ -558,6 +559,7 @@ CoEg_pers_00000559	contemp	Naville, Édouard	Égyptologue	1844	1926			https://ca
 CoEg_pers_00000560	hist	Tany	Dame de la XXVe-XVIe dynastie									
 CoEg_pers_00000561	contemp	Brugsch, Emil	Égyptologue	1842	1930			https://catalogue.bnf.fr/ark:/12148/cb15068679z	https://data.bnf.fr/ark:/12148/cb15068679z	https://www.idref.fr/066511933	https://viaf.org/viaf/27353725/	https://www.wikidata.org/wiki/Q73057
 CoEg_pers_00000562	contemp	Nubar Pacha, Mme										
+												
 CoEg_pers_00000566	contemp	Edwards, Amelia	Femme de lettres	1831	1892			https://catalogue.bnf.fr/ark:/12148/cb12184461j	https://data.bnf.fr/ark:/12148/cb12184461j	https://www.idref.fr/030428858	https://viaf.org/viaf/66510711/	https://www.wikidata.org/wiki/Q437356
 CoEg_pers_00000567	contemp	Nadar (Tournachon, Félix)	Photographe	1820	1910			https://catalogue.bnf.fr/ark:/12148/cb119173388	https://data.bnf.fr/ark:/12148/cb119173388	https://www.idref.fr/027043827	https://viaf.org/viaf/84808952/	https://www.wikidata.org/wiki/Q40116
 CoEg_pers_00000568	contemp	Henry, Florent				Ami d'enfance de Mariette.						
@@ -565,7 +567,7 @@ CoEg_pers_00000569	hist	Hésirê	Dignitaire égyptien									https://www.wikida
 CoEg_pers_00000570	hist	Rânéfer	Prince égyptien									https://www.wikidata.org/wiki/Q767744
 CoEg_pers_00000571	hist	Khoufouânkh	Dame égyptienne									
 CoEg_pers_00000572	hist	Ouni	Dignitaire égyptien								https://viaf.org/viaf/79414131/	https://www.wikidata.org/wiki/Q2004727
-CoEg_pers_00000573	contemp	Hamy, Théodore	Anthropologue	1842	1908			https://catalogue.bnf.fr/ark:/12148/cb119068235	https://data.bnf.fr/ark:/12148/cb119068235	https://www.idref.fr/026913860	https://viaf.org/viaf/44299915/	https://www.wikidata.org/wiki/Q1356363
+CoEg_pers_00000573	contemp	Hamy, Théodore		1799	1875	Père d'Ernest Théodore Hamy						
 CoEg_pers_00000574	contemp	Reuter, Edmond Georges	Artiste	1845	1917							
 CoEg_pers_00000575	contemp	Hincks, Edward	Égyptologue	1792	1866			https://catalogue.bnf.fr/ark:/12148/cb10313511n	https://data.bnf.fr/ark:/12148/cb10313511n	https://www.idref.fr/118739530	https://viaf.org/viaf/62328869/	https://www.wikidata.org/wiki/Q454770
 CoEg_pers_00000576	contemp	Greene, John Beasley	Égyptologue	1832	1856			https://catalogue.bnf.fr/ark:/12148/cb14976208g	https://data.bnf.fr/ark:/12148/cb14976208g	https://www.idref.fr/111535735	https://viaf.org/viaf/71667933/	https://www.wikidata.org/wiki/Q1699205
@@ -573,8 +575,8 @@ CoEg_pers_00000577	hist	Chérémon d'Alexandrie	Écrivain grec									https://w
 CoEg_pers_00000578	myth	Bastet	Déesse égyptienne					https://catalogue.bnf.fr/ark:/12148/cb15713063w	https://data.bnf.fr/ark:/12148/cb15713063w	https://www.idref.fr/241038545	https://viaf.org/viaf/316445637/	https://www.wikidata.org/wiki/Q129106
 CoEg_pers_00000579	contemp	Gliddon, George	Égyptologue	1809	1857			https://catalogue.bnf.fr/ark:/12148/cb14538898w	https://data.bnf.fr/ark:/12148/cb14538898w	https://www.idref.fr/127148485	https://viaf.org/viaf/64243797/	https://www.wikidata.org/wiki/Q1507425
 CoEg_pers_00000580	contemp	Duhamel, François		1821	1882	Médecin, maire de Boulogne-sur-Mer						
-CoEg_pers_00000581	hist	Louis IX de France	Roi de France					https://catalogue.bnf.fr/ark:/12148/cb120344600	https://data.bnf.fr/ark:/12148/cb120344600	https://www.idref.fr/028525949	https://viaf.org/viaf/89182909/	https://www.wikidata.org/wiki/Q346
-CoEg_pers_00000582	contemp	Cossé-Brissac (de), Artus-Gabriel		1790	1857		"Mariette cite simplement ""M. de Cossé"" ; Artus-Gabriel de Cossé-Brissac résidait au château de Colembert, construit par sa belle-famille les Sainte-Aldegonde."					
+CoEg_pers_00000581	hist	Louis IX le Saint	Roi de France					https://catalogue.bnf.fr/ark:/12148/cb120344600	https://data.bnf.fr/ark:/12148/cb120344600	https://www.idref.fr/028525949	https://viaf.org/viaf/89182909/	https://www.wikidata.org/wiki/Q346
+CoEg_pers_00000582	contemp	Cossé-Brissac (de), Artus-Gabriel		1790	1857		Mariette cite simplement « M. de Cossé » ; Artus-Gabriel de Cossé-Brissac résidait près de Boulogne-sur-Mer au château de Colembert, construit par sa belle-famille les Sainte-Aldegonde.					
 CoEg_pers_00000583	contemp	Gounod, Charles	Compositeur	1818	1893			https://catalogue.bnf.fr/ark:/12148/cb138946384	https://data.bnf.fr/ark:/12148/cb138946384	https://www.idref.fr/026898705	https://viaf.org/viaf/32183285/	https://www.wikidata.org/wiki/Q180278
 CoEg_pers_00000584	contemp	Villiers du Terrage (de), Édouard	Ingénieur	1780	1855			https://catalogue.bnf.fr/ark:/12148/cb118470486	https://data.bnf.fr/ark:/12148/cb118470486	https://www.idref.fr/085984582	https://viaf.org/viaf/31990978/	https://www.wikidata.org/wiki/Q2361706
 CoEg_pers_00000585	contemp	Wagner, Richard	Compositeur	1813	1883			https://catalogue.bnf.fr/ark:/12148/cb14029873q	https://data.bnf.fr/ark:/12148/cb14029873q	https://www.idref.fr/027191451	https://viaf.org/viaf/29732107/	https://www.wikidata.org/wiki/Q1511
@@ -606,6 +608,77 @@ CoEg_pers_00000610	hist	Khânefrê Sobekhotep IV	Roi d'Égypte (XIIIe dynastie)	
 CoEg_pers_00000611	hist	Périclès	Homme d'État athénien					https://catalogue.bnf.fr/ark:/12148/cb119402487	https://data.bnf.fr/ark:/12148/cb119402487	https://www.idref.fr/027338878	https://viaf.org/viaf/84036422/	https://www.wikidata.org/wiki/Q80398
 CoEg_pers_00000612	hist	Bakenranef/Bocchoris	Roi d'Égypte (XXIVe dynastie)								https://viaf.org/viaf/220920596/	https://www.wikidata.org/wiki/Q510515
 CoEg_pers_00000613	hist	Pétubastis										https://www.wikidata.org/wiki/Q548570
-CoEg_pers_00000614	hist	Pamy Ier	Roi d'Égypte (XXIIe dynastie)			"Mariette écrit ""Pikhaï"""						https://www.wikidata.org/wiki/Q386681
-CoEg_pers_00000615	hist	Chéchonq V	Roi d'Égypte (XXIIe dynastie)			"Mariette écrit ""Scheschonk IV""."						https://www.wikidata.org/wiki/Q21694324
-CoEg_pers_imn	contemp	À identifier				Personne non encore identifiée						
+CoEg_pers_00000614	hist	Pamy Ier	Roi d'Égypte (XXIIe dynastie)			Mariette écrit  « Pikhaï »						https://www.wikidata.org/wiki/Q386681
+CoEg_pers_00000615	hist	Chéconq V	Roi d'Égypte (XXIIe dynastie)			Mariette écrit  « Scheschonk IV ».						https://www.wikidata.org/wiki/Q21694324
+CoEg_pers_00000616	contemp	Aubert-Roche, Louis-Rémy	Médecin en chef de la Compagnie universelle du canal maritime de Suez	1818	1874						https://viaf.org/viaf/35240036	https://www.wikidata.org/wiki/Q3260872
+CoEg_pers_00000617	contemp	Jafar Mahzar Pacha			1878	Gouverneur général du Soudan de 1866 à 1871 († 1878).						
+CoEg_pers_00000618	contemp	Schimpff, Friedrich Hermann	Libraire de Trieste		1861							
+CoEg_pers_00000619	contemp	Salzmann, Auguste	Archéologue et artiste	1824	1872			https://catalogue.bnf.fr/ark:/12148/cb10452233w		https://www.idref.fr/106947478	https://viaf.org/viaf/4919893	https://www.wikidata.org/wiki/Q767017
+CoEg_pers_00000620	myth	Sothis	Déesse égyptienne					https://catalogue.bnf.fr/ark:/12148/cb17136352f		https://www.idref.fr/241148227		https://www.wikidata.org/wiki/Q930167
+CoEg_pers_00000621	contemp	Orbiney (d'), Elisabeth				a vendu en 1857 le papyrus portant son nom au British Museum						
+CoEg_pers_00000622	contemp	Galle, Johann Goffried	Astronome	1812	1910					http://www.idref.fr/079987435	http://viaf.org/viaf/32790698	https://www.wikidata.org/wiki/Q76431
+CoEg_pers_00000623	contemp	Le Verrier, Urbain	Astronome et mathématicien	1811	1877			https://catalogue.bnf.fr/ark:/12148/cb13009244x	https://data.bnf.fr/ark:/12148/cb13009244x	http://www.idref.fr/074773860	http://viaf.org/viaf/73986042	https://www.wikidata.org/wiki/Q104154
+CoEg_pers_00000624	hist	Jeanne d'Arc	Protagoniste de la Guerre de Cent ans	1412	1431							https://www.wikidata.org/wiki/Q7226
+CoEg_pers_00000625	contemp	Lesseps (de), Charles Aimé	Juriste et ingénieur	1840	1923			https://catalogue.bnf.fr/en/ark:/12148/cb152881978	https://data.bnf.fr/en/ark:/12148/cb152881978		https://viaf.org/en/viaf/27365772	https://www.wikidata.org/wiki/Q103839815
+CoEg_pers_00000626	contemp	Pentz (von), Ernst Friedrich August	Diplomate	1803	1874	Consul général de Prusse en Égypte						
+CoEg_pers_00000627	contemp	Schlieffen (von), Wilhelm		1829	1902					https://www.idref.fr/260508551	https://viaf.org/viaf/8170666	https://www.wikidata.org/wiki/Q2576061
+CoEg_pers_00000628	contemp	Böckh, August	Helléniste	1785	1867			https://catalogue.bnf.fr/ark:/12148/cb129576905	https://data.bnf.fr/ark:/12148/cb129576905	http://www.idref.fr/032639864	http://viaf.org/viaf/37048283	https://www.wikidata.org/wiki/Q63183
+CoEg_pers_00000630	contemp	Saïd				Bourriquier de Mariette						
+CoEg_pers_00000631	contemp	Francœur, Louis-Benjamin	Mathématicien	1773	1849			https://catalogue.bnf.fr/ark:/12148/cb14406333n	https://data.bnf.fr/ark:/12148/cb14406333n	http://www.idref.fr/076906523	http://viaf.org/viaf/19894281	https://www.wikidata.org/wiki/Special:EntityPage/Q323650
+CoEg_pers_00000632	contemp	Weisz										
+CoEg_pers_00000633	contemp	Maunier, Victor Gustave		1819	1874	Photographe et marchand d'antiquités						
+CoEg_pers_00000634	contemp	Odescalchi, Luigi				Instructeur militaire de l'armée égyptienne en 1840						
+CoEg_pers_00000635	contemp	Odescalchi, Madame										
+CoEg_pers_00000636	contemp	Schneider				libraire berlinois ?						
+CoEg_pers_00000637	hist	Geminos de Rhodes	Philosophe et astronome grec	Ier siècle avant notre ère	Ier siècle de notre ère			https://catalogue.bnf.fr/ark:/12148/cb11904540f	https://data.bnf.fr/ark:/12148/cb11904540f	http://www.idref.fr/026886774	http://viaf.org/viaf/250472024	https://www.wikidata.org/wiki/Special:EntityPage/Q379987
+CoEg_pers_00000638	contemp	Humboldt (von), Alexander	Naturaliste et géographe	1769	1859			https://catalogue.bnf.fr/ark:/12148/cb119080343	https://data.bnf.fr/ark:/12148/cb119080343	http://www.idref.fr/027399427	http://viaf.org/viaf/95193235	https://www.wikidata.org/wiki/Special:EntityPage/Q6694
+CoEg_pers_00000639	contemp	Abeken, Heinrich	Théologien et diplomate	1809	1872			https://catalogue.bnf.fr/ark:/12148/cb16246219k	https://data.bnf.fr/ark:/12148/cb16246219k	http://www.idref.fr/115221328	https://viaf.org/viaf/64746771	https://www.wikidata.org/wiki/Special:EntityPage/Q71716
+CoEg_pers_00000640	contemp	Harcke épouse Brugsch, Albertine Louise Pauline		1829	1879	épouse de Brugsch						
+CoEg_pers_00000641	myth	Pakhet	Déesse égyptienne									https://www.wikidata.org/wiki/Q918104
+CoEg_pers_00000642	contemp	Brugsch, Ernst Wilhelm		1797	1858	père de Brugsch						
+CoEg_pers_00000644	contemp	Witte (de), Jean	Antiquisant					https://catalogue.bnf.fr/ark:/12148/cb134770201	https://data.bnf.fr/ark:/12148/cb134770201	http://www.idref.fr/067034748	http://viaf.org/viaf/120701895	https://www.wikidata.org/wiki/Special:EntityPage/Q834079
+CoEg_pers_00000645	contemp	Husson, Henry	Photographe	1814	1855							
+CoEg_pers_00000646	contemp	Swinburne, Henry	Ingénieur ferroviaire	1821	1855							
+CoEg_pers_00000647	contemp	Merlin										
+CoEg_pers_00000648	contemp	Isabelle II d'Espagn	Reine d'Espagne	1830	1904			https://catalogue.bnf.fr/ark:/12148/cb120667707	https://data.bnf.fr/ark:/12148/cb120667707	http://www.idref.fr/088342700	http://viaf.org/viaf/87748802	https://www.wikidata.org/wiki/Special:EntityPage/Q183085
+CoEg_pers_00000649	contemp	Hatzfeldt-Trachenberg (von), Maximilian	ambassadeur de Prusse en France	1813	1859			https://catalogue.bnf.fr/ark:/12148/cb16240055f			https://viaf.org/viaf/5684948	https://www.wikidata.org/wiki/Q25712434
+CoEg_pers_00000651	myth	Sémiramis						https://catalogue.bnf.fr/ark:/12148/cb135163289	https://data.bnf.fr/ark:/12148/cb135163289	http://www.idref.fr/027586219	http://viaf.org/viaf/219992782	https://www.wikidata.org/wiki/Special:EntityPage/Q103960
+CoEg_pers_00000652	contemp	Stobart, Henry										
+CoEg_pers_00000653	myth	Nitocris	Reine d'Égypte semi-légendaire								https://viaf.org/viaf/14172855	https://www.wikidata.org/wiki/Special:EntityPage/Q230774
+CoEg_pers_00000654	hist	Piânkhy										
+CoEg_pers_00000655	contemp	Brugsch, Charlotte Elisabeth Henriette Alexandra		1855	1901							
+CoEg_pers_00000656	hist	Charles III	Roi d'Espagne	1716	1788			https://catalogue.bnf.fr/ark:/12148/cb119389764	https://data.bnf.fr/ark:/12148/cb119389764	http://www.idref.fr/027322394	http://viaf.org/viaf/100902917	https://www.wikidata.org/wiki/Special:EntityPage/Q36234
+CoEg_pers_00000657	contemp	Seiffert				Valet et compagnon de voyage de Humboldt						
+CoEg_pers_00000658	hist	Ptolémée V Épiphane	Roi d'Égypte					https://catalogue.bnf.fr/ark:/12148/cb12245711d	https://data.bnf.fr/ark:/12148/cb12245711d	http://www.idref.fr/069262810	http://viaf.org/viaf/5983154441748435460003	https://www.wikidata.org/wiki/Special:EntityPage/Q39957
+CoEg_pers_00000659	contemp	Escayrac de Lauture (d'), Stanislas	Explorateur	1826	1868			https://catalogue.bnf.fr/ark:/12148/cb119018787	https://data.bnf.fr/ark:/12148/cb119018787	https://www.idref.fr/152802878	https://viaf.org/viaf/2469890	https://www.wikidata.org/wiki/Special:EntityPage/Q2093037
+CoEg_pers_00000660	myth	Adam						https://catalogue.bnf.fr/ark:/12148/cb17011701v	https://data.bnf.fr/ark:/12148/cb17011701v	http://www.idref.fr/027642798	http://viaf.org/viaf/308180317	https://www.wikidata.org/wiki/Special:EntityPage/Q70899
+CoEg_pers_00000661	contemp	Dindorf, Karl Wilhelm	Helléniste	1802	1883			https://catalogue.bnf.fr/ark:/12148/cb12180358d	https://data.bnf.fr/ark:/12148/cb12180358d	http://www.idref.fr/030376564	http://viaf.org/viaf/22184611	https://www.wikidata.org/wiki/Special:EntityPage/Q67533
+CoEg_pers_00000662	contemp	Lami, Alphonse	Sculpteur	1822	1867					http://www.idref.fr/197365736	http://viaf.org/viaf/73011230	https://www.wikidata.org/wiki/Special:EntityPage/Q2839857
+CoEg_pers_00000663	hist	Seqenenrê Taâ	Roi d'Égypte (XVIIe dynastie)								https://viaf.org/viaf/84098302	https://www.wikidata.org/wiki/Special:EntityPage/Q31526
+CoEg_pers_00000664	contemp	Gazzera, Costanzo	Archéologue	1778	1859			https://catalogue.bnf.fr/ark:/12148/cb124276586	https://data.bnf.fr/ark:/12148/cb124276586	http://www.idref.fr/033407991	http://viaf.org/viaf/49315437	https://www.wikidata.org/wiki/Special:EntityPage/Q3695660
+CoEg_pers_00000665	myth	Job									http://viaf.org/viaf/46762859	https://www.wikidata.org/wiki/Special:EntityPage/Q179962
+CoEg_pers_00000666	contemp	Barucchi, Francesco	Égyptologue	1801	1869						https://viaf.org/viaf/70780615	https://www.wikidata.org/wiki/Q59711478
+CoEg_pers_00000667	contemp	Orcurti, Pier-Camillo	Égyptologue									https://www.wikidata.org/wiki/Q61480975
+CoEg_pers_00000668	contemp	Mellier (?)										
+CoEg_pers_00000669	contemp	Haker										
+CoEg_pers_00000671	contemp	Gerhard, Friedrich Wilhelm Eduard	Archéologue	1795	1867			https://catalogue.bnf.fr/ark:/12148/cb106868177	https://date.bnf.fr/ark:/12148/cb106868177	https://www.idref.fr/067690645	https://viaf.org/viaf/77110765	https://www.wikidata.org/wiki/Special:EntityPage/Q66921
+CoEg_pers_00000672	contemp	Mariette, François Paulin		1793	1850		Père de Mariette					
+CoEg_pers_00000673	myth	Nout	Déesse égyptienne					https://catalogue.bnf.fr/ark:/12148/cb171442192	https://data.bnf.fr/ark:/12148/cb171442192	https://www.idref.fr/097527858	https://viaf.org/viaf/69872963	https://www.wikidata.org/wiki/Special:EntityPage/Q165496
+CoEg_pers_00000674	hist	Khababach	Roi d'Égypte (XXXIe dynastie)									https://www.wikidata.org/wiki/Special:EntityPage/Q881240
+CoEg_pers_00000675	contemp	Olfers (von), Ignaz	Naturaliste et diplomate	1793	1871					https://www.idref.fr/188239243	https://viaf.org/viaf/89318541	https://www.wikidata.org/wiki/Q214962
+CoEg_pers_00000677	hist	Fresnel, Fulgence	Diplomate et orientaliste	1795	1855			https://catalogue.bnf.fr/ark:/12148/cb13763198k	https://data.bnf.fr/ark:/12148/cb13763198k	http://www.idref.fr/077328302	http://viaf.org/viaf/54328923	https://www.wikidata.org/wiki/Special:EntityPage/Q703951
+CoEg_pers_00000678	hist	Ézéchias	Roi de Juda	v. 739	687						https://viaf.org/viaf/8820631	https://www.wikidata.org/wiki/Q244912
+CoEg_pers_00000679	contemp	Abou Samra				reïs de Huber						
+CoEg_pers_00000680	contemp	[Hassanin ?] el Achin				reïs du service des antiquités à Saqqarah en 1857						
+CoEg_pers_00000681	contemp	Mohamed Abou Hatifeh				reïs du service des antiquités à Saqqarah en 1857						
+CoEg_pers_00000682	contemp	Christian Daniel Rauch	Sculpteur	1777	1857			https://catalogue.bnf.fr/ark:/12148/cb13576663w	https://data.bnf.fr/ark:/12148/cb13576663w	http://www.idref.fr/076062228	http://viaf.org/viaf/39650543	https://www.wikidata.org/wiki/Special:EntityPage/Q714972
+CoEg_pers_00000683	hist	Frédéric II le Grand	Roi de Prusse	1712	1786			https://catalogue.bnf.fr/ark:/12148/cb11886351h	https://data.bnf.fr/ark:/12148/cb11886351h	https://www.idref.fr/027405222	https://viaf.org/viaf/12303200	https://www.wikidata.org/wiki/Q33550
+CoEg_pers_00000684	contemp	Billing (de) épouse de Saulcy, Mathilde		1833	1908	Dame du palais de l'impératrice Eugénie, femme de Saulcy						
+CoEg_pers_00000685	hist	Xerxès Ier le Grand	Roi de Perse	519	465			https://catalogue.bnf.fr/ark:/12148/cb150689088	https://data.bnf.fr/ark:/12148/cb150689088	https://www.idref.fr/050588400	http://viaf.org/viaf/282770127	https://www.wikidata.org/wiki/Q129165
+CoEg_pers_00000686	contemp	Burton, James	Égyptologue	1788	1862					https://www.idref.fr/23295237X	https://viaf.org/viaf/52036395	https://www.wikidata.org/wiki/Q1356957
+CoEg_pers_00000687	hist	Ahmès fils de Paiounhor				Dédicant d'une stèle du Sérapéum (XXVIIe dynastie)						
+CoEg_pers_00000688	hist	Paiounhor				Père du dédicant d'une stèle du Sérapéum (XXVIIe dynastie)						
+CoEg_pers_00000689	hist	Horpasen				Dédicant d'une stèle du Sérapéum (XXIIe dynastie)						
+CoEg_pers_00000690	hist	Nimlot C	Roi d'Égypte (XXIIe dynastie)									https://www.wikidata.org/wiki/Q1690865
+CoEg_pers_00000691	contemp	Lee, John	Astronome et antiquaire	1783	1866					https://www.idref.fr/238103331	https://viaf.org/viaf/47524207	https://www.wikidata.org/wiki/Q6244369
+CoEg_pers_00000692	hist	Oudjmoutânkhes			Épouse d'Osorkon II, mère de Nimlot C							

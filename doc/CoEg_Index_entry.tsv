@@ -1,4 +1,5 @@
 id	entry	note	CNRTL	idno type=Wikidata	note type=Mariette
+CoEg_entry_imn		Terme à définir			
 CoEg_entry_00000001	simoun	De l’arabe سَمُوم‎ [samūm]. Vent chaud, sec et violent qui souffle sur les côtes orientales de la mer Méditerranée : au Sahara, en Palestine, en Syrie et dans le désert d’Arabie	https://www.cnrtl.fr/definition/simoun	https://www.wikidata.org/wiki/Q646585	Mariette utilise le terme avec une majuscule
 CoEg_entry_00000002	pacha	Du turc ottoman پاشا‎ [pāšā]. Désigne les plus hauts dignitaires et les souverains. Porté après le nom	https://www.cnrtl.fr/definition/pacha	https://www.wikidata.org/wiki/Q184951	
 CoEg_entry_00000003	bey	Du turc ottoman بك [beg] « seigneur ». Titre honorifique ottoman. Les officiers civils et militaires le portent après leur nom	https://www.cnrtl.fr/definition/bey	https://www.wikidata.org/wiki/Q181217	Quand il est porté après le nom, Mariette le joint par un tiret, sans majuscule
@@ -93,5 +94,19 @@ CoEg_entry_00000091	pecunia sit tecum	Citation tronquée du latin pecunia tua si
 CoEg_entry_00000092	scenario	De l'italien, intrigue d'une œuvre	https://www.cnrtl.fr/definition/scenario	https://www.wikidata.org/wiki/Q1090839	
 CoEg_entry_00000093	libretto	De l'italien « livret », paroles d'une composition musicale	https://www.cnrtl.fr/definition/libretto	https://www.wikidata.org/wiki/Q131084	
 CoEg_entry_00000094	farrache	De l'arabe فِرَاش [firāš] «dérouler » (un tapis, ...), domestique			
-CoEg_entry_00000095	sofragi	De l'arabe égyptien سـُفر َجي [sufraǧy], « serveur » (Socrates Spiro, An Arabic-English Vocabulary of the Colloquial Arabic of Egypt, 1895, p. 280).			
-CoEg_entry_imn		Terme à définir			
+CoEg_entry_00000095	sofragi	De l'arabe égyptien سـُفر َجي [sufraǧy], « serveur » (Socrates Spiro, An Arabic-English Vocabulary of the Colloquial Arabic of Egypt, 1895, p. ٢٨٠).			
+CoEg_entry_00000096	bimbachi	Du turc بكباشي [banbāšy], commandant de l'armée.	https://www.cnrtl.fr/definition/bimbachi	https://www.wikidata.org/wiki/Q5770104	
+CoEg_entry_00000097	quibus	Du latin « au moyen de quoi », d'où « argent, moyens financier ».	https://www.cnrtl.fr/definition/quibus		
+CoEg_entry_00000098	kansir, kansira	De l'arabeيَا خِنْزِير [ya khinzīr] « porc » ou يَا خِنْزِيرَة [ya khanzīrah] « truie » (Socrates Spiro, An Arabic-English Vocabulary of the Colloquial Arabic of Egypt, 1895, p. ١٨٣).			
+CoEg_entry_00000099	félati	De l'arabe فلاتي [falāty] « coquin » (Socrates Spiro, An Arabic-English Vocabulary of the Colloquial Arabic of Egypt, 1895, p. ٤٦٤ : « debauchee, robber »)			
+CoEg_entry_00000100	thaler	monnaie d'argent germanique	https://www.cnrtl.fr/definition/thaler	https://www.wikidata.org/wiki/Q162528	
+CoEg_entry_00000101	silbergroschen	monnaie germanique, division du thaler		https://www.wikidata.org/wiki/Q328950	
+CoEg_entry_00000102	bénou	De l'égyptien bnw, oiseau mythologique		https://www.wikidata.org/wiki/Q818378	
+CoEg_entry_00000103	paophi (mois)	Deuxième mois de la saison de l'inondation		https://www.wikidata.org/wiki/Q731505	
+CoEg_entry_00000104	méchir (mois)	Deuxième mois de la saison de la germination		https://www.wikidata.org/wiki/Q550074	
+CoEg_entry_00000105	Inchallah	De l’arabe : إِنْ شَاءَ ٱللّٰهُ [ʾin šāʾa llāhu] « À la grâce de Dieu ».			
+CoEg_entry_00000106	tétraménie	du grec τετρα-, préfixe pour « quatre », et μήν « mois » : période ou saison de quatre mois.			
+CoEg_entry_00000107	kelb	De l'arabe كَلْب [kalb] « chien » (Socrates Spiro, An Arabic-English Vocabulary of the Colloquial Arabic of Egypt, 1895, p. ٥٢٣).			
+CoEg_entry_00000108	phaminoth (mois)	Troisième mois de la saison de la germination		https://www.wikidata.org/wiki/Q546893	
+CoEg_entry_00000109	pharmouti (mois)	Quatrième mois de la saison de la germination		https://www.wikidata.org/wiki/Q2144472	
+CoEg_entry_00000110	épagomène	Du grec ἐπαγόμενος « apporté (en sus) » : cinq jours complémentaires ajoutés après les mois du calendrier égyptien pour atteindre une année de 365 jours.	https://www.cnrtl.fr/definition/%C3%A9pagom%C3%A8ne	https://www.wikidata.org/wiki/Q1346367	

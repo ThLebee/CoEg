@@ -37,7 +37,7 @@
     </encodingDesc>
     <profileDesc>
       <creation>
-        <date from="2020-01" to="2024-07">Janvier 2020 – juillet 2024</date>
+        <date from="2020-01" to="2022-07">Janvier 2020 – juillet 2022</date>
       </creation>
       <langUsage>
         <language ident="fr"/>
@@ -54,6 +54,7 @@
       <change when="2022-11" n="1,260">Novembre 2022, v. 1,260 : ajout des lettres conservées dans le fonds Lacau de l'École pratique des hautes études.</change>
       <change when="2023-07" n="1,376">Juillet 2023, v. 1,376 : ajout de lettres conservées parmi les papiers Maspero à la bibliothèque de l'Institut de France.</change>
       <change when="2024-07" n="1,408">Juillet 2024, v. 1,408 : ajout de lettres isolées et de petites séries issues des Archives nationales, de la bibliothèque cantonale de Genève, de la bibliothèque municipale de Boulogne-sur-Mer, de la Bibliothèque nationale de France, de la British Library, de la Goethe- und Schiller-Archiv, de la Kantonsbibliothek Vadiana St. Gallen, du Musée de la vie romantique, de la bibliothèque centrale du Muséun nationale d'histoire naturelle, de la Peggy Joy Egyptology Library, du département des antiquités égyptiennes du musée du Louvre et du Somerville College.</change>
+      <change when="2025-07" n="1,463">Juillet 2025, v. 1,463 : ajout des lettres à Lepsius (Musées royaux d'art et d'histoire de Bruxelles) et de celles envoyées à Brugsch jusqu'en 1858 (Università degli Studi di Milano, Biblioteca e Archivi di Egittologia).</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -134,7 +135,7 @@
 					<person xml:id="CoEg_pers_00000017" role="contemp">
             <persName>Mohammed Aly Pacha</persName>
 						<idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb11969320q</idno>
-						<idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb11969320q </idno>
+						<idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb11969320q</idno>
 						<idno type="IdRef">https://www.idref.fr/161593585</idno>
 						<idno type="VIAF">https://viaf.org/viaf/29512610</idno>
 						<idno type="Wikidata">https://www.wikidata.org/wiki/Q182781</idno>
@@ -318,7 +319,7 @@
 						<idno type="Wikidata">https://www.wikidata.org/wiki/Q745216</idno>
 						<note type="def">Officier militaire (1788-1860). Français passé au service de l’Égypte.</note></person>
 					<person xml:id="CoEg_pers_00000061" role="contemp">
-            <persName>Lepsius, Karl Richard</persName>
+            <persName>Lepsius, Richard</persName>
 						<idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb12416893t</idno>
 						<idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb12416893t</idno>
 						<idno type="IdRef">https://www.idref.fr/033287740</idno>
@@ -342,7 +343,7 @@
 						<idno type="VIAF">https://viaf.org/viaf/24591314</idno>
 						<idno type="Wikidata">https://www.wikidata.org/wiki/Q47461240</idno></person>
 					<person xml:id="CoEg_pers_00000070" role="contemp">
-            <persName>Bonnefoy</persName>
+            <persName>Bonnefoy, Marius François Joseph</persName>
 						<note type="Mariette">Auxiliaire officieux de Mariette pendant ses premières fouilles au Sérapéum ; nommé membre du service de conservation des antiquités de l’Égypte à sa création en 1858.</note></person>
 					<person xml:id="CoEg_pers_00000071" role="contemp">
             <persName>Napoléon III</persName>
@@ -551,7 +552,7 @@
 						<idno type="Wikidata">https://www.wikidata.org/wiki/Q76743</idno>
 						<note type="def">Helléniste bibliste (1815-1874).</note></person>
 					<person xml:id="CoEg_pers_00000134" role="contemp">
-            <persName>Frédéric Auguste II</persName>
+            <persName>Frédéric-Auguste II</persName>
 						<idno type="VIAF">https://viaf.org/viaf/40177070</idno>
 						<idno type="Wikidata">https://www.wikidata.org/wiki/Q57986</idno>
 						<note type="def">Roi de Saxe (1797-1854).</note></person>
@@ -1317,7 +1318,7 @@
             <persName>Vogüé (de), ?</persName>
 						<note type="Mariette">Mariette le qualifie de neveu de Melchior de Vogüé (celui-ci ne semble cependant pas en avoir eu qui partagent son patronyme).</note></person>
 					<person xml:id="CoEg_pers_00000359" role="contemp">
-            <persName>Biot</persName>
+            <persName>Biot, Jean-Baptiste</persName>
 						<idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb12150160s</idno>
 						<idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb12150160s</idno>
 						<idno type="IdRef">https://www.idref.fr/029993806</idno>
@@ -1832,13 +1833,13 @@
           <person xml:id="CoEg_pers_00000476" role="contemp">
             <persName>Khosrow Bey</persName></person>
           <person xml:id="CoEg_pers_00000477" role="contemp">
-            <persName>Atouch abou Faïd</persName>
+            <persName>Atouch Abou Faïd</persName>
             <note type="def">Reïs des fouilles à Gizah.</note></person>
           <person xml:id="CoEg_pers_00000478" role="contemp">
-            <persName>Ibrahim abou Hagazeh</persName>
+            <persName>Ibrahim Abou Hagazeh</persName>
             <note type="def">Reïs des fouilles à Mit Rahinah.</note></person>
           <person xml:id="CoEg_pers_00000479" role="contemp">
-            <persName>Roubi abou Khamsaoui</persName>
+            <persName>Roubi Abou Khamsaoui</persName>
             <note type="def">Reïs des fouilles à Saqqarah.</note></person>
           <person xml:id="CoEg_pers_00000480" role="contemp">
             <persName>Mohammed Damarani</persName>
@@ -2006,6 +2007,13 @@
             <persName>Amyot</persName></person>
           <person xml:id="CoEg_pers_00000536" role="contemp">
             <persName>Hinrichs</persName></person>
+          <person xml:id="CoEg_pers_00000540" role="contemp">
+            <persName>Broca, Paul</persName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb11894093b</idno>
+            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb11894093b</idno>
+            <idno type="IdRef">https://www.idref.fr/026753804</idno>
+            <idno type="VIAF">https://viaf.org/viaf/14766849/</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q311276</idno></person>
           <person xml:id="CoEg_pers_00000543" role="contemp">
             <persName>Ismaïl Siddiq Pacha</persName>
             <idno type="VIAF">https://viaf.org/viaf/75733634/</idno>
@@ -2118,12 +2126,7 @@
             <persName>Henry, Florent</persName></person>
           <person xml:id="CoEg_pers_00000573" role="contemp">
             <persName>Hamy, Théodore</persName>
-            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb119068235</idno>
-            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb119068235</idno>
-            <idno type="IdRef">https://www.idref.fr/026913860</idno>
-            <idno type="VIAF">https://viaf.org/viaf/44299915/</idno>
-            <idno type="Wikidata">https://www.wikidata.org/wiki/Q1356363</idno>
-            <note type="def">Anthropologue (1842-1908).</note></person>
+            <note type="def">(1799-1875) Père d'Ernest-Théodore Hamy.</note></person>
           <person xml:id="CoEg_pers_00000574" role="contemp">
             <persName>Reuter, Edmond Georges</persName>
             <note type="def">Artiste (1845-1917).</note></person>
@@ -2155,7 +2158,7 @@
             <persName>Duhamel, François</persName></person>
           <person xml:id="CoEg_pers_00000582" role="contemp">
             <persName>Cossé-Brissac (de), Artus-Gabriel</persName>
-            <note type="Mariette">Mariette cite simplement "M. de Cossé" ; Artus-Gabriel de Cossé-Brissac résidait au château de Colembert, construit par sa belle-famille les Sainte-Aldegonde.</note></person>
+            <note type="Mariette">Mariette cite simplement « M. de Cossé » ; Artus-Gabriel de Cossé-Brissac résidait près de Boulogne-sur-Mer au château de Colembert, construit par sa belle-famille les Sainte-Aldegonde.</note></person>
           <person xml:id="CoEg_pers_00000583" role="contemp">
             <persName>Gounod, Charles</persName>
             <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb138946384</idno>
@@ -2220,6 +2223,231 @@
             <idno type="VIAF">https://viaf.org/viaf/6003848/</idno>
             <idno type="Wikidata">https://www.wikidata.org/wiki/Q312683</idno>
             <note type="def">Roi de Sardaigne (1765-1831).</note></person>
+            <person xml:id="CoEg_pers_00000616" role="contemp">
+              <persName>Aubert-Roche, Louis-Rémy</persName>
+              <idno type="VIAF">https://viaf.org/viaf/35240036</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Q3260872</idno>
+              <note type="def">Médecin en chef de la Compagnie universelle du canal maritime de Suez (1818-1874).</note></person>
+            <person xml:id="CoEg_pers_00000617" role="contemp">
+              <persName>Jafar Mahzar Pacha</persName>
+              <note type="def">Gouverneur général du Soudan de 1866 à 1871 († 1878).</note></person>
+            <person xml:id="CoEg_pers_00000618" role="contemp">
+              <persName>Schimpff, Friedrich Hermann</persName>
+              <note type="def">Libraire de Trieste.</note></person>
+            <person xml:id="CoEg_pers_00000619" role="contemp">
+              <persName>Salzmann, Auguste</persName>
+              <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb10452233w</idno>
+              <idno type="IdRef">https://www.idref.fr/106947478</idno>
+              <idno type="VIAF">https://viaf.org/viaf/4919893</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Q767017</idno>
+              <note type="def">Archéologue et artiste (1824-1872).</note></person>
+            <person xml:id="CoEg_pers_00000621" role="contemp">
+              <persName>Orbiney (d'), Elizabeth</persName>
+              <note type="def">A vendu en 1857 le papyrus portant son nom au British Museum.</note></person>
+            <person xml:id="CoEg_pers_00000622" role="contemp">
+              <persName>Galle, Johann Goffried</persName>
+              <idno type="IdRef">http://www.idref.fr/079987435</idno>
+              <idno type="VIAF">http://viaf.org/viaf/32790698</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Q76431</idno>
+              <note type="def">Astronome (1812-1910).</note></person>
+            <person xml:id="CoEg_pers_00000623" role="contemp">
+              <persName>Le Verrier, Urbain</persName>
+              <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb13009244x</idno>
+              <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb13009244x</idno>
+              <idno type="IdRef">http://www.idref.fr/074773860</idno>
+              <idno type="VIAF">http://viaf.org/viaf/73986042</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Q104154</idno>
+              <note type="def">Astronome et mathématicien (1811-1877).</note></person>
+            <person xml:id="CoEg_pers_00000625" role="contemp">
+              <persName>Lesseps (de), Charles Aimé</persName>
+              <idno type="catGenBNF">https://catalogue.bnf.fr/en/ark:/12148/cb152881978</idno>
+              <idno type="dataBnF">https://data.bnf.fr/en/ark:/12148/cb152881978</idno>
+              <idno type="VIAF">https://viaf.org/en/viaf/27365772</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Q103839815</idno>
+              <note type="def">Juriste et ingénieur (1840-1923).</note></person>
+          <person xml:id="CoEg_pers_00000626" role="contemp">
+              <persName>Pentz (von), Ernst Friedrich August</persName>
+              <note type="def">Diplomate (1803-1874). Consul général de Prusse en Égypte.</note></person>
+          <person xml:id="CoEg_pers_00000627" role="contemp">
+              <persName>Schlieffen (von), Wilhelm</persName>
+              <idno type="IdRef">https://www.idref.fr/260508551</idno>
+              <idno type="VIAF">https://viaf.org/viaf/8170666</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Q2576061</idno></person>
+          <person xml:id="CoEg_pers_00000628" role="contemp">
+              <persName>Böckh, August</persName>
+              <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb129576905</idno>
+              <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb129576905</idno>
+              <idno type="IdRef">http://www.idref.fr/032639864</idno>
+              <idno type="VIAF">http://viaf.org/viaf/37048283</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Q63183</idno>
+              <note type="def">Helléniste (1785-1867).</note></person>
+          <person xml:id="CoEg_pers_00000630" role="contemp">
+              <persName>Saïd</persName></person>
+          <person xml:id="CoEg_pers_00000631" role="contemp">
+              <persName>Francœur, Louis-Benjamin</persName>
+              <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb14406333n</idno>
+              <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb14406333n</idno>
+              <idno type="IdRef">http://www.idref.fr/076906523</idno>
+              <idno type="VIAF">http://viaf.org/viaf/19894281</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Special:EntityPage/Q323650</idno>
+              <note type="def">Mathématicien (1773-1849).</note></person>
+          <person xml:id="CoEg_pers_00000632" role="contemp">
+              <persName>Weisz</persName></person>
+          <person xml:id="CoEg_pers_00000633" role="contemp">
+              <persName>Maunier, Victor Gustave</persName></person>
+          <person xml:id="CoEg_pers_00000634" role="contemp">
+              <persName>Odescalchi, Luigi</persName></person>
+          <person xml:id="CoEg_pers_00000635" role="contemp">
+              <persName>Odescalchi, Madame</persName></person>
+          <person xml:id="CoEg_pers_00000636" role="contemp">
+              <persName>Schneider</persName></person>
+          <person xml:id="CoEg_pers_00000638" role="contemp">
+              <persName>Humboldt (von), Alexander</persName>
+              <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb119080343</idno>
+              <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb119080343</idno>
+              <idno type="IdRef">http://www.idref.fr/027399427</idno>
+              <idno type="VIAF">http://viaf.org/viaf/95193235</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Special:EntityPage/Q6694</idno>
+              <note type="def">Naturaliste et géographe (1769-1859).</note></person>
+          <person xml:id="CoEg_pers_00000639" role="contemp">
+              <persName>Abeken, Heinrich</persName>
+              <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb16246219k</idno>
+              <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb16246219k</idno>
+              <idno type="IdRef">http://www.idref.fr/115221328</idno>
+              <idno type="VIAF">https://viaf.org/viaf/64746771</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Special:EntityPage/Q71716</idno>
+              <note type="def">Théologien et diplomate (1809-1872).</note></person>
+          <person xml:id="CoEg_pers_00000640" role="contemp">
+              <persName>Harcke épouse Brugsch, Albertine Louise Pauline</persName></person>
+          <person xml:id="CoEg_pers_00000642" role="contemp">
+              <persName>Brugsch, Ernst Wilhelm</persName></person>
+          <person xml:id="CoEg_pers_00000643" role="contemp">
+              <persName>Schramm épouse Brugsch, Dorothea</persName></person>
+          <person xml:id="CoEg_pers_00000644" role="contemp">
+              <persName>Witte (de), Jean</persName>
+              <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb134770201</idno>
+              <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb134770201</idno>
+              <idno type="IdRef">http://www.idref.fr/067034748</idno>
+              <idno type="VIAF">http://viaf.org/viaf/120701895</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Special:EntityPage/Q834079</idno>
+              <note type="def">Antiquisant.</note></person>
+          <person xml:id="CoEg_pers_00000645" role="contemp">
+              <persName>Husson, Henry</persName>
+              <note type="def">Photographe (1814-1855).</note></person>
+          <person xml:id="CoEg_pers_00000646" role="contemp">
+              <persName>Swinburne, Henry</persName>
+              <note type="def">Ingénieur ferroviaire (1821-1855).</note></person>
+          <person xml:id="CoEg_pers_00000647" role="contemp">
+              <persName>Merlin</persName></person>
+          <person xml:id="CoEg_pers_00000648" role="contemp">
+              <persName>Isabelle II d'Espagn</persName>
+              <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb120667707</idno>
+              <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb120667707</idno>
+              <idno type="IdRef">http://www.idref.fr/088342700</idno>
+              <idno type="VIAF">http://viaf.org/viaf/87748802</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Special:EntityPage/Q183085</idno>
+              <note type="def">Reine d'Espagne (1830-1904).</note></person>
+          <person xml:id="CoEg_pers_00000649" role="contemp">
+              <persName>Hatzfeldt-Trachenberg (von), Maximilian</persName>
+              <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb16240055f</idno>
+              <idno type="VIAF">https://viaf.org/viaf/5684948</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Q25712434</idno>
+              <note type="def">ambassadeur de Prusse en France (1813-1859).</note></person>
+          <person xml:id="CoEg_pers_00000652" role="contemp">
+              <persName>Stobart, Henry</persName></person>
+          <person xml:id="CoEg_pers_00000655" role="contemp">
+              <persName>Brugsch, Charlotte Elisabeth Henriette Alexandra</persName></person>
+          <person xml:id="CoEg_pers_00000657" role="contemp">
+              <persName>Seiffert</persName></person>
+          <person xml:id="CoEg_pers_00000659" role="contemp">
+              <persName>Escayrac de Lauture (d'), Stanislas</persName>
+              <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb119018787</idno>
+              <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb119018787</idno>
+              <idno type="IdRef">https://www.idref.fr/152802878</idno>
+              <idno type="VIAF">https://viaf.org/viaf/2469890</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Special:EntityPage/Q2093037</idno>
+              <note type="def">Explorateur (1826-1868).</note></person>
+          <person xml:id="CoEg_pers_00000661" role="contemp">
+              <persName>Dindorf, Karl Wilhelm</persName>
+              <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb12180358d</idno>
+              <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb12180358d</idno>
+              <idno type="IdRef">http://www.idref.fr/030376564</idno>
+              <idno type="VIAF">http://viaf.org/viaf/22184611</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Special:EntityPage/Q67533</idno>
+              <note type="def">Helléniste (1802-1883).</note></person>
+          <person xml:id="CoEg_pers_00000662" role="contemp">
+              <persName>Lami, Alphonse</persName>
+              <idno type="IdRef">http://www.idref.fr/197365736</idno>
+              <idno type="VIAF">http://viaf.org/viaf/73011230</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Special:EntityPage/Q2839857</idno>
+              <note type="def">Sculpteur (1822-1867).</note></person>
+          <person xml:id="CoEg_pers_00000664" role="contemp">
+              <persName>Gazzera, Costanzo</persName>
+              <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb124276586</idno>
+              <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb124276586</idno>
+              <idno type="IdRef">http://www.idref.fr/033407991</idno>
+              <idno type="VIAF">http://viaf.org/viaf/49315437</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Special:EntityPage/Q3695660</idno>
+              <note type="def">Archéologue (1778-1859).</note></person>
+          <person xml:id="CoEg_pers_00000666" role="contemp">
+              <persName>Barucchi, Francesco</persName>
+              <idno type="VIAF">https://viaf.org/viaf/70780615</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Q59711478</idno>
+              <note type="def">Égyptologue (1801-1869).</note></person>
+          <person xml:id="CoEg_pers_00000667" role="contemp">
+              <persName>Orcurti, Pier-Camillo</persName>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Q61480975</idno>
+              <note type="def">Égyptologue.</note></person>
+          <person xml:id="CoEg_pers_00000668" role="contemp">
+              <persName>Mellier (?)</persName></person>
+          <person xml:id="CoEg_pers_00000669" role="contemp">
+              <persName>Haker</persName></person>
+          <person xml:id="CoEg_pers_00000671" role="contemp">
+              <persName>Gerhard, Friedrich Wilhelm Eduard</persName>
+              <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb106868177</idno>
+              <idno type="dataBnF">https://date.bnf.fr/ark:/12148/cb106868177</idno>
+              <idno type="IdRef">https://www.idref.fr/067690645</idno>
+              <idno type="VIAF">https://viaf.org/viaf/77110765</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Special:EntityPage/Q66921</idno>
+              <note type="def">Archéologue (1795-1867).</note></person>
+          <person xml:id="CoEg_pers_00000672" role="contemp">
+              <persName>Mariette, François Paulin</persName>
+              <note type="Mariette">Père de Mariette.</note></person>
+          <person xml:id="CoEg_pers_00000675" role="contemp">
+              <persName>Olfers (von), Ignaz</persName>
+              <idno type="IdRef">https://www.idref.fr/188239243</idno>
+              <idno type="VIAF">https://viaf.org/viaf/89318541</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Q214962</idno>
+              <note type="def">Naturaliste et diplomate (1793-1871).</note></person>
+          <person xml:id="CoEg_pers_00000679" role="contemp">
+              <persName>Abou Samra</persName></person>
+          <person xml:id="CoEg_pers_00000680" role="contemp">
+              <persName>[Hassanin ?] el Achin</persName></person>
+          <person xml:id="CoEg_pers_00000681" role="contemp">
+              <persName>Mohamed Abou Hatifeh</persName></person>
+          <person xml:id="CoEg_pers_00000682" role="contemp">
+              <persName>Rauch, Christian Daniel</persName>
+              <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb13576663w</idno>
+              <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb13576663w</idno>
+              <idno type="IdRef">http://www.idref.fr/076062228</idno>
+              <idno type="VIAF">http://viaf.org/viaf/39650543</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Special:EntityPage/Q714972</idno>
+              <note type="def">Sculpteur (1777-1857).</note></person>
+          <person xml:id="CoEg_pers_00000684" role="contemp">
+              <persName>Billing (de) épouse de Saulcy, Mathilde</persName></person>
+          <person xml:id="CoEg_pers_00000686" role="contemp">
+              <persName>Burton, James</persName>
+              <idno type="IdRef">https://www.idref.fr/23295237X</idno>
+              <idno type="VIAF">https://viaf.org/viaf/52036395</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Q1356957</idno>
+              <note type="def">Égyptologue (1788-1862).</note></person>
+          <person xml:id="CoEg_pers_00000691" role="contemp">
+              <persName>Lee, John</persName>
+              <idno type="IdRef">https://www.idref.fr/238103331</idno>
+              <idno type="VIAF">https://viaf.org/viaf/47524207</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Q6244369</idno>
+              <note type="def">Astronome et antiquaire (1783-1866).</note></person>
+
         </listPerson>
         <listPerson>
           <head>Personnages historiques</head>
@@ -2928,7 +3156,7 @@
             <note type="def">Roi d'Égypte (XXVIe dynastie).</note>
             <note type="Mariette">Mariette écrit « Psammitichus ».</note></person>
           <person xml:id="CoEg_pers_00000350" role="hist">
-            <persName>Louis XIV</persName>
+            <persName>Louis XIV le Grand</persName>
             <note type="def">Roi de France (1643-1715).</note>
             <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb11913463s</idno>
             <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb11913463s</idno>
@@ -3090,14 +3318,6 @@
             <idno type="VIAF">https://viaf.org/viaf/316434972</idno>
             <idno type="Wikidata">https://www.wikidata.org/wiki/Q19248</idno>
             <note type="def">Roi d'Égypte (XIIe dynastie).</note></person>
-          <person xml:id="CoEg_pers_00000511" role="hist">
-            <persName>Cléopâtre VII</persName>
-            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb11938532d</idno>
-            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb11938532d</idno>
-            <idno type="IdRef">https://www.idref.fr/027316564</idno>
-            <idno type="VIAF">https://viaf.org/viaf/67762941/</idno>
-            <idno type="Wikidata">https://www.wikidata.org/wiki/Q635</idno>
-            <note type="def">Reine d'Égypte (69-30).</note></person>
           <person xml:id="CoEg_pers_00000512" role="hist">
             <persName>Pompée</persName>
             <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb11938643b</idno>
@@ -3136,19 +3356,9 @@
             <persName>Péretié, Aimé</persName>
             <idno type="Wikidata">https://www.wikidata.org/wiki/Q85290775</idno>
             <note type="def">(1808-1882).</note></person>
-          <person xml:id="CoEg_pers_00000540" role="contemp">
-            <persName>Broca, Paul</persName>
-            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb11894093b</idno>
-            <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb11894093b</idno>
-            <idno type="IdRef">https://www.idref.fr/026753804</idno>
-            <idno type="VIAF">https://viaf.org/viaf/14766849/</idno>
-            <idno type="Wikidata">https://www.wikidata.org/wiki/Q311276</idno></person>
           <person xml:id="CoEg_pers_00000541" role="hist">
             <persName>Ebner, Florian</persName>
             <note type="def">Libraire cairote.</note></person>
-          <person xml:id="CoEg_pers_00000542" role="myth">
-            <persName>Taouret</persName>
-            <note type="def">Déesse égyptienne.</note></person>
           <person xml:id="CoEg_pers_00000545" role="hist">
             <persName>Ésope</persName>
             <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb11929800n</idno>
@@ -3196,7 +3406,7 @@
             <idno type="Wikidata">https://www.wikidata.org/wiki/Q897689</idno>
             <note type="def">Écrivain grec.</note></person>
           <person xml:id="CoEg_pers_00000581" role="hist">
-            <persName>Louis IX de France</persName>
+            <persName>Louis IX le Saint</persName>
             <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb120344600</idno>
             <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb120344600</idno>
             <idno type="IdRef">https://www.idref.fr/028525949</idno>
@@ -3227,7 +3437,7 @@
           <person xml:id="CoEg_pers_00000597" role="hist">
             <persName>Osorkon III</persName>
             <idno type="Wikidata">https://www.wikidata.org/wiki/Q515584</idno>
-            <note type="def">Roi d'Égypte (XXIIIe dynastie).</note></person></person>
+            <note type="def">Roi d'Égypte (XXIIIe dynastie).</note></person>
           <person xml:id="CoEg_pers_00000598" role="hist">
             <persName>Nebnetjérou</persName>
             <note type="def">Prêtre égyptien.</note></person>
@@ -3295,8 +3505,88 @@
             <idno type="Wikidata">https://www.wikidata.org/wiki/Q21694324</idno>
             <note type="def">Roi d'Égypte (XXIIe dynastie).</note>
             <note type="Mariette">Mariette écrit "Scheschonk IV".</note></person>
+          <person xml:id="CoEg_pers_00000624" role="hist">
+            <persName>Jeanne d'Arc</persName>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q7226</idno>
+            <note type="def">Protagoniste de la Guerre de Cent ans (1412-1431).</note></person>
+          <person xml:id="CoEg_pers_00000637" role="hist">
+              <persName>Geminos de Rhodes</persName>
+              <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb11904540f</idno>
+              <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb11904540f</idno>
+              <idno type="IdRef">http://www.idref.fr/026886774</idno>
+              <idno type="VIAF">http://viaf.org/viaf/250472024</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Special:EntityPage/Q379987</idno>
+              <note type="def">Philosophe et astronome grec (Ier siècle avant notre ère-Ier siècle de notre ère).</note></person>
+          <person xml:id="CoEg_pers_00000654" role="hist">
+              <persName>Piânkhy</persName></person>
+          <person xml:id="CoEg_pers_00000656" role="hist">
+              <persName>Charles III</persName>
+              <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb119389764</idno>
+              <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb119389764</idno>
+              <idno type="IdRef">http://www.idref.fr/027322394</idno>
+              <idno type="VIAF">http://viaf.org/viaf/100902917</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Special:EntityPage/Q36234</idno>
+              <note type="def">Roi d'Espagne (1716-1788).</note></person>
+          <person xml:id="CoEg_pers_00000658" role="hist">
+              <persName>Ptolémée V Épiphane</persName>
+              <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb12245711d</idno>
+              <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb12245711d</idno>
+              <idno type="IdRef">http://www.idref.fr/069262810</idno>
+              <idno type="VIAF">http://viaf.org/viaf/5983154441748435460003</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Special:EntityPage/Q39957</idno>
+              <note type="def">Roi d'Égypte.</note></person>
+          <person xml:id="CoEg_pers_00000663" role="hist">
+              <persName>Seqenenrê Taâ</persName>
+              <idno type="VIAF">https://viaf.org/viaf/84098302</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Special:EntityPage/Q31526</idno>
+              <note type="def">Roi d'Égypte (XVIIe dynastie).</note></person>
+          <person xml:id="CoEg_pers_00000674" role="hist">
+              <persName>Khababach</persName>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Special:EntityPage/Q881240</idno>
+              <note type="def">Roi d'Égypte (XXXIe dynastie).</note></person>
+          <person xml:id="CoEg_pers_00000677" role="hist">
+              <persName>Fresnel, Fulgence</persName>
+              <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb13763198k</idno>
+              <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb13763198k</idno>
+              <idno type="IdRef">http://www.idref.fr/077328302</idno>
+              <idno type="VIAF">http://viaf.org/viaf/54328923</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Special:EntityPage/Q703951</idno>
+              <note type="def">Diplomate et orientaliste (1795-1855).</note></person>
+          <person xml:id="CoEg_pers_00000678" role="hist">
+              <persName>Ézéchias</persName>
+              <idno type="VIAF">https://viaf.org/viaf/8820631</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Q244912</idno>
+              <note type="def">Roi de Juda (v. 739-687).</note></person>
+          <person xml:id="CoEg_pers_00000683" role="hist">
+              <persName>Frédéric II le Grand</persName>
+              <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb11886351h</idno>
+              <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb11886351h</idno>
+              <idno type="IdRef">https://www.idref.fr/027405222</idno>
+              <idno type="VIAF">https://viaf.org/viaf/12303200</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Q33550</idno>
+              <note type="def">Roi de Prusse (1712-1786).</note></person>
+          <person xml:id="CoEg_pers_00000685" role="hist">
+              <persName>Xerxès Ier le Grand</persName>
+              <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb150689088</idno>
+              <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb150689088</idno>
+              <idno type="IdRef">https://www.idref.fr/050588400</idno>
+              <idno type="VIAF">http://viaf.org/viaf/282770127</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Q129165</idno>
+              <note type="def">Roi de Perse (519-465).</note></person>
+          <person xml:id="CoEg_pers_00000687" role="hist">
+              <persName>Ahmès fils de Paiounhor</persName></person>
+          <person xml:id="CoEg_pers_00000688" role="hist">
+              <persName>Paiounhor</persName></person>
+          <person xml:id="CoEg_pers_00000689" role="hist">
+              <persName>Horpasen</persName></person>
+          <person xml:id="CoEg_pers_00000690" role="hist">
+              <persName>Nimlot C</persName>
+              <note type="def">Roi d'Égypte (XXIIe dynastie).</note></person>
+          <person xml:id="CoEg_pers_00000692" role="hist">
+              <persName>Oudhmoutânkhes</persName>
+			  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1690865</idno>
+              <note type="def">Épouse d'Osorkon II, mère de Nimlot C.</note></person>
         </listPerson>
-
         <listPerson>
           <head>Figures mythologiques ou religieuses</head>
           <person xml:id="CoEg_pers_00000011" role="myth">
@@ -3544,6 +3834,9 @@
             <idno type="VIAF">https://viaf.org/viaf/22941468/</idno>
             <idno type="Wikidata">https://www.wikidata.org/wiki/Q170471</idno>
             <note type="def">Déesse égyptienne.</note></person>
+          <person xml:id="CoEg_pers_00000542" role="myth">
+            <persName>Taouret</persName>
+            <note type="def">Déesse égyptienne.</note></person>
           <person xml:id="CoEg_pers_00000578" role="myth">
             <persName>Bastet</persName>
             <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb15713063w</idno>
@@ -3592,6 +3885,48 @@
             <idno type="VIAF">https://viaf.org/viaf/11187922/</idno>
             <idno type="Wikidata">https://www.wikidata.org/wiki/Q81422</idno>
             <note type="def">Personnage biblique.</note></person>
+          <person xml:id="CoEg_pers_00000620" role="myth">
+            <persName>Sothis</persName>
+            <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb17136352f</idno>
+            <idno type="IdRef">https://www.idref.fr/241148227</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q930167</idno>
+            <note type="def">Déesse égyptienne.</note></person>
+          <person xml:id="CoEg_pers_00000641" role="myth">
+              <persName>Pakhet</persName>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Q918104</idno>
+              <note type="def">Déesse égyptienne.</note></person>
+          <person xml:id="CoEg_pers_00000651" role="myth">
+              <persName>Sémiramis</persName>
+              <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb135163289</idno>
+              <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb135163289</idno>
+              <idno type="IdRef">http://www.idref.fr/027586219</idno>
+              <idno type="VIAF">http://viaf.org/viaf/219992782</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Special:EntityPage/Q103960</idno></person>
+          <person xml:id="CoEg_pers_00000653" role="myth">
+              <persName>Nitocris</persName>
+              <idno type="VIAF">https://viaf.org/viaf/14172855</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Special:EntityPage/Q230774</idno>
+              <note type="def">Reine d'Égypte semi-légendaire.</note></person>
+          <person xml:id="CoEg_pers_00000660" role="myth">
+              <persName>Adam</persName>
+              <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb17011701v</idno>
+              <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb17011701v</idno>
+              <idno type="IdRef">http://www.idref.fr/027642798</idno>
+              <idno type="VIAF">http://viaf.org/viaf/308180317</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Special:EntityPage/Q70899</idno></person>
+          <person xml:id="CoEg_pers_00000665" role="myth">
+              <persName>Job</persName>
+              <idno type="VIAF">http://viaf.org/viaf/46762859</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Special:EntityPage/Q179962</idno></person>
+          <person xml:id="CoEg_pers_00000673" role="myth">
+              <persName>Nout</persName>
+              <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb171442192</idno>
+              <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb171442192</idno>
+              <idno type="IdRef">https://www.idref.fr/097527858</idno>
+              <idno type="VIAF">https://viaf.org/viaf/69872963</idno>
+              <idno type="Wikidata">https://www.wikidata.org/wiki/Special:EntityPage/Q165496</idno>
+              <note type="def">Déesse égyptienne.</note></person>
+
         </listPerson>
 
         <listPerson>
@@ -3604,7 +3939,10 @@
             <note type="def">Singe</note></person>
           <person xml:id="CoEg_pers_00000565" role="anim">
             <persName>Guzel</persName>
-            <note type="def">Gazelle</note></person></listPerson>
+            <note type="def">Gazelle</note></person>
+		  <person xml:id="CoEg_pers_00000629" role="anim">
+		    <persName>Bibi</persName></person>
+			</listPerson>
       </div>
 
       <div>
@@ -4096,7 +4434,31 @@
           <org xml:id="CoEg_org_00000095">
             <orgName>Police égyptienne</orgName>
             <idno type="Wikidata">https://www.wikidata.org/wiki/Q3394202</idno></org>
-
+          <org xml:id="CoEg_org_00000096">
+            <orgName>ministère prussien des Affaires étrangères</orgName></org>
+          <org xml:id="CoEg_org_00000097">
+            <orgName>Mourès et compagnie</orgName><note>éditeur</note></org>
+          <org xml:id="CoEg_org_00000098">
+            <orgName>Compagnie universelle du canal maritime de Suez</orgName>
+            <idno type="VIAF">https://viaf.org/viaf/594145857915923021352</idno>
+            <idno type="Wikidata">https://www.wikidata.org/wiki/Q1551864</idno></org>
+          <org xml:id="CoEg_org_00000099">
+			<orgName>Académie royale des sciences (Berlin)</orgName><idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb12360750p</idno><idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb12360750p</idno><idno type="IdRef">https://www.idref.fr/032610696</idno><idno type="VIAF">https://viaf.org/viaf/127696567</idno><idno type="Wikidata">https://www.wikidata.org/wiki/Q329464</idno></org>
+          <org xml:id="CoEg_org_00000100">
+			<orgName>Espagne</orgName>
+			<idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb118635857</idno>
+			<idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb118635857</idno>
+			<idno type="IdRef">https://www.idref.fr/026376296</idno>
+			<idno type="VIAF">https://viaf.org/viaf/133609710</idno>
+			<idno type="Wikidata">https://www.wikidata.org/wiki/Q29</idno>
+			<note>(en tant qu'État ; voir l'index géographique pour le territoire correspondant). Gouvernement et administration de l'Espagne</note></org>
+          <org xml:id="CoEg_org_00000101">
+			<orgName>Académie royale des sciences de Turin</orgName>
+			<idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb12179422n</idno>
+			<idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb12179422n</idno>
+			<idno type="IdRef">https://www.idref.fr/030363837</idno>
+			<idno type="VIAF">https://viaf.org/viaf/158005777</idno>
+			<idno type="Wikidata">https://www.wikidata.org/wiki/Q2822396</idno></org>
         </listOrg>
       </div>
 
@@ -5013,7 +5375,7 @@
           <idno type="Trismegistos">https://www.trismegistos.org/place/10886</idno>
           <idno type="Wikidata">https://www.wikidata.org/wiki/Q282350</idno></place>
         <place xml:id="CoEg_place_00000143">
-          <placeName>Chanaan</placeName>
+          <placeName>Canaan</placeName>
           <location><geo>32.766667, 35.333333</geo></location>
           <idno type="Wikidata">https://www.wikidata.org/wiki/Q163329</idno></place>
         <place xml:id="CoEg_place_00000144">
@@ -5328,7 +5690,7 @@
           <idno type="GeoNames">https://www.geonames.org/2751772</idno>
           <idno type="Wikidata">https://www.wikidata.org/wiki/Q43631</idno></place>
         <place xml:id="CoEg_place_00000196">
-          <placeName>Cynopolis superior</placeName>
+          <placeName>Cynopolis Superior</placeName>
           <location><geo>28.4833, 30.7833</geo></location>
           <idno type="GeoNames">https://www.geonames.org/360567</idno>
           <idno type="Wikidata">https://www.wikidata.org/wiki/Q3008796</idno></place>
@@ -5517,10 +5879,6 @@
           <idno type="GeoName">https://www.geonames.org/360761</idno>
           <idno type="Wikidata">https://www.wikidata.org/wiki/Q223587</idno>
           <note type="def">(المنصورة [Al-Manṣūrah])</note></place>
-        <place xml:id="CoEg_place_00000230">
-          <placeName>Canaan</placeName>
-          <location><geo>32.766667, 35.333333</geo></location>
-          <idno type="Wikidata">https://www.wikidata.org/wiki/Q163329</idno></place>
         <place xml:id="CoEg_place_00000231">
           <placeName>Darfour</placeName>
           <location><geo>13, 25</geo></location>
@@ -5581,6 +5939,91 @@
           <placeName>Sardaigne (royaume)</placeName>
           <location><geo>0, 0</geo></location>
           <idno type="Wikidata">https://www.wikidata.org/wiki/Q2577303</idno></place>
+        <place xml:id="CoEg_place_00000243">
+          <placeName>Dongola</placeName>
+          <location><geo>19.176944,30.483889</geo></location>
+          <idno type="GeoName">https://www.geonames.org/363417</idno>
+          <idno type="Wikidata">https://www.wikidata.org/wiki/Q821321</idno>
+          <note type="def">(دنقلا [Dunqulā])</note></place>
+        <place xml:id="CoEg_place_00000244">
+          <placeName>Rhodes</placeName>
+          <location><geo>36.17,27.92</geo></location>
+          <idno type="GeoName">https://www.geonames.org/400665</idno>
+          <idno type="Pleiades">https://pleiades.stoa.org/places/590030</idno>
+          <idno type="Wikidata">https://www.wikidata.org/wiki/Q43048</idno></place>
+        <place xml:id="CoEg_place_00000245">
+          <placeName>Philae</placeName>
+          <location><geo>24.02174,32.88891</geo></location>
+          <idno type="GeoName">https://www.geonames.org/356859</idno>
+          <idno type="Pleiades">https://pleiades.stoa.org/places/786089</idno>
+          <idno type="Wikidata">https://www.wikidata.org/wiki/Q245062</idno></place>
+        <place xml:id="CoEg_place_00000245">
+          <placeName>Ismaïliah</placeName>
+          <location><geo>30.583333,32.266667</geo></location>
+          <idno type="GeoName">https://www.geonames.org/361055</idno>
+          <idno type="Wikidata">https://www.wikidata.org/wiki/Q217156</idno>
+          <note type="def">(الإسماعيلية [Al-Ismāʻīlīyah])</note></place>
+		<place xml:id="CoEg_place_00000247">
+          <placeName>Saint-Sulpice</placeName>
+		  <location><geo>48.851002, 2.334923</geo></location>
+		  <idno type="GeoName">https://www.geonames.org/6452782</idno>
+		  <idno type="Wikidata">https://www.wikidata.org/wiki/Q295844</idno></place>
+		<place xml:id="CoEg_place_00000248">
+          <placeName>Palais-royal</placeName>
+		  <location><geo>48.863333, 2.336944</geo></location>
+		  <idno type="GeoName">https://www.geonames.org/6545270</idno>
+		  <idno type="Wikidata">https://www.wikidata.org/wiki/Q329948</idno></place>
+		<place xml:id="CoEg_place_00000249">
+          <placeName>Cologne</placeName>
+		  <location><geo>50.942222, 6.957778</geo></location>
+		  <idno type="GeoName">https://www.geonames.org/3247451</idno>
+		  <idno type="Wikidata">https://www.wikidata.org/wiki/Q365</idno></place>
+		<place xml:id="CoEg_place_00000250">
+          <placeName>Saint-Pétersbourg</placeName>
+		  <location><geo>59.95, 30.316667</geo></location>
+		  <idno type="GeoName">https://www.geonames.org/498817</idno>
+		  <idno type="Wikidata">https://www.wikidata.org/wiki/Q656</idno></place>
+		<place xml:id="CoEg_place_00000251">
+          <placeName>Courbevoie</placeName>
+		  <location><geo>48.897222, 2.252222</geo></location>
+		  <idno type="GeoName">https://www.geonames.org/3023141</idno>
+		  <idno type="Wikidata">https://www.wikidata.org/wiki/Q189715</idno></place>
+		<place xml:id="CoEg_place_00000252">
+          <placeName>Pékin</placeName>
+		  <location><geo>39.90403, 116.407526</geo></location>
+		  <idno type="GeoName">https://www.geonames.org/1816670</idno>
+		  <idno type="Wikidata">https://www.wikidata.org/wiki/Q956</idno></place>
+		<place xml:id="CoEg_place_00000253">
+          <placeName>Yerres</placeName>
+		  <location><geo>48.716111, 2.490833</geo></location>
+		  <idno type="GeoName">https://www.geonames.org/6454885</idno>
+		  <idno type="Wikidata">https://www.wikidata.org/wiki/Q319933</idno></place>
+		<place xml:id="CoEg_place_00000254">
+          <placeName>Babylonie</placeName>
+		  <location><geo>32.5, 44.5</geo></location>
+		  <idno type="Pleiades">https://pleiades.stoa.org/places/912816</idno>
+		  <idno type="Wikidata">https://www.wikidata.org/wiki/Q47690</idno></place>
+		<place xml:id="CoEg_place_00000255">
+          <placeName>Oaudi Halfa</placeName>
+		  <location><geo>21.792778, 31.3775</geo></location>
+		  <idno type="GeoName">https://www.geonames.org/364132</idno>
+		  <idno type="Trismegistos">https://www.trismegistos.org/place/2499</idno>
+		  <idno type="Wikidata">https://www.wikidata.org/wiki/Q740865</idno>
+		  <note type="def">(وادي حلفا [Wādī Ḥalfā])</note></place>
+		<place xml:id="CoEg_place_00000256">
+          <placeName>Mer Méditerranée</placeName>
+		  <location><geo>38, 17</geo></location>
+		  <idno type="GeoName">https://www.geonames.org/363196</idno>
+		  <idno type="Pleiades">https://pleiades.stoa.org/places/1043</idno>
+		  <idno type="Wikidata">https://www.wikidata.org/wiki/Q4918</idno></place>
+		<place xml:id="CoEg_place_00000257">
+          <placeName>Ouadi Hammamat</placeName>
+		  <location><geo>25.964403, 33.504066</geo></location>
+		  <idno type="GeoName">https://www.geonames.org/12504071</idno>
+		  <idno type="Pleiades">https://pleiades.stoa.org/places/786087</idno>
+		  <idno type="Trismegistos">https://www.trismegistos.org/place/2839</idno>
+		  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1479250</idno>
+		  <note type="def">(وادي الحمامات [Wādī al-Ḥammāmāt})</note></place>
       </listPlace>
     </div>
       <div>
@@ -5606,15 +6049,15 @@
             <bibl xml:id="CoEg_bibl_00000001">
               <author><persName>Brunet de Presle, Wladimir</persName></author>
               <title type="article">Mémoire sur le Sérapéum de Memphis</title>
-              <title type="monogr">Mémoires présentés par divers savants étrangers à l’Académie</title> 2
+              <title type="monogr">Mémoires présentés par divers savants étrangers à l’Académie</title>
               <date>1852</date>
               <biblScope>p. 552-576</biblScope>
               <ref>https://www.persee.fr/doc/mesav_0398-3587_1852_num_2_1_1014</ref></bibl>
             <bibl xml:id="CoEg_bibl_00000002">
-              <author><persName sameAs="https://thlebee.github.io/CoEg/doc/CoEg_Index.xml#CoEg_pers_00000061">Lepsius, Karl Richard</persName></author>
+              <author><persName sameAs="https://thlebee.github.io/CoEg/doc/CoEg_Index.xml#CoEg_pers_00000061">Lepsius, Richard</persName></author>
               <title type="monogr">Denkmäler aus Ägypten und Äthiopien</title>
               <pubPlace>Berlin</pubPlace>
-              <publisher>Nicolaische Buchhandlung </publisher>
+              <publisher>Nicolaische Buchhandlung</publisher>
               <date>1849-1859</date><idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb30796243q</idno>
               <ref>http://edoc3.bibliothek.uni-halle.de/lepsius/start.html</ref></bibl>
             <bibl xml:id="CoEg_bibl_00000003">
@@ -5630,7 +6073,7 @@
             <bibl xml:id="CoEg_bibl_00000005">
               <author><persName>Rochas, Aimé</persName></author>
               <title type="article">Moyens de conserver indéfiniment les monuments en pierre calcaire</title>
-              <title type="monogr" sameAs="https://thlebee.github.io/CoEg/doc/CoEg_Index.xml#CoEg_bibl_00000005">Comptes-rendus de l’Académie des sciences</title> 1851
+              <title type="monogr" sameAs="https://thlebee.github.io/CoEg/doc/CoEg_Index.xml#CoEg_bibl_00000005">Comptes-rendus de l’Académie des sciences</title>
               <date>1851</date>
               <biblScope>p. 622</biblScope>
               <ref>https://gallica.bnf.fr/ark:/12148/bpt6k29901/f624.item</ref></bibl>
@@ -5643,13 +6086,13 @@
               <author><persName>Clément d'Alexandrie</persName></author>
               <title type="monogr">Pédagogue</title></bibl>
             <bibl xml:id="CoEg_bibl_00000009">
-              <title type="monogr">Description de l'Égypte</title> 1810-1829
+              <title type="monogr">Description de l'Égypte</title>
               <pubPlace>Paris</pubPlace>
               <publisher>Imprimerie impériale</publisher>
               <date>1810-1829</date></bibl>
             <bibl xml:id="CoEg_bibl_00000010">
-              <author><persName sameAs="https://thlebee.github.io/CoEg/doc/CoEg_Index.xml#CoEg_pers_00000061">Lepsius, Karl Richard</persName></author>
-              <title type="monogr">Die Chronologie der Ägypter</title> 1849
+              <author><persName sameAs="https://thlebee.github.io/CoEg/doc/CoEg_Index.xml#CoEg_pers_00000061">Lepsius, Richard</persName></author>
+              <title type="monogr">Die Chronologie der Ägypter</title>
               <pubPlace>Berlin</pubPlace>
               <publisher>Nicolai</publisher>
               <date>1849</date></bibl>
@@ -5741,14 +6184,14 @@
               <author><persName>Plutarque</persName></author>
               <title type="monogr">Symposiaques</title></bibl>
             <bibl xml:id="CoEg_bibl_00000034">
-              <author><persName sameAs="https://thlebee.github.io/CoEg/doc/CoEg_Index.xml#CoEg_pers_00000061">Lepsius, Karl Richard</persName></author>
+              <author><persName sameAs="https://thlebee.github.io/CoEg/doc/CoEg_Index.xml#CoEg_pers_00000061">Lepsius, Richard</persName></author>
               <title type="monogr">Auswahl der wichtigsten Urkunden des aegyptischen Alterthums</title>
               <pubPlace>Leipzig</pubPlace>
               <publisher>Georg Widand</publisher>
               <date>1842</date></bibl>
             <bibl xml:id="CoEg_bibl_00000035">
-              <author><persName sameAs="https://thlebee.github.io/CoEg/doc/CoEg_Index.xml#CoEg_pers_00000061">Lepsius, Karl Richard</persName></author>
-              <title type="monogr">Das Todtenbuch der Ägypter </title>
+              <author><persName sameAs="https://thlebee.github.io/CoEg/doc/CoEg_Index.xml#CoEg_pers_00000061">Lepsius, Richard</persName></author>
+              <title type="monogr">Das Todtenbuch der Ägypter</title>
               <pubPlace>Leipzig</pubPlace>
               <publisher>Georg Wigand</publisher>
               <date>1842</date><note type="Mariette">https://gallica.bnf.fr/ark:/12148/bpt6k91064165</note></bibl>
@@ -6102,7 +6545,7 @@
               <title type="monogr">Mélanges égyptologiques</title></bibl>
             <bibl xml:id="CoEg_bibl_00000105">
               <author><persName sameAs="CoEg_pers_00000179">Birch, Samuel</persName></author>
-              <title type="monogr">Select papyri in the hieratic character from the collections of the British Museum </title> 1844-1860
+              <title type="monogr">Select papyri in the hieratic character from the collections of the British Museum</title>
               <pubPlace>Londres</pubPlace>
               <publisher>W. Nicol</publisher>
               <date>1844-1860</date></bibl>
@@ -6110,7 +6553,8 @@
               <author><persName sameAs="CoEg_pers_00000316">Chabas, François</persName></author>
               <title type="monogr">Le Calendrier des jours fastes et néfastes de l'année égyptienne, traduction complète du papyrus Sallier IV</title>
               <pubPlace>Paris</pubPlace>
-              <publisher>Maisonneuve</publisher></bibl>
+              <publisher>Maisonneuve</publisher>
+              <date>1870</date></bibl>
             <bibl xml:id="CoEg_bibl_00000107">
               <title type="monogr">Tanis</title></bibl>
             <bibl xml:id="CoEg_bibl_00000108">
@@ -6275,7 +6719,7 @@
               <date>1861</date>
               <biblScope>p. 196-222</biblScope></bibl>
             <bibl xml:id="CoEg_bibl_00000140">
-              <author><persName sameAs="CoEg_pers_00000281">Brugsch, Heinrich</persName></author>
+              <author><persName sameAs="CoEg_pers_00000281">Brugsch [Pacha], Heinrich</persName></author>
               <title type="monogr">Geographische Inschriften altägyptischer Denkmäler</title>
               <pubPlace>Leipzig</pubPlace>
               <publisher>Hinrichs</publisher>
@@ -6451,6 +6895,182 @@
             <bibl xml:id="CoEg_bibl_00000169">
               <title type="monogr">L'Impartial. Journal politique, commercial et maritime de l'arrondissement</title>
               <pubPlace>Boulogne-sur-Mer</pubPlace></bibl>
+            <bibl xml:id="CoEg_bibl_00000170">
+              <author><persName sameAs="CoEg_pers_00000061">Lepsius, Richard</persName></author>
+              <title type="monogr">Königsbuch der alten Ägypter</title>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>W. Hertz</publisher>
+              <date>1858</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000171">
+              <author><persName sameAs="CoEg_pers_00000281">Brugsch, Heinrich</persName></author>
+              <title type="monogr">Matériaux pour servir à la reconstruction du calendrier des anciens Égyptiens</title>
+              <pubPlace>Leipzig</pubPlace>
+              <publisher>J. C. Hinrichs</publisher>
+              <date>1864</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000172">
+              <author><persName sameAs="CoEg_pers_00000001">Mariette, Auguste</persName></author>
+              <title type="monogr">Médinet Habou</title></bibl>
+            <bibl xml:id="CoEg_bibl_00000173">
+              <author><persName sameAs="CoEg_pers_00000061">Lepsius, Richard</persName></author>
+              <title type="monogr">Die Metalle in den ägyptischen Inschriften</title>
+              <pubPlace>Berlin</pubPlace><publisher>Harrwitz und Gossmann</publisher>
+              <date>1872</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000174">
+              <author><persName sameAs="CoEg_pers_00000061">Lepsius, Richard</persName></author>
+              <title type="monogr">Die altägyptische Elle und ihre Eintheilung</title>
+              <pubPlace>Berlin</pubPlace>
+              <publisher>Druckerei der Königlichen Akademie der Wissenschaften</publisher>
+              <date>1865</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000175">
+			  <author><persName sameAs="CoEg_pers_00000628">Böckh, August</persName></author>
+			  <title type="monogr">Manetho und die Hundssternperiode</title>
+			  <pubPlace>Berlin</pubPlace>
+			  <publisher>Veit</publisher>
+			  <date>1845</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000176">
+			  <author><persName sameAs="CoEg_pers_00000631">Francœur, Louis-Benjamin</persName></author>
+			  <title type="monogr">Uranographie, ou traité élémentaire d'astronomie à l'usage des personnes peu versées dans les mathématiques</title>
+			  <pubPlace>Paris</pubPlace>
+			  <publisher>Veuve Courcier</publisher>
+			  <date>1812</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000177">
+			  <author><persName sameAs="CoEg_pers_00000281">Brugsch, Heinrich</persName></author>
+			  <title type="article">Découvertes archéologiques en Égypte</title>
+			  <title type="monogr">Bulletin archéologique de l'Athénæum français</title>
+			  <date>1854 (?)</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000178">
+			  <author><persName sameAs="CoEg_pers_00000094">Champollion le Jeune, Jean-François</persName></author>
+			  <title type="monogr">Lettres de M. Champollion le Jeune écrites pendant son voyage en Égypte en 1828 et 1829</title>
+			  <pubPlace>Paris</pubPlace>
+			  <publisher>Firmin Didot</publisher>
+			  <date>1829</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000179">
+			  <author><persName sameAs="CoEg_pers_00000281">Brugsch, Heinrich</persName></author>
+			  <title type="monogr">Grammaire démotique contenant les principes généraux de la langue et de l'écriture populaire des anciens Égyptiens</title>
+			  <pubPlace>Berlin</pubPlace>
+			  <publisher>F. Dümmler</publisher>
+			  <date>1855</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000180">
+			  <title type="monogr">Journal des savants</title></bibl>
+            <bibl xml:id="CoEg_bibl_00000183">
+			  <author><persName sameAs="CoEg_pers_00000576">Greene, John Beasly</persName></author>
+			  <title type="monogr">Fouilles executées à Thèbes dans l'année 1855</title>
+			  <pubPlace>Paris</pubPlace>
+			  <publisher>Firmin Didot Frères</publisher>
+			  <date>1855</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000184">
+			  <author><persName sameAs="CoEg_pers_00000281">Brugsch, Heinrich</persName></author>
+			  <title type="monogr">Nouvelles recherches sur la division de l'année des anciens Egyptiens, suivies d'un mémoire sur des observations planétaires</title>
+			  <pubPlace>Berlin</pubPlace>
+			  <publisher>F. Schneider und Compagnie</publisher>
+			  <pubPlace>Paris</pubPlace>
+			  <publisher>P. Duprat</publisher>
+			  <date>1856</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000185">
+			  <author><persName sameAs="CoEg_pers_00000659">Escayrac (de), Stanislas</persName></author>
+			  <title type="monogr">Voyage dans le Grand Désert et au Soudan</title>
+			  <pubPlace>Paris</pubPlace>
+			  <publisher>Pouget-Coulon</publisher>
+			  <date>1858</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000186">
+			  <title type="monogr">Memorie della reale accademia delle scienze di Torino</title>
+			  <pubPlace>Turin</pubPlace>
+			  <publisher>Stamperia reale</publisher>
+			  <date>1845</date>
+			  <biblScope>p. 1-67</biblScope></bibl>
+            <bibl xml:id="CoEg_bibl_00000187">
+			  <author><persName sameAs="CoEg_pers_00000359">Biot, Jean-Baptiste</persName></author>
+			  <title type="article">1. Mémoire sur des observations planétaires, consignées dans quatre tablettes égyptiennes en écriture démotique, par M. Henri Brugsch. Berlin, 1856. 2. Results derived, etc. Résultats conclus de l'examen d'un certain nombre de lieux des cinq planètes principales, consignés sur quatre tablettes antiques trouvées en Égypte, et détermination de l'époque à laquelle ces tablettes se rapportent, par William Ellis, l'un des assistants attachés à l'Observatoire royal de Greenwich ; communiqué à la Société astronomique de Londres le 13 juin 1856, et inséré au tome XXV de ses Mémoires. 3. Notes sur les noms égyptiens des cinq planètes principales, par M. le vicomte E. de Rougé, membre de l'Institut. Paris, 1856</title>
+			  <title type="monogr">Journal des savants</title>
+			  <date>1856-1857</date>
+			  <biblScope>1856, p. 705-716 ; 1857, p. 5-20</biblScope></bibl>
+            <bibl xml:id="CoEg_bibl_00000188">
+			  <author><persName sameAs="CoEg_pers_00000094">Champollion le Jeune, Jean-François (Champollion-Figeac, éd.)</persName></author>
+			  <title type="monogr">Grammaire égyptienne, ou principes généraux de l'écriture sacrée égyptienne appliquée à la représentation de la langue parlée</title>
+			  <pubPlace>Paris</pubPlace>
+			  <publisher>Firmin Didot Frères</publisher>
+			  <date>1836</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000189">
+			  <author><persName sameAs="CoEg_pers_00000001">Mariette, Auguste</persName></author>
+			  <title type="monogr">Mémoire sur cette représentation gravée en tête de quelques proscynèmes du Sérapéum</title>
+			  <pubPlace>Paris</pubPlace>
+			  <publisher>Gide ; J. Baudry</publisher>
+			  <date>1856</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000190">
+			  <author><persName sameAs="CoEg_pers_00000001">Mariette, Auguste</persName></author>
+			  <title type="monogr">Choix de monuments et de dessins découverts ou exécutés pendant les déblaiements du Sérapéum de Memphis</title>
+			  <pubPlace>Paris</pubPlace>
+			  <publisher>Gide ; J. Baudry</publisher>
+			  <date>1856</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000191">
+			  <title type="monogr">Journal asiatique</title></bibl>
+            <bibl xml:id="CoEg_bibl_00000192">
+			  <author><persName sameAs="CoEg_pers_00000281">Brugsch, Heinrich</persName></author>
+			  <title type="monogr">Die Geographie des Alten Ägyptens nach den altägyptischen Denkmälern</title>
+			  <pubPlace>Leipzig</pubPlace>
+			  <publisher>Hinrichs</publisher>
+			  <date>1857</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000193">
+			  <title type="monogr">Bulletin archéologique de l'Athénæum français</title>
+			  <date>1856</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000194">
+			  <author><persName sameAs="CoEg_pers_00000032">Rougé (de), Emmanuel</persName></author>
+			  <title type="article">Note sur les noms égyptiens des planètes</title>
+			  <title type="monogr">Bulletin archéologique de l'Athénæum français</title>
+			  <date>1856</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000195">
+			  <author><persName sameAs="CoEg_pers_00000001">Mariette, Auguste</persName></author>
+			  <title type="monogr">Le Sérapéum de Memphis</title>
+			  <pubPlace>Paris</pubPlace>
+			  <publisher>Gide</publisher>
+			  <date>1857</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000196">
+			  <author><persName sameAs="CoEg_pers_00000316">Chabas, François</persName></author>
+			  <title type="article">Un hymne à Osiris traduit et expliqué</title>
+			  <title type="monogr">Revue archéologique</title>
+			  <date>1857</date>
+			  <biblScope>p. 65-81, 193-212</biblScope></bibl>
+            <bibl xml:id="CoEg_bibl_00000197">
+			  <author><persName sameAs="CoEg_pers_00000032">Rougé (de), Emmanuel</persName></author>
+			  <title type="article">Étude sur une stèle égyptienne appartenant à la Bibliothèque impériale</title>
+			  <title type="monogr">Journal asiatique</title>
+			  <date>1856-1857</date>
+			  <biblScope>Septembre-octobre 1856, p. 202 ; août-septembre 1857, p. 112-167 ; juin 1858, p. 509-572 ; août-septembre 1858, p. 221-270</biblScope></bibl>
+            <bibl xml:id="CoEg_bibl_00000198">
+			  <author><persName sameAs="CoEg_pers_00000032">Rougé (de), Emmanuel</persName></author>
+			  <title type="article">Le poème de Pen-ta-our. Extrait d'un Mémoire sur les campagnes de Ramsès II (Sésostris)</title>
+			  <title type="monogr">Revue contemporaine</title>
+			  <date>1856</date>
+			  <biblScope>p. 389-399</biblScope></bibl>
+            <bibl xml:id="CoEg_bibl_00000199">
+			  <author><persName sameAs="CoEg_pers_00000686">Burton, James</persName></author>
+			  <title type="monogr">Excerpta Hieroglyphica</title>
+			  <pubPlace>Londres, Le Caire (?)</pubPlace>
+			  <date>[1825-1829 ?]</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000200">
+			  <author><persName sameAs="CoEg_pers_00000281">Brugsch, Heinrich</persName></author>
+			  <title type="monogr">Reiseberichte aus Aegypten</title>
+			  <pubPlace>Leipzig</pubPlace>
+			  <publisher>F. A. Brockhaus</publisher>
+			  <date>1855</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000201">
+			  <author><persName sameAs="CoEg_pers_00000032">Rougé (de), Emmanuel</persName></author>
+			  <title type="article">Mémoire sur quelques inscriptions trouvées dans la sépulture des Apis</title>
+			  <title type="monogr">Revue égyptologique</title>
+			  <date>1885</date>
+			  <biblScope>p. 106-120</biblScope></bibl>
+            <bibl xml:id="CoEg_bibl_00000202">
+			  <author><persName sameAs="CoEg_pers_00000094">Champollion le Jeune, Jean-François</persName></author>
+			  <title type="monogr">Précis du système hiéroglyphique des anciens Égyptiens</title>
+			  <pubPlace>Paris</pubPlace>
+			  <publisher>Treuttel et Würtz</publisher>
+			  <date>1824</date></bibl>
+            <bibl xml:id="CoEg_bibl_00000203">
+			  <author><persName sameAs="CoEg_pers_00000393">Rosellini, Ippolito</persName></author>
+			  <title type="monogr">I Monumenti dell'Egitto e della Nubia</title>
+			  <pubPlace>Pise</pubPlace>
+			  <publisher>Niccoló Capurro e compania</publisher>
+			  <date>1832-1844</date></bibl>
         </listBibl>
       </div>
       <div>
@@ -7634,10 +8254,13 @@
             <objectIdentifier>
               <institution sameAs="#CoEg_org_00000002">Musée du Louvre</institution>
               <idno type="Louvre">A 16</idno>
+			  <idno type="Louvre">N 16</idno>
               <idno type="online">https://collections.louvre.fr/ark:/53355/cl010009690</idno></objectIdentifier>
             <physDesc><objectDesc form="statue"/></physDesc>
-            <history><provenance sameAs="CoEg_place_00000068">Tanis</provenance></history>
-            <note type="def">Statue de Sobekhotep III (XIIIe dynastie, Tanis)</note></object>
+            <history>
+              <provenance sameAs="CoEg_place_00000068">Tanis</provenance>
+            </history>
+            <note type="def">Colosse de Khânéferrê Sobekhotep (XIIIe dynastie, Tanis)</note></object>
           <object xml:id="CoEg_obj_00000086">
             <objectIdentifier>
               <institution sameAs="#CoEg_org_00000040">Musée égyptien de Berlin</institution>
@@ -7937,20 +8560,6 @@
               <provenance sameAs="CoEg_place_00000026">Abydos</provenance>
             </history>
             <note type="def">Stèle de la reine Noubkhâs (XIIIe dynastie, Abydos)</note></object>
-          <object xml:id="CoEg_obj_00000116">
-            <objectIdentifier>
-              <institution sameAs="#CoEg_org_00000002">Musée du Louvre</institution>
-              <idno type="Louvre">A 16</idno>
-              <idno type="Louvre">N 16</idno>
-              <idno type="online">https://collections.louvre.fr/ark:/53355/cl010009690</idno>
-            </objectIdentifier>
-            <physDesc>
-              <objectDesc form="statue"/>
-            </physDesc>
-            <history>
-              <provenance sameAs="CoEg_place_00000068">Tanis</provenance>
-            </history>
-            <note type="def">Colosse de Khânéferrê Sobekhotep (XIIIe dynastie, Tanis)</note></object>
           <object xml:id="CoEg_obj_00000117">
             <objectIdentifier>
               <institution sameAs="#CoEg_org_00000002">Musée du Louvre</institution>
@@ -8000,6 +8609,165 @@
               <objectDesc form="statue"/>
             </physDesc>
             <note type="def">statue de sphinx inscrite au nom de Nectanébo Ier</note></object>
+          <object xml:id="CoEg_obj_00000121">
+            <objectIdentifier>
+              <institution sameAs="#CoEg_org_00000022">Musée du Caire</institution>
+              <idno type="JE">JE 38927</idno>
+            </objectIdentifier>
+            <physDesc><objectDesc form="statue"/></physDesc>
+            <history><provenance sameAs="CoEg_place_00000001">Saqqarah</provenance></history>
+            <note type="def">Statue de la vache Hathor et de Psammétique (XXVIe dynastie, Saqqarah)</note></object>
+          <object xml:id="CoEg_obj_00000122">
+            <objectIdentifier>
+              <institution sameAs="#CoEg_org_00000040">musée de Berlin</institution>
+              <idno type="Berlin">ÄM 2268</idno>
+              <idno type="online">https://id.smb.museum/object/757710/stele-des-k%C3%B6nigs-nastasen</idno></objectIdentifier>
+            <physDesc><objectDesc form="stela"/></physDesc>
+            <history><provenance sameAs="CoEg_place_00000243">Dongola</provenance></history>
+            <note type="def">Stèle de Nastasen (Napata, IVe siècle avant notre ère)</note></object>
+          <object xml:id="CoEg_obj_00000123">
+            <objectIdentifier>
+              <institution sameAs="#CoEg_org_00000005">British Museum</institution>
+              <idno type="British Museum">EA10183</idno>
+              <idno type="online">https://www.britishmuseum.org/collection/object/Y_EA10183-1</idno>
+            </objectIdentifier>
+            <physDesc><objectDesc form="papyrus"/></physDesc>
+            <history><provenance sameAs="CoEg_place_imn"></provenance></history>
+            <note type="def">Papyrus d'Orbiney (Conte des deux frères ; XIXe dynastie)</note></object>
+          <object xml:id="CoEg_obj_00000124">
+            <objectIdentifier>
+              <institution sameAs="#CoEg_org_00000002">Musée du Louvre</institution>
+              <idno type="Louvre">C 284 </idno>
+              <idno type="online">https://collections.louvre.fr/ark:/53355/cl010029573</idno>
+            </objectIdentifier>
+            <physDesc><objectDesc form="stela"/></physDesc>
+            <history><provenance sameAs="CoEg_place_00000117">Karnak</provenance></history>
+            <note type="def">Stèle de Bakhtan (Ier millénaire, Karnak)</note></object>
+		  <object xml:id="CoEg_obj_00000125">
+		    <objectIdentifier>
+			  <institution sameAs="#CoEg_org_00000002">Musée du Louvre</institution>
+			  <idno type="Louvre">IM 3355</idno>
+			  <idno type="online">https://collections.louvre.fr/ark:/53355/cl010077444</idno>
+			</objectIdentifier>
+			<physDesc><objectDesc form="stela"/></physDesc>
+			<history><provenance sameAs="CoEg_place_00000004">Sérapéum</provenance></history>
+			<note type="def">stèle commémorative de Ptolémée III Evergète (IIIe siècle avant notre ère, Sérapéum)</note></object>
+		  <object xml:id="CoEg_obj_00000126">
+		    <objectIdentifier>
+			  <institution sameAs="#CoEg_org_00000002">Musée du Louvre</institution>
+			  <idno type="Louvre">E 33685</idno>
+			  <idno type="online">https://collections.louvre.fr/ark:/53355/cl010374788</idno>
+			</objectIdentifier>
+			<physDesc><objectDesc form="statue"/></physDesc>
+			<note type="def">buste de Mariette par Lami (?)</note></object>
+		  <object xml:id="CoEg_obj_00000127">
+		  <physDesc><objectDesc form="misc"/></physDesc>
+		  <history><provenance sameAs="CoEg_place_00000198">Antinoé</provenance></history>
+		  <note type="def">obélisque du Pincio (IIe siècle de notre ère, Antinoé)</note></object>
+		  <object xml:id="CoEg_obj_00000129">
+		    <objectIdentifier>
+			  <institution sameAs="#CoEg_org_00000002">Musée du Louvre</institution>
+			  <idno type="Louvre">IM 3043</idno>
+			  <idno type="online">https://collections.louvre.fr/ark:/53355/cl010020352</idno>
+			</objectIdentifier>
+			<physDesc><objectDesc form="stela"/></physDesc>
+			<history><provenance sameAs="CoEg_place_00000004">Sérapéum</provenance></history>
+			<note type="def">stèle (XXVIe dynastie, Sérapéum)</note></object>
+		  <object xml:id="CoEg_obj_00000130">
+		    <objectIdentifier>
+			  <institution sameAs="#CoEg_org_00000077">Musée national des antiquités (Leyde)</institution>
+			</objectIdentifier>
+			<physDesc><objectDesc form="papyrus"/></physDesc>
+			<note type="def">papyrus à identifier</note></object>
+		  <object xml:id="CoEg_obj_00000131">
+		    <objectIdentifier><institution sameAs="#CoEg_org_00000040">musée de Berlin</institution></objectIdentifier><physDesc><objectDesc form="statue"/></physDesc><note type="def">tête de marbre à identifier</note></object>
+		  <object xml:id="CoEg_obj_00000132">
+		    <objectIdentifier>
+			  <institution sameAs="#CoEg_org_00000002">Musée du Louvre</institution>
+			  <idno type="Louvre">C 286</idno>
+			  <idno type="online">https://collections.louvre.fr/ark:/53355/cl010026515</idno>
+			</objectIdentifier>
+			<physDesc><objectDesc form="stela"/></physDesc>
+			<history><provenance sameAs="CoEg_place_00000026">Abydos</provenance></history>
+			<note type="def">stèle (XVIIIe dynastie, Abydos)</note></object>
+		  <object xml:id="CoEg_obj_00000133">
+		    <objectIdentifier>
+			  <institution sameAs="#CoEg_org_00000005">British Museum</institution>
+			  <idno type="British Museum">EA 10185</idno>
+			  <idno type="online">www.trismegistos.org/text/322164</idno>
+			</objectIdentifier>
+			<physDesc><objectDesc form="papyrus"/></physDesc>
+			<history><provenance sameAs="CoEg_place_00000019">Thèbes</provenance></history>
+			<note type="def">papyrus Sallier (XIXe dynastie, Thèbes)</note></object>
+		  <object xml:id="CoEg_obj_00000134">
+		    <objectIdentifier>
+			  <institution sameAs="#CoEg_org_00000040">musée de Berlin</institution>
+			  <idno type="musée de Berlin">ÄM 504</idno>
+			</objectIdentifier>
+			<physDesc><objectDesc form="coffin"/></physDesc>
+			<note type="def">cercueil de Pamin (IIe siècle de notre ère, Djémé)</note></object>
+		  <object xml:id="CoEg_obj_00000135">
+		    <objectIdentifier>
+			  <institution sameAs="#CoEg_org_00000002">Musée du Louvre</institution>
+			  <idno type="Louvre">S 1904</idno>
+			  <idno type="online">https://collections.louvre.fr/ark:/53355/cl010020345</idno>
+			</objectIdentifier>
+			<physDesc><objectDesc form="stela"/></physDesc>
+			<history><provenance sameAs="CoEg_place_00000004">Sérapéum</provenance></history>
+			<note type="def">stèle de Pamy (XXII-XXIIIe dynastie, Sérapéum)</note></object>
+		  <object xml:id="CoEg_obj_00000136">
+		    <objectIdentifier>
+			  <institution sameAs="#CoEg_org_00000026">Bibliothèque nationale de France</institution>
+			  <idno type="Bibliothèque nationale de France">Égyptien 1-19</idno>
+			  <idno type="online">https://archivesetmanuscrits.bnf.fr/ark:/12148/cc8311r</idno>
+			</objectIdentifier>
+			<physDesc><objectDesc form="papyrus"/></physDesc>
+			<history><provenance sameAs="CoEg_place_00000019">Thèbes</provenance></history>
+			<note type="def">Livre des morts de Padiamonnebnesouttaouy, dit "papyrus Cadet" (époque ptolémaïque, Thèbes)</note></object>
+		  <object xml:id="CoEg_obj_00000137">
+		    <objectIdentifier>
+			  <institution sameAs="#CoEg_org_00000002">Musée du Louvre</institution>
+			  <idno type="Louvre">IM 4017 = IM 6170</idno>
+			  <idno type="online">https://collections.louvre.fr/ark:/53355/cl010073986</idno>
+			</objectIdentifier>
+			<physDesc><objectDesc form="stela"/></physDesc>
+			<history><provenance sameAs="CoEg_place_00000004">Sérapéum</provenance></history>
+			<note type="def">stèle (XXVIIe dynastie, Sérapéum)</note></object>
+		  <object xml:id="CoEg_obj_00000138">
+		    <objectIdentifier>
+			  <institution sameAs="#CoEg_org_00000002">Musée du Louvre</institution>
+			  <idno type="Louvre">N 481</idno>
+			  <idno type="online">https://collections.louvre.fr/ark:/53355/cl010019286</idno>
+			</objectIdentifier>
+			<physDesc><objectDesc form="stela"/></physDesc>
+			<history><provenance sameAs="CoEg_place_00000004">Sérapéum</provenance></history>
+			<note type="def">stèle (XXIIe dynastie, Sérapéum)</note></object>
+		  <object xml:id="CoEg_obj_00000139">
+		    <objectIdentifier>
+			  <institution sameAs="#CoEg_org_00000002">Musée du Louvre</institution>
+			  <idno type="Louvre">IM 4018 = IM 6176</idno>
+			  <idno type="online">https://collections.louvre.fr/ark:/53355/cl010073987</idno>
+			</objectIdentifier>
+			<physDesc><objectDesc form="stela"/></physDesc>
+			<history><provenance sameAs="CoEg_place_00000004">Sérapéum</provenance></history>
+			<note type="def">stèle (XXVIIe dynastie, Sérapéum)</note></object>
+		  <object xml:id="CoEg_obj_00000140">
+		    <objectIdentifier>
+			  <institution sameAs="#CoEg_org_00000005">British Museum</institution>
+			  <idno type="British Museum">EA 8</idno>
+			  <idno type="online">https://www.britishmuseum.org/collection/object/Y_EA8</idno>
+			</objectIdentifier>
+			<physDesc><objectDesc form="statue"/></physDesc>
+			<history><provenance sameAs="CoEg_place_00000117">Karnak</provenance></history>
+			<note type="def">statue de Hâpy (XXIIe dynastie, Karnak)</note></object>
+		  <object xml:id="CoEg_obj_00000141">
+		    <objectIdentifier>
+			  <institution>Bibliothèque nationale de Russie, Saint-Pétersbourg</institution>
+			  <idno type="Bibliothèque nationale de Russie, Saint-Pétersbourg">SPL 1-2</idno>
+			</objectIdentifier>
+			<physDesc><objectDesc form="papyrus"/></physDesc>
+			<history><provenance sameAs="CoEg_place_00000118">Médinet-Habou</provenance></history>
+			<note type="def">papyrus Denon (livres funéraires de la XXIIe dynastie, Médinet Habu)</note></object>
         </listObject>
       </div>
 
@@ -8404,14 +9172,70 @@
             <note>De l'italien « livret », paroles d'une composition musicale.</note>
             <ref type="Wikidata">https://www.wikidata.org/wiki/Q131084</ref>
             <ref type="CNRTL">https://www.cnrtl.fr/definition/libretto</ref></entry>
-          <entry xml:id="CoEg_entry_00000094">
+		  <entry xml:id="CoEg_entry_00000094">
             <form>farrache</form>
-            <note>De l'arabe فِرَاش [firāš] «dérouler » (un tapis, ...), domestique.</note></entry>
-          <entry xml:id="CoEg_entry_00000095">
+			<note>De l'arabe فِرَاش [firāš] «dérouler » (un tapis, ...), domestique.</note></entry>
+		  <entry xml:id="CoEg_entry_00000095">
             <form>sofragi</form>
-            <note>De l'arabe égyptien سـُفر َجي [sufraǧy], « serveur » (Socrates Spiro, An Arabic-English Vocabulary of the Colloquial Arabic of Egypt, 1895, p. 280)..</note></entry>
+			<note>De l'arabe égyptien سـُفر َجي [sufraǧy], « serveur » (Socrates Spiro, An Arabic-English Vocabulary of the Colloquial Arabic of Egypt, 1895, p. ٢٨٠).</note></entry>
+		  <entry xml:id="CoEg_entry_00000096">
+            <form>bimbachi</form>
+			<note>Du turc بكباشي [banbāšy], commandant de l'armée.</note>
+			<ref type="Wikidata">https://www.wikidata.org/wiki/Q5770104</ref>
+			<ref type="CNRTL">https://www.cnrtl.fr/definition/bimbachi</ref></entry>
+		  <entry xml:id="CoEg_entry_00000097">
+		    <form>quibus</form>
+			<note>Du latin « au moyen de quoi », d'où « argent, moyens financier ».</note>
+			<ref type="CNRTL">https://www.cnrtl.fr/definition/quibus</ref></entry>
+		  <entry xml:id="CoEg_entry_00000098">
+            <form>kansir, kansira</form>
+			<note>De l'arabeيَا خِنْزِير [ya khinzīr] « porc » ou يَا خِنْزِيرَة [ya khanzīrah] « truie » (Socrates Spiro, An Arabic-English Vocabulary of the Colloquial Arabic of Egypt, 1895, p. ١٨٣).</note></entry>
+		  <entry xml:id="CoEg_entry_00000099">
+            <form>félati</form>
+			<note>De l'arabe فلاتي [falāty] « coquin » (Socrates Spiro, An Arabic-English Vocabulary of the Colloquial Arabic of Egypt, 1895, p. ٤٦٤ : « debauchee, robber »).</note></entry>
+		  <entry xml:id="CoEg_entry_00000100">
+            <form>thaler</form>
+			<note>monnaie d'argent germanique.</note>
+			<ref type="CNRTL">https://www.cnrtl.fr/definition/thaler</ref></entry>
+		  <entry xml:id="CoEg_entry_00000101">
+            <form>silbergroschen</form>
+			<note>monnaie germanique, division du thaler.</note>
+			<ref type="Wikidata">https://www.wikidata.org/wiki/Q328950.</ref></entry>
+		  <entry xml:id="CoEg_entry_00000102">
+            <form>bénou</form>
+			<note>De l'égyptien bnw, oiseau mythologique.</note>
+			<ref type="Wikidata">https://www.wikidata.org/wiki/Q818378</ref></entry>
+		  <entry xml:id="CoEg_entry_00000103">
+            <form>paophi (mois)</form>
+			<note>Deuxième mois de la saison de l'inondation.</note>
+			<ref type="Wikidata">https://www.wikidata.org/wiki/Q731505</ref></entry>
+		  <entry xml:id="CoEg_entry_00000104">
+            <form>méchir (mois)</form>
+			<note>Deuxième mois de la saison de la germination.</note>
+			<ref type="Wikidata">https://www.wikidata.org/wiki/Q550074.</ref></entry>
+		  <entry xml:id="CoEg_entry_00000105">
+            <form>Inchallah</form>
+			<note>De l’arabe : إِنْ شَاءَ ٱللّٰهُ [ʾin šāʾa llāhu] « À la grâce de Dieu ».</note></entry>
+		  <entry xml:id="CoEg_entry_00000106">
+            <form>tétraménie</form>
+			<note>du grec τετρα-, préfixe pour « quatre », et μήν « mois » : période ou saison de quatre mois.</note></entry>
+		  <entry xml:id="CoEg_entry_00000107">
+            <form>kelb</form>
+			<note>De l'arabe كَلْب [kalb] « chien » (Socrates Spiro, An Arabic-English Vocabulary of the Colloquial Arabic of Egypt, 1895, p. ٥٢٣).</note></entry>
+		  <entry xml:id="CoEg_entry_00000108">
+            <form>phaminoth (mois)</form>
+			<note>Troisième mois de la saison de la germination.</note>
+			<ref type="Wikidata">https://www.wikidata.org/wiki/Q546893</ref></entry>
+		  <entry xml:id="CoEg_entry_00000109">
+            <form>pharmouti (mois)</form>
+			<note>Quatrième mois de la saison de la germination.</note>
+			<ref type="Wikidata">https://www.wikidata.org/wiki/Q2144472</ref></entry>
+		  <entry xml:id="CoEg_entry_00000110">
+            <form>épagomène</form>
+			<note>Du grec ἐπαγόμενος « apporté (en sus) » : cinq jour complémentaires ajoutés après les mois du calendrier égyptien pour atteindre une année de 365 jours.</note>
+			<ref type="Wikidata">https://www.wikidata.org/wiki/Q1346367</ref>
+			<ref type="CNRTL">https://www.cnrtl.fr/definition/%C3%A9pagom%C3%A8ne</ref></entry>
       </div>
-
       <div>
         <head>Index thématique</head>
         <note>Ici sont recensées les entrées d’indexation qui ne correspondent pas aux autres catégories. Il s’agit d’un classement encore expérimental, sans doute amené à évoluer dans de futures versions. Les entrées peuvent être enchâssées les unes dans les autres.</note>
@@ -8485,6 +9309,15 @@
         <entry xml:id="CoEg_keyword_00000026">
           <form>Collection Harris</form>
           <def>Négociation de la collection Harris.</def></entry>
+		<entry xml:id="CoEg_keyword_00000027">
+		  <form>organisation du service des antiquités de l'Égypte</form>
+		  <def>organisation du service des antiquités de l'Égypte</def></entry>
+		<entry xml:id="CoEg_keyword_00000028">
+		  <form>Aïda</form>
+		  <def>Aïda</def></entry>
+		<entry xml:id="CoEg_keyword_00000029">
+		  <form>musée du Louvre</form>
+		  <def>travaux de Mariette au Louvre et ses relations ultérieures avec l'institution</def></entry>
       </div>
 
       <div>
@@ -8810,7 +9643,7 @@
           <sense>Hââ-ib-Rê (Apriès)</sense>
           <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/862968</ref></entry>
         <entry xml:id="CoEg_aeg_00000081">
-          <form>Ḥwt-Mḥn </form>
+          <form>Ḥwt-Mḥn</form>
           <sense>Hout-méhen</sense>
           <note>toponyme non identifié</note></entry>
         <entry xml:id="CoEg_aeg_00000082">
@@ -8874,12 +9707,325 @@
           <sense>barque</sense>
           <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/44020</ref></entry>
         <entry xml:id="CoEg_aeg_00000098">
-          <form>Bꜣst.t</form>
+          <form>Bꜣstt</form>
           <sense>Bastet</sense>
-          <ref type="AVW">https://thesaurus-linguae-aegyptiae.de/lemma/53640</ref></entry>
-
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/53640</ref></entry>
+        <entry xml:id="CoEg_aeg_00000099">
+          <form>ḫnmt</form>
+          <sense>jaspe</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/118140</ref></entry>
+        <entry xml:id="CoEg_aeg_00000100">
+          <form>nšmt</form>
+          <sense>feldspath vert</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/88700</ref></entry>
+		<entry xml:id="CoEg_aeg_00000101">
+          <form>Krmm</form>
+		  <sense>Karomama</sense></entry>
+        <entry xml:id="CoEg_aeg_00000102">
+          <form>ḥꞽḥꞽ</form>
+		  <sense>rechercher</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/101930</ref></entry>
+        <entry xml:id="CoEg_aeg_00000103">
+          <form>nfrw</form>
+		  <sense>perfection, beauté</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/400467</ref></entry>
+        <entry xml:id="CoEg_aeg_00000104">
+          <form>ꞽt</form>
+		  <sense>père</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/32820</ref></entry>
+        <entry xml:id="CoEg_aeg_00000105">
+          <form>·ꞽ</form>
+		  <sense>pronom personnel de première personne singulier</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/10030</ref></entry>
+        <entry xml:id="CoEg_aeg_00000106">
+          <form>nn</form>
+		  <sense>particule de négation</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/84550</ref></entry>
+        <entry xml:id="CoEg_aeg_00000107">
+          <form>srm</form>
+		  <sense>faire pleurer</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/139510</ref></entry>
+        <entry xml:id="CoEg_aeg_00000108">
+          <form>mꞽ</form>
+		  <sense>comme</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/67820</ref></entry>
+        <entry xml:id="CoEg_aeg_00000109">
+          <form>ḏt</form>
+		  <sense>à jamais</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/181400</ref></entry>
+        <entry xml:id="CoEg_aeg_00000110">
+          <form>pr</form>
+		  <sense>maison</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/60220</ref></entry>
+        <entry xml:id="CoEg_aeg_00000112">
+          <form>wḥm</form>
+		  <sense>héraut</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/48540</ref></entry>
+        <entry xml:id="CoEg_aeg_00000113">
+          <form>Ꞽtm</form>
+		  <sense>Atoum</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/33040</ref></entry>
+        <entry xml:id="CoEg_aeg_00000114">
+          <form>sp</form>
+		  <sense>fois</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/132310</ref></entry>
+        <entry xml:id="CoEg_aeg_00000115">
+          <form>Ḥr</form>
+		  <sense>Horus</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/107500</ref></entry>
+        <entry xml:id="CoEg_aeg_00000116">
+          <form>ḏd</form>
+		  <sense>dire</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/185810</ref></entry>
+        <entry xml:id="CoEg_aeg_00000117">
+          <form>mdw</form>
+		  <sense>parole</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/78150</ref></entry>
+        <entry xml:id="CoEg_aeg_00000118">
+          <form>ꞽn</form>
+		  <sense>par</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/26660</ref></entry>
+        <entry xml:id="CoEg_aeg_00000119">
+          <form>Nbt-Ḥwt</form>
+		  <sense>Nephthys</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/82260</ref></entry>
+        <entry xml:id="CoEg_aeg_00000120">
+          <form>ḥꜣp</form>
+		  <sense>cacher</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/101300</ref></entry>
+        <entry xml:id="CoEg_aeg_00000121">
+          <form>ꞽrꞽ</form>
+		  <sense>faire, agir</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/28550</ref></entry>
+        <entry xml:id="CoEg_aeg_00000122">
+          <form>bsꜣ</form>
+		  <sense>protection</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/57300</ref></entry>
+        <entry xml:id="CoEg_aeg_00000123">
+          <form>Ḥpy</form>
+		  <sense>Hâpy</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/650066</ref></entry>
+        <entry xml:id="CoEg_aeg_00000124">
+          <form>sꜣ</form>
+		  <sense>protection</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/125600</ref></entry>
+        <entry xml:id="CoEg_aeg_00000125">
+          <form>pw</form>
+		  <sense>pronom démonstratif de troisième personne du singulier</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/59740</ref></entry>
+        <entry xml:id="CoEg_aeg_00000126">
+          <form>Tꜣ-dt-Ḥwt-Ḥr</form>
+		  <sense>Tadithathor</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/714132</ref></entry>
+        <entry xml:id="CoEg_aeg_00000127">
+          <form>Nfr-ꞽb-Rꜥ</form>
+		  <sense>Néféribrê</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/703355</ref></entry>
+        <entry xml:id="CoEg_aeg_00000128">
+          <form>Qbḥ-snw·f</form>
+		  <sense>Qebehsenouf</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/160390</ref></entry>
+        <entry xml:id="CoEg_aeg_00000129">
+          <form>Ꞽry-ꞽry</form>
+		  <sense>Iry-iry</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/709807</ref></entry>
+        <entry xml:id="CoEg_aeg_00000130">
+          <form>Srqt</form>
+		  <sense>Selqet</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/139850</ref></entry>
+        <entry xml:id="CoEg_aeg_00000131">
+          <form>kꜣ</form>
+		  <sense>ka, force vitale, capacité d'action</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/162870</ref></entry>
+        <entry xml:id="CoEg_aeg_00000132">
+          <form>·k</form>
+		  <sense>pronom suffixe de deuxième personne du singulier masculin</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/10110</ref></entry>
+        <entry xml:id="CoEg_aeg_00000133">
+          <form>sqd</form>
+		  <sense>aller, étendre</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/146360</ref></entry>
+        <entry xml:id="CoEg_aeg_00000134">
+          <form>mkꞽ</form>
+		  <sense>protéger</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/77020</ref></entry>
+        <entry xml:id="CoEg_aeg_00000135">
+          <form>rꜥ</form>
+		  <sense>Soleil, jour</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/93290</ref></entry>
+        <entry xml:id="CoEg_aeg_00000136">
+          <form>ꜥꜣṯ</form>
+		  <sense>Âatj</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/710908</ref></entry>
+        <entry xml:id="CoEg_aeg_00000137">
+          <form>mwt</form>
+		  <sense>mère</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/69040</ref></entry>
+        <entry xml:id="CoEg_aeg_00000138">
+          <form>Mšwš</form>
+		  <sense>mâchouach (membre d'une tribu d'origine libyenne)</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/76410</ref></entry>
+        <entry xml:id="CoEg_aeg_00000139">
+          <form>wr</form>
+		  <sense>grand, chef</sense>
+		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/47271</ref></entry>
+        <entry xml:id="CoEg_aeg_00000140">
+          <form>wsr</form>
+          <sense>puissant</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/49590</ref></entry>
+        <entry xml:id="CoEg_aeg_00000141">
+          <form>nḫtw</form>
+          <sense>force, victoire</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/87620</ref></entry>
+        <entry xml:id="CoEg_aeg_00000142">
+          <form>ꞽnꞽ</form>
+          <sense>apporter, aller chercher</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/26870</ref></entry>
+        <entry xml:id="CoEg_aeg_00000143">
+          <form>ḏrw</form>
+          <sense>fin, limite</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/184990</ref></entry>
+        <entry xml:id="CoEg_aeg_00000144">
+          <form>pḥww</form>
+          <sense>limite (du monde)</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/61550</ref></entry>
+        <entry xml:id="CoEg_aeg_00000145">
+          <form>ꜥḥꜣ</form>
+          <sense>combattre</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/39920</ref></entry>
+        <entry xml:id="CoEg_aeg_00000146">
+          <form>sḥns</form>
+          <sense>amenuiser, rendre étroit</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/140960</ref></entry>
+        <entry xml:id="CoEg_aeg_00000147">
+          <form>rꜣ</form>
+          <sense>parole, discours</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/92580</ref></entry>
+        <entry xml:id="CoEg_aeg_00000148">
+          <form>wsḫ</form>
+          <sense>large, fier</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/400135</ref></entry>
+        <entry xml:id="CoEg_aeg_00000149">
+          <form>ḫꜣst</form>
+          <sense>contrée étrangère</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/114300</ref></entry>
+        <entry xml:id="CoEg_aeg_00000150">
+          <form>ꜣḫw</form>
+          <sense>pouvoir</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/253</ref></entry>
+        <entry xml:id="CoEg_aeg_00000151">
+          <form>ḥqꜣ</form>
+          <sense>prince, souverain</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/110360</ref></entry>
+        <entry xml:id="CoEg_aeg_00000152">
+          <form>qn</form>
+          <sense>fort, courageux</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/550122</ref></entry>
+        <entry xml:id="CoEg_aeg_00000153">
+          <form>rs</form>
+          <sense>se réveiller, surveiller</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/95940</ref></entry>
+        <entry xml:id="CoEg_aeg_00000154">
+          <form>sw</form>
+          <sense>pronom dépendant de 3e personne du singulier masculin</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/129490</ref></entry>
+        <entry xml:id="CoEg_aeg_00000155">
+          <form>nbw</form>
+          <sense>or</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/81680</ref></entry>
+        <entry xml:id="CoEg_aeg_00000156">
+          <form>ḫꜣw.t</form>
+          <sense>autel</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/113720</ref></entry>
+        <entry xml:id="CoEg_aeg_00000157">
+          <form>šmw</form>
+          <sense>saison de la récolte</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/154850</ref></entry>
+        <entry xml:id="CoEg_aeg_00000158">
+          <form>mꜣꜥ</form>
+          <sense>offrir</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/400136</ref></entry>
+        <entry xml:id="CoEg_aeg_00000159">
+          <form>ḫt</form>
+          <sense>chose</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/30750</ref></entry>
+        <entry xml:id="CoEg_aeg_00000160">
+          <form>qdd</form>
+          <sense>dormir</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/search/sentence?tokens[0].lemma.id=162450</ref></entry>
+        <entry xml:id="CoEg_aeg_00000161">
+          <form>ꞽnk</form>
+          <sense>pronom indépendant de première personne du singulier</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/27940</ref></entry>
+        <entry xml:id="CoEg_aeg_00000162">
+          <form>mw</form>
+          <sense>eau</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/69000</ref></entry>
+        <entry xml:id="CoEg_aeg_00000163">
+          <form>šmꞽ</form>
+          <sense>aller</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/859776</ref></entry>
+        <entry xml:id="CoEg_aeg_00000164">
+          <form>sḏr</form>
+          <sense>passer la nuit</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/851684</ref></entry>
+        <entry xml:id="CoEg_aeg_00000165">
+          <form>·kw</form>
+          <sense>pronom dépendant de première personne du singulier</sense>
+          <ref type="TLA"></ref></entry>
+        <entry xml:id="CoEg_aeg_00000166">
+          <form>ꞽsw</form>
+          <sense>récompense</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/31330</ref></entry>
+        <entry xml:id="CoEg_aeg_00000167">
+          <form>ꜣw</form>
+          <sense>long</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/400588</ref></entry>
+        <entry xml:id="CoEg_aeg_00000168">
+          <form>nḏm</form>
+          <sense>doux</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/91500</ref></entry>
+        <entry xml:id="CoEg_aeg_00000169">
+          <form>sbꞽ</form>
+          <sense>partir, envoyer</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/131460</ref></entry>
+        <entry xml:id="CoEg_aeg_00000170">
+          <form>ꞽmꜣḫ</form>
+          <sense>pension</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/25060</ref></entry>
+        <entry xml:id="CoEg_aeg_00000171">
+          <form>qrs</form>
+          <sense>enterrement</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/161960</ref></entry>
+        <entry xml:id="CoEg_aeg_00000172">
+          <form>ḥnꜥ</form>
+          <sense>avec</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/106200</ref></entry>
+        <entry xml:id="CoEg_aeg_00000173">
+          <form>sn</form>
+          <sense>frère</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/136230</ref></entry>
+        <entry xml:id="CoEg_aeg_00000174">
+          <form>mꜣꜥ</form>
+          <sense>véritable</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/66460</ref></entry>
+        <entry xml:id="CoEg_aeg_00000175">
+          <form>tp</form>
+          <sense>sur</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/170900</ref></entry>
+        <entry xml:id="CoEg_aeg_00000176">
+          <form>ꞽb</form>
+          <sense>cœur</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/23290</ref></entry>
+        <entry xml:id="CoEg_aeg_00000177">
+          <form>sš</form>
+          <sense>scribe</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/855553</ref></entry>
+        <entry xml:id="CoEg_aeg_00000178">
+          <form>spẖr</form>
+          <sense>copier</sense>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/133040</ref></entry>
       </div>
-
       <div>
         <head>Abréviations</head>
         <superEntry>
@@ -9120,6 +10266,18 @@
           <entry xml:id="CoEg_abbr_00000080">
             <form><abbr>incl<hi rend="superscript_underline">t</hi></abbr></form>
             <sense>inclusivement</sense></entry>
+          <entry xml:id="CoEg_abbr_00000081">
+            <form><abbr>nov.</abbr></form>
+            <sense>novembre</sense></entry>
+          <entry xml:id="CoEg_abbr_00000082">
+            <form><abbr>h.</abbr></form>
+            <sense>heure</sense></entry>
+          <entry xml:id="CoEg_abbr_00000083">
+            <form><abbr>P.</abbr></form>
+            <sense>père</sense></entry>
+          <entry xml:id="CoEg_abbr_00000084">
+            <form><abbr>C<hi rend="superscript_underline">ie</hi></abbr></form>
+            <sense>compagnie</sense></entry>
         </superEntry>
       </div>
     </body>
