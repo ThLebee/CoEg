@@ -257,9 +257,9 @@ CoEg_place_00000255	Oaudi Halfa	21.792778	31.3775	(وادي حلفا [Wādī Ḥ
 CoEg_place_00000256	Mer Méditerranée	38	17			https://www.geonames.org/363196	https://pleiades.stoa.org/places/1043			https://www.wikidata.org/wiki/Q4918
 CoEg_place_00000257	Ouadi Hammamat	25.964403	33.504066	(وادي الحمامات [Wādī al-Ḥammāmāt})		https://www.geonames.org/12504071	https://pleiades.stoa.org/places/786087		https://www.trismegistos.org/place/2839	https://www.wikidata.org/wiki/Q1479250
 CoEg_place_00000258	Kafr ez-Zayat	30.819722	30.824167	( كفر الزيات [Kafr az-Zayyāt])		https://www.geonames.org/354365				https://www.wikidata.org/wiki/Q951867
-CoEg_place_00000259	Savoie (États de Savoie)									https://www.wikidata.org/wiki/Q426025
+CoEg_place_00000259	Savoie (États de Savoie)	0	0							https://www.wikidata.org/wiki/Q426025
 CoEg_place_00000260	Saïs	30.964722	30.768333	(صا الحجر [Ṣā al-Ḥaǧar])		https://www.geonames.org/349983	https://pleiades.stoa.org/places/727217		https://www.trismegistos.org/place/2072	https://www.wikidata.org/wiki/Q381038
-CoEg_place_00000261	Qasr el-Nil, palais de									
+CoEg_place_00000261	Qasr el-Nil, palais de	0	0							
 CoEg_place_00000262	Perse	32	53			https://www.geonames.org/130758			https://www.trismegistos.org/place/54484	https://www.wikidata.org/wiki/Q794
 CoEg_place_00000263	Hawara	29.274	30.899	(هوارة [Hawāra )]		https://www.geonames.org/355992	https://pleiades.stoa.org/places/736918		https://www.trismegistos.org/place/747	https://www.wikidata.org/wiki/Q26237
 CoEg_place_00000264	El-Balyana	26.232928	31.999261	(البلينا [al-Balyanā])		https://www.geonames.org/361435				https://www.wikidata.org/wiki/Q2210877
