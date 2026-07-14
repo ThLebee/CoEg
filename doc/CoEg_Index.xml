@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="aed_schema.xsd"?>
 <TEI version="4.0.0" xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
@@ -37,7 +37,7 @@
     </encodingDesc>
     <profileDesc>
       <creation>
-        <date from="2020-01" to="2022-07">Janvier 2020 – juillet 2022</date>
+        <date from="2020-01" to="2026-07">Janvier 2020 – juillet 2026</date>
       </creation>
       <langUsage>
         <language ident="fr"/>
@@ -55,6 +55,7 @@
       <change when="2023-07" n="1,376">Juillet 2023, v. 1,376 : ajout de lettres conservées parmi les papiers Maspero à la bibliothèque de l'Institut de France.</change>
       <change when="2024-07" n="1,408">Juillet 2024, v. 1,408 : ajout de lettres isolées et de petites séries issues des Archives nationales, de la bibliothèque cantonale de Genève, de la bibliothèque municipale de Boulogne-sur-Mer, de la Bibliothèque nationale de France, de la British Library, de la Goethe- und Schiller-Archiv, de la Kantonsbibliothek Vadiana St. Gallen, du Musée de la vie romantique, de la bibliothèque centrale du Muséun nationale d'histoire naturelle, de la Peggy Joy Egyptology Library, du département des antiquités égyptiennes du musée du Louvre et du Somerville College.</change>
       <change when="2025-07" n="1,463">Juillet 2025, v. 1,463 : ajout des lettres à Lepsius (Musées royaux d'art et d'histoire de Bruxelles) et de celles envoyées à Brugsch jusqu'en 1858 (Università degli Studi di Milano, Biblioteca e Archivi di Egittologia).</change>
+      <change when="2026-07" n="1,560">Juillet 2026, v. 1,556 : ajout des lettres à Brugsch après 1858 (Università degli Studi di Milano, Biblioteca e Archivi di Egittologia).</change>
     </revisionDesc>
   </teiHeader>
   <text>
@@ -100,7 +101,7 @@
 						<note type="def">Homme d’État (1802-1870). Ministre français de l’Intérieur en 1850.</note>
 						<note type="Mariette">Ministre français de l’Intérieur en 1850.</note></person>
 					<person xml:id="CoEg_pers_00000005" role="contemp">
-            <persName>Mariette (née Millon), Éléonore</persName>
+            <persName>Millon épouse Mariette, Éléonore</persName>
 						<note type="def">Épouse de Mariette (1827-1865).</note>
 						<note type="Mariette">Épouse de Mariette.</note></person>
 					<person xml:id="CoEg_pers_00000006" role="contemp">
@@ -125,7 +126,7 @@
 						<idno type="VIAF">http://viaf.org/viaf/32737566</idno>
 						<idno type="Wikidata">https://www.wikidata.org/wiki/Q5563656</idno>
 						<note type="def">Marchand et antiquaire (1765-1860).</note>
-						<note type="Mariette">Mariette utilise la formes « D’Anastasy ».</note></person>
+						<note type="Mariette">Mariette utilise la forme « D’Anastasy ».</note></person>
 					<person xml:id="CoEg_pers_00000016" role="contemp">
             <persName>Abbas Pacha</persName>
 						<idno type="IdRef">https://www.idref.fr/191464740</idno>
@@ -272,7 +273,7 @@
 						<idno type="Wikidata">https://www.wikidata.org/wiki/Q5408576</idno>
 						<note type="def">Homme d’affaires (1806-1868).</note></person>
 					<person xml:id="CoEg_pers_00000048" role="contemp">
-            <persName>Hékékyan Bey, Joseph</persName>
+            <persName>Hékékyan [Bey], Joseph</persName>
 						<idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb165386095</idno>
 						<idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb165386095</idno>
 						<idno type="IdRef">http://www.idref.fr/148056822</idno>
@@ -634,7 +635,7 @@
 						<idno type="VIAF">https://viaf.org/viaf/769603</idno>
 						<idno type="Wikidata">https://www.wikidata.org/wiki/Q8313314</idno></person>
 					<person xml:id="CoEg_pers_00000160" role="contemp">
-            <persName>Frédéric-Guillaume IV de Prusse</persName>
+            <persName>Frédéric-Guillaume IV</persName>
 						<idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb12192556z</idno>
 						<idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb12192556z</idno>
 						<idno type="IdRef">https://www.idref.fr/030528593</idno>
@@ -757,7 +758,7 @@
 						<idno type="Wikidata">https://www.wikidata.org/wiki/Q1972200</idno>
 						<note type="def">Érudit (1817-1892).</note></person>
 					<person xml:id="CoEg_pers_00000042" role="contemp">
-            <persName>Cornu, Albine Hortense (née Lacroix)</persName>
+            <persName>Albine Hortense Lacroix épouse Cornu</persName>
 						<idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb16183183b</idno>
 						<idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb16183183b</idno>
 						<idno type="IdRef">https://www.idref.fr/033355746</idno>
@@ -772,7 +773,7 @@
 						<idno type="Wikidata">https://www.wikidata.org/wiki/Q212499</idno>
 						<note type="def">Peintre (1824-1904).</note></person>
 					<person xml:id="CoEg_pers_00000197" role="contemp">
-            <persName>Millon, Joséphine née Cosyn</persName>
+            <persName>Cosyn épouse Millon, Joséphine</persName>
 						<note type="Mariette">Belle-mère de Mariette.</note></person>
 					<person xml:id="CoEg_pers_00000199" role="contemp">
             <persName>Ismaïl Pacha</persName>
@@ -799,10 +800,10 @@
 						<idno type="Wikidata">https://www.wikidata.org/wiki/Q209169</idno>
 						<note type="def">Diplomate et entrepreneur (1805-1894).</note></person>
 					<person xml:id="CoEg_pers_00000247" role="contemp">
-            <persName>Cazaux (marquis de)</persName>
+            <persName>Cazaux (de)</persName>
 						<note type="def">Consul général et agent de France jusqu'en 1875.</note></person>
 					<person xml:id="CoEg_pers_00000248" role="contemp">
-            <persName>Desjardins (née Picot), Pauline Marie Cécile</persName></person>
+            <persName>Picot épouse Desjardins, Pauline Marie Cécile</persName></person>
 					<person xml:id="CoEg_pers_00000249" role="contemp">
             <persName>Artois (d'), Henri (comte de Chambord)</persName>
 						<idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb11895952g</idno>
@@ -825,7 +826,7 @@
 						<idno type="VIAF">https://viaf.org/viaf/88893145</idno>
 						<idno type="Wikidata">https://www.wikidata.org/wiki/Q286322</idno>
 						<note type="def">Linguiste (1844-1918).</note>
-						<note type="Mariette">Beau-frère d'Ernest Dujastin et protégé de Mme Cornu, comme Mariette et Desjardins.</note></person>
+						<note type="Mariette">Beau-frère d'Ernest Desjardins et protégé de Mme Cornu, comme Mariette et Desjardins.</note></person>
 					<person xml:id="CoEg_pers_00000252" role="contemp">
             <persName>Burguières Bey (docteur)</persName>
 						<idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb10464467f</idno>
@@ -942,7 +943,7 @@
 						<idno type="Wikidata">https://www.wikidata.org/wiki/Q23901670</idno>
 						<note type="def">Explorateur (1811-1862).</note></person>
 					<person xml:id="CoEg_pers_00000276" role="contemp">
-            <persName>Révillout, Victor</persName>
+            <persName>Revillout, Victor (docteur)</persName>
             <idno type="IdRef">https://www.idref.fr/106085026</idno>
             <idno type="VIAF">http://viaf.org/viaf/220241684</idno>
 						<note type="def">Médecin (?-1894). Frère d'Eugène Révillout.</note>
@@ -995,8 +996,8 @@
 						<idno type="IdRef">https://www.idref.fr/104569336</idno>
 						<note type="def">Libraire-éditeur.</note></person>
 					<person xml:id="CoEg_pers_00000285" role="contemp">
-            <persName>Faure, Dorothée Wilhelmine Suzanne</persName>
-						<note type="def">Née Pöhls (1821-1868). Mère d'Albert et Aline Faure » ; son fils et elles sont tous deux mentionnés dans la correspondance entretenue par Émile Picot, beau-frère de Desjardins (Folschweiller, Cécile [éd.], Émile Picot, secrétaire du prince de Roumanie. Correspondance de Bucarest (1866-1867), Paris, Presses de l'Inalco, 2020 [https://books.openedition.org/pressesinalco/32456]).</note></person>
+            <persName>Pöhls épouse Faure, Dorothée Wilhelmine Suzanne</persName>
+						<note type="def">(1821-1868). Mère d'Albert et Aline Faure » ; son fils et elles sont tous deux mentionnés dans la correspondance entretenue par Émile Picot, beau-frère de Desjardins (Folschweiller, Cécile [éd.], Émile Picot, secrétaire du prince de Roumanie. Correspondance de Bucarest (1866-1867), Paris, Presses de l'Inalco, 2020 [https://books.openedition.org/pressesinalco/32456]).</note></person>
 					<person xml:id="CoEg_pers_00000286" role="contemp">
             <persName>Faure, Aline</persName>
 						<note type="Mariette">Membre du cercle des Desjardins et des Picot.</note></person>
@@ -1062,7 +1063,7 @@
 						<idno type="Wikidata">https://www.wikidata.org/wiki/Q150652</idno>
 						<note type="def">Roi de Prusse puis empereur d'Allemagne (1797-1888).</note></person>
 					<person xml:id="CoEg_pers_00000296" role="contemp">
-            <persName>Vassalli Bey, Luigi</persName>
+            <persName>Vassalli [Bey], Luigi</persName>
 						<idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb14646329k</idno>
 						<idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb14646329k</idno>
 						<idno type="IdRef">https://www.idref.fr/177530707</idno>
@@ -1092,7 +1093,7 @@
             <persName>Theremin</persName>
 						<note type="def">Diplomate.</note></person>
 					<person xml:id="CoEg_pers_00000302" role="contemp">
-            <persName>Figari Bey, Antonio</persName>
+            <persName>Figari [Bey], Antonio</persName>
 						<idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb15320196x</idno>
 						<idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb15320196x</idno>
 						<idno type="IdRef">https://www.idref.fr/179273027</idno>
@@ -1203,14 +1204,14 @@
 						<idno type="Wikidata">https://www.wikidata.org/wiki/Q47408292</idno>
 						<note type="def">Haut fonctionnaire français (1824-1901).</note></person>
 					<person xml:id="CoEg_pers_00000323" role="contemp">
-            <persName>Chélu Pacha, Alfred J.</persName>
+            <persName>Chélu [Pacha], Alfred J.</persName>
 						<idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb10188137j</idno>
 						<idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb10188137j</idno>
 						<idno type="IdRef">http://www.idref.fr/100938167</idno>
 						<idno type="VIAF">http://viaf.org/viaf/97730686</idno>
 						<note type="def">Ingénieur.</note></person>
 					<person xml:id="CoEg_pers_00000324" role="contemp">
-            <persName>Chélu, Madame</persName></person>
+            <persName>Chélu (Madame)</persName></person>
 					<person xml:id="CoEg_pers_00000325" role="contemp">
             <persName>Dubief, Louis</persName>
 						<idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb10268189j</idno>
@@ -1237,7 +1238,7 @@
             <persName>Mariette, Hortense Éléonore Louise</persName>
 						<note type="Mariette">Fille de Mariette.</note></person>
 					<person xml:id="CoEg_pers_00000334" role="contemp">
-            <persName>Brugsch, Madame</persName></person>
+            <persName>Schramm épouse Brugsch, Dorothea</persName></person>
 					<person xml:id="CoEg_pers_00000335" role="contemp">
             <persName>Brugsch, Alexandre</persName>
 						<note type="Mariette">Fils d'Heinrich Brugsch Pacha.</note></person>
@@ -1519,7 +1520,7 @@
 					<person xml:id="CoEg_pers_00000397" role="contemp">
             <persName>Delanoue</persName></person>
 					<person xml:id="CoEg_pers_00000398" role="contemp">
-            <persName>Reil Bey, Wilhelm</persName>
+            <persName>Reil [Bey], Wilhelm</persName>
             <idno type="VIAF">https://viaf.org/viaf/35236451/</idno>
             <idno type="Wikidata">https://www.wikidata.org/wiki/Q55902026</idno>
             <note type="def">Médecin (1820-1880).</note></person>
@@ -1532,7 +1533,7 @@
             <idno type="Wikidata">https://www.wikidata.org/wiki/Q5492832</idno>
             <note type="def">Égyptologue (1822-1895).</note></person>
 					<person xml:id="CoEg_pers_00000404" role="contemp">
-            <persName>Colucci Bey, J.</persName>
+            <persName>Colucci [Bey], J.</persName>
             <note type="def">Médecin.</note></person>
 					<person xml:id="CoEg_pers_00000406" role="contemp">
             <persName>Prouvèze épouse Chabas, Marie-Louise</persName>
@@ -1565,34 +1566,34 @@
             <persName>Leleux</persName>
             <note type="def">Éditeur.</note></person>
           <person xml:id="CoEg_pers_00000415" role="contemp">
-            <persName>Helet, Mohammed</persName>
+            <persName>Mohammed Helet</persName>
             <note type="def">Ouvrier.</note></person>
           <person xml:id="CoEg_pers_00000416" role="contemp">
-            <persName>Abou Nasr, Mohammed</persName>
+            <persName>Mohammed Abou Nasr</persName>
             <note type="def">Ouvrier.</note></person>
           <person xml:id="CoEg_pers_00000417" role="contemp">
-            <persName>Helet, Aly</persName>
+            <persName>Aly Helet</persName>
             <note type="def">Ouvrier.</note></person>
           <person xml:id="CoEg_pers_00000418" role="contemp">
-            <persName>Safar, Aly</persName>
+            <persName>Aly Safar</persName>
             <note type="def">Ouvrier.</note></person>
           <person xml:id="CoEg_pers_00000419" role="contemp">
-            <persName>Alkhara, Salam</persName>
+            <persName>Salam Alkhara</persName>
             <note type="def">Ouvrier.</note></person>
           <person xml:id="CoEg_pers_00000420" role="contemp">
-            <persName>Zanned, Mohammed</persName>
+            <persName>Mohammed Zanned</persName>
             <note type="def">Ouvrier.</note></person>
           <person xml:id="CoEg_pers_00000421" role="contemp">
-            <persName>Akhalil, Khalifa</persName>
+            <persName>Khalifa Akhalil</persName>
             <note type="def">Ouvrier.</note></person>
           <person xml:id="CoEg_pers_00000422" role="contemp">
-            <persName>Azara, Nasr</persName>
+            <persName>Nasr Azara</persName>
             <note type="def">Ouvrier.</note></person>
           <person xml:id="CoEg_pers_00000423" role="contemp">
-            <persName>Azan, Chemmir</persName>
+            <persName>Chemmir Azan</persName>
             <note type="def">Ouvrier.</note></person>
           <person xml:id="CoEg_pers_00000424" role="contemp">
-            <persName>Azan, Roubi</persName>
+            <persName>Roubi Azan</persName>
             <note type="def">Ouvrier.</note></person>
           <person xml:id="CoEg_pers_00000425" role="contemp">
             <persName>Thorigny (de), René</persName>
@@ -1611,7 +1612,7 @@
           <person xml:id="CoEg_pers_00000427" role="contemp">
             <persName>Lallemand</persName></person>
           <person xml:id="CoEg_pers_00000428" role="contemp">
-            <persName>Kabis Bey, Marc</persName>
+            <persName>Kabis [Bey], Marc</persName>
             <note type="def">Égyptologue. Conservateur adjoint et inspecteur des fouilles de 1863 à 1865 ; bey à partir de 1883 (Bulletin de l'Institut égyptien (2e série) 4, 1883, p. 258 [https://doi.org/10.11588/diglit.9036#0275]).</note></person>
           <person xml:id="CoEg_pers_00000429" role="contemp">
             <persName>Imhaus</persName>
@@ -1634,7 +1635,7 @@
             <persName>Grima</persName>
             <note type="def">Épicier ?</note></person>
           <person xml:id="CoEg_pers_00000434" role="contemp">
-            <persName>Devéria née Motte, Céleste</persName>
+            <persName>Motte épouse Devéria, Céleste</persName>
             <note type="def">Mère de Théodule Devéria</note></person>
           <person xml:id="CoEg_pers_00000436" role="contemp">
             <persName>Locle (du), Camille</persName>
@@ -1643,7 +1644,7 @@
             <persName>Arakel</persName>
             <note type="def">Secrétaire du vice-roi.</note></person>
           <person xml:id="CoEg_pers_00000438" role="contemp">
-            <persName>Gastinel-Pacha, docteur Joseph-Bernard</persName>
+            <persName>Gastinel [Pacha], Joseph-Bernard (docteur)</persName>
             <idno type="Wikidata">https://www.wikidata.org/wiki/Q16027687</idno>
             <note type="def">Pharmacien.</note></person>
           <person xml:id="CoEg_pers_00000439" role="contemp">
@@ -1766,7 +1767,7 @@
             <idno type="Wikidata">https://www.wikidata.org/wiki/Q1063723</idno>
             <note type="def">Archéologue (1826-1874).</note></person>
           <person xml:id="CoEg_pers_00000458" role="contemp">
-            <persName>Abbate Pacha, docteur Onofrio</persName>
+            <persName>Abbate [Pacha], Onofrio (docteur)</persName>
             <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb13090445h</idno>
             <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb13090445h</idno>
             <idno type="VIAF">http://viaf.org/viaf/226575015</idno>
@@ -1828,7 +1829,7 @@
             <idno type="Wikidata">https://www.wikidata.org/wiki/Q1332164</idno>
             <note type="def">Homme d'État (1805-1895). Proche collaborateur de Lesseps.</note></person>
           <person xml:id="CoEg_pers_00000475" role="contemp">
-            <persName>Koenig Bey, Mathieu Auguste</persName>
+            <persName>Koenig [Bey], Mathieu Auguste</persName>
             <note type="def">Orientaliste (1802-1865). Secrétaire des commandements du vice-roi Saïd Pacha.</note></person>
           <person xml:id="CoEg_pers_00000476" role="contemp">
             <persName>Khosrow Bey</persName></person>
@@ -1934,7 +1935,7 @@
             <persName>Erfan Bey</persName>
             <note type="def">Haut fonctionnaire égyptien. Administrateur des biens du vice-roi Saïd Pacha.</note></person>
             <person xml:id="CoEg_pers_00000513" role="contemp">
-              <persName>Daninos Pacha, Albert</persName><note type="def">Égyptologue (1843-1925).</note></person>
+              <persName>Daninos [Pacha], Albert</persName><note type="def">Égyptologue (1843-1925).</note></person>
           <person xml:id="CoEg_pers_00000515" role="contemp">
             <persName>Klincksieck, Friedrich</persName>
             <idno type="dataBnF">https://www.wikidata.org/wiki/Q3197874</idno></person>
@@ -1983,7 +1984,7 @@
             <persName>Oury, Charles</persName>
             <note type="def">Graveur.</note></person>
           <person xml:id="CoEg_pers_00000525" role="contemp">
-            <persName>Maspero née Yapp, Harriett</persName></person>
+            <persName>Yapp épouse Maspero, Harriett</persName></person>
             <note type="def">Première épouse de Maspero.</note>
           <person xml:id="CoEg_pers_00000529" role="contemp">
             <persName>Maspero, Bella</persName></person>
@@ -2039,7 +2040,7 @@
             <idno type="Wikidata">http://wikidata.org/entity/Q28790249</idno>
             <note type="def">Égyptologue (1841-1923).</note></person>
           <person xml:id="CoEg_pers_00000549" role="contemp">
-            <persName>Senlis, Mme</persName></person>
+            <persName>Senlis (Madame)</persName></person>
           <person xml:id="CoEg_pers_00000550" role="contemp">
             <persName>Senlis, Auguste</persName></person>
           <person xml:id="CoEg_pers_00000553" role="contemp">
@@ -2105,7 +2106,7 @@
             <idno type="Wikidata">https://www.wikidata.org/wiki/Q73057</idno>
             <note type="def">Égyptologue (1842-1930).</note></person>
           <person xml:id="CoEg_pers_00000562" role="contemp">
-            <persName>Nubar Pacha, Mme</persName></person>
+            <persName>Nubar Pacha (Madame)</persName></person>
           <person xml:id="CoEg_pers_00000566" role="contemp">
             <persName>Edwards, Amelia</persName>
             <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb12184461j</idno>
@@ -2298,7 +2299,7 @@
           <person xml:id="CoEg_pers_00000634" role="contemp">
               <persName>Odescalchi, Luigi</persName></person>
           <person xml:id="CoEg_pers_00000635" role="contemp">
-              <persName>Odescalchi, Madame</persName></person>
+              <persName>Odescalchi (Madame)</persName></person>
           <person xml:id="CoEg_pers_00000636" role="contemp">
               <persName>Schneider</persName></person>
           <person xml:id="CoEg_pers_00000638" role="contemp">
@@ -2340,7 +2341,7 @@
           <person xml:id="CoEg_pers_00000647" role="contemp">
               <persName>Merlin</persName></person>
           <person xml:id="CoEg_pers_00000648" role="contemp">
-              <persName>Isabelle II d'Espagn</persName>
+              <persName>Isabelle II</persName>
               <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb120667707</idno>
               <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb120667707</idno>
               <idno type="IdRef">http://www.idref.fr/088342700</idno>
@@ -2447,7 +2448,117 @@
               <idno type="VIAF">https://viaf.org/viaf/47524207</idno>
               <idno type="Wikidata">https://www.wikidata.org/wiki/Q6244369</idno>
               <note type="def">Astronome et antiquaire (1783-1866).</note></person>
-
+<person xml:id="CoEg_pers_00000694" role="contemp">
+	<persName>Mohl, Jules</persName>
+	<idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb119163815</idno>
+	<idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb119163815</idno>
+	<idno type="IdRef">https://www.idref.fr/027033023</idno>
+	<idno type="VIAF">https://viaf.org/viaf/12312605</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q71602</idno>
+	<note type="def">Orientaliste (1800-1876).</note></person>
+<person xml:id="CoEg_pers_00000696" role="contemp">
+	<persName>Scribe, Eugène</persName>
+	<idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb11924226g</idno>
+	<idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb11924226g</idno>
+	<idno type="IdRef">https://www.idref.fr/027129543</idno>
+	<idno type="VIAF">https://viaf.org/viaf/19684263</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q319261</idno>
+	<note type="def">Homme de lettres (1791-1861).</note></person>
+<person xml:id="CoEg_pers_00000701" role="contemp">
+	<persName>Lubbert [Bey], Émile Timothée</persName>
+	<idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb14992358r</idno>
+	<idno type="dataBnF">https://data.bnf.fr/en/ark:/12148/cb14992358r</idno>
+	<idno type="VIAF">http://viaf.org/viaf/221012537</idno></person>
+<person xml:id="CoEg_pers_00000702" role="contemp">
+	<persName>Artin [Bey] Tchérakian</persName>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q2865790</idno>
+	<note type="def">Homme d'État égyptien (1800-1859).</note></person>
+<person xml:id="CoEg_pers_00000703" role="contemp">
+	<persName>Ferlini, Giuseppe</persName>
+	<idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb10433975k</idno>
+	<idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb10433975k</idno>
+	<idno type="VIAF">https://viaf.org/viaf/17569799</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q631649</idno>
+	<note type="def">Explorateur (1797-1870).</note></person>
+<person xml:id="CoEg_pers_00000704" role="contemp">
+	<persName>[Faudey ?] ebu Zeïat</persName></person>
+<person xml:id="CoEg_pers_00000707" role="contemp">
+	<persName>Bonomi le Jeune, Joseph</persName>
+	<idno type="IdRef">https://www.idref.fr/103808337</idno>
+	<idno type="VIAF">https://viaf.org/viaf/11401335</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q456273</idno>
+	<note type="def">Artiste (1796-1878).</note></person>
+<person xml:id="CoEg_pers_00000709" role="contemp">
+	<persName>Abbott, Henry William Charles</persName>
+	<note type="def">Médecin et collectionneur (1807-1859).</note></person>
+<person xml:id="CoEg_pers_00000710" role="contemp">
+	<persName>Carl/Carlsen (?)</persName></person>
+<person xml:id="CoEg_pers_00000711" role="contemp">
+	<persName>Cailliaud, Frédéric</persName>
+	<idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb14970971q</idno>
+	<idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb14970971q</idno>
+	<idno type="IdRef">https://www.idref.fr/029680484</idno>
+	<idno type="VIAF">https://viaf.org/viaf/51723198</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q967538</idno>
+	<note type="def">Explorateur (1787-1869).</note></person>
+<person xml:id="CoEg_pers_00000713" role="contemp">
+	<persName>Kourchid</persName></person>
+<person xml:id="CoEg_pers_00000717" role="contemp">
+	<persName>Hassann</persName></person>
+<person xml:id="CoEg_pers_00000718" role="contemp">
+	<persName>Mamasci</persName></person>
+<person xml:id="CoEg_pers_00000719" role="contemp">
+	<persName>Munschausen</persName></person>
+<person xml:id="CoEg_pers_00000720" role="contemp">
+	<persName>Ritter</persName>
+	<note type="def">Dessinateur.</note></person>
+<person xml:id="CoEg_pers_00000721" role="contemp">
+   <persName>Pierre II</persName>
+   <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb12215349c</idno>
+   <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb12215349c</idno>
+   <idno type="IdRef">https://www.idref.fr/070204179</idno>
+   <idno type="VIAF">https://viaf.org/en/viaf/170215125</idno>
+   <idno type="Wikidata">https://www.wikidata.org/wiki/Q156774</idno>
+   <note type="def">Empereur du Brésil (1825-1891).</note></person>
+<person xml:id="CoEg_pers_00000723" role="contemp">
+	<persName>Verständig, Antonie</persName></person>
+<person xml:id="CoEg_pers_00000725" role="contemp">
+	<persName>Moustapha Pacha</persName>
+	<note type="def">Dignitaire égyptien.</note></person>
+<person xml:id="CoEg_pers_00000726" role="contemp">
+	<persName>Stone, Charles Pomeroy</persName>
+	<idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb153512900</idno>
+	<idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb153512900</idno>
+	<idno type="VIAF">https://viaf.org/viaf/49527037</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q2960041</idno>
+	<note type="def">Militaire américain, ministre égyptien des Travaux publics en 1873 (1824-1887).</note></person>
+<person xml:id="CoEg_pers_00000727" role="contemp">
+	<persName>Hussein Pacha</persName>
+	<note type="def">Homme d'État égyptien.</note></person>
+<person xml:id="CoEg_pers_00000728" role="contemp">
+	<persName>Riaz Pacha</persName>
+	<note type="def">Homme d'État égyptien.</note></person>
+<person xml:id="CoEg_pers_00000729" role="contemp">
+	<persName>Vivien de Saint-Martin, Louis</persName><idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb121809373</idno>
+	<idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb121809373</idno>
+	<idno type="IdRef">https://www.idref.fr/03038396X</idno>
+	<idno type="VIAF">https://viaf.org/viaf/22440040</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q1359097</idno>
+	<note type="def">Géographie (1802-1896).</note></person>
+<person xml:id="CoEg_pers_00000730" role="contemp">
+	<persName>Seymour, Henry Danby</persName>
+	<idno type="IdRef">https://www.idref.fr/231361815</idno>
+	<idno type="VIAF">https://viaf.org/viaf/48793784</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q16063838</idno>
+	<note type="def">Parlementaire britannique (1820-1877).</note></person>
+<person xml:id="CoEg_pers_00000731" role="contemp">
+	<persName>Arthur (prince), duc de Connaught et Strathearn</persName>
+	<idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb12369331g</idno>
+	<idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb12369331g</idno>
+	<idno type="IdRef">https://www.idref.fr/032716877</idno>
+	<idno type="VIAF">https://viaf.org/viaf/74661807</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q160558</idno>
+	<note type="def">Prince britannique (1850-1942).</note></person>
         </listPerson>
         <listPerson>
           <head>Personnages historiques</head>
@@ -3572,7 +3683,7 @@
               <idno type="IdRef">https://www.idref.fr/050588400</idno>
               <idno type="VIAF">http://viaf.org/viaf/282770127</idno>
               <idno type="Wikidata">https://www.wikidata.org/wiki/Q129165</idno>
-              <note type="def">Roi de Perse (519-465).</note></person>
+              <note type="def">Grand Roi achéménide (519-465).</note></person>
           <person xml:id="CoEg_pers_00000687" role="hist">
               <persName>Ahmès fils de Paiounhor</persName></person>
           <person xml:id="CoEg_pers_00000688" role="hist">
@@ -3586,6 +3697,45 @@
               <persName>Oudhmoutânkhes</persName>
 			  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1690865</idno>
               <note type="def">Épouse d'Osorkon II, mère de Nimlot C.</note></person>
+        <person xml:id="CoEg_pers_00000693" role="hist">
+	<persName>Ramsès Ier</persName>
+	<idno type="IdRef">http://www.idref.fr/184974038/id</idno>
+	<idno type="VIAF">https://viaf.org/viaf/9223030</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q1526</idno>
+	<note type="def">Roi d'Égypte (XIXe dynastie).</note></person>
+<person xml:id="CoEg_pers_00000695" role="hist">
+	<persName>Philippe III Arrhidée</persName>
+	<idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb12218685s</idno>
+	<idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb12218685s</idno>
+	<idno type="IdRef">https://www.idref.fr/172085853</idno>
+	<idno type="VIAF">https://viaf.org/viaf/5731985</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q295530</idno>
+	<note type="def">Roi de Macédoine (v. 355-317).</note></person>
+<person xml:id="CoEg_pers_00000698" role="hist">
+	<persName>Kamosis</persName>
+	<idno type="IdRef">http://www.idref.fr/203552172/id</idno>
+	<idno type="VIAF">http://viaf.org/viaf/189150565546806250369</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q19327</idno>
+	<note type="def">Roi d'Égypte (XVIIe dynastie).</note></person>
+<person xml:id="CoEg_pers_00000705" role="hist">
+	<persName>Sobékemsaf II</persName>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q12523930</idno>
+	<note type="def">Roi d'Égypte (XVIIe dynastie).</note></person>
+<person xml:id="CoEg_pers_00000706" role="hist">
+	<persName>Ramsès XI</persName>
+	<idno type="VIAF">https://viaf.org/viaf/33888420</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q313121</idno>
+	<note type="def">Roi d'Égypte (XXe dynastie).</note></person>
+<person xml:id="CoEg_pers_00000732" role="hist">
+	<persName>Psousennès Ier</persName>
+	<idno type="VIAF">https://viaf.org/viaf/160248724</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q380676</idno>
+	<note type="def">Roi égyptien (XXVIe dynastie).</note></person>
+<person xml:id="CoEg_pers_00000733" role="hist">
+	<persName>Chéchonq Ier</persName>
+	<idno type="VIAF">http://viaf.org/viaf/129763893</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q311811</idno>
+	<note type="def">Roi égyptien (XXIIe dynastie).</note></person>
         </listPerson>
         <listPerson>
           <head>Figures mythologiques ou religieuses</head>
@@ -3926,7 +4076,24 @@
               <idno type="VIAF">https://viaf.org/viaf/69872963</idno>
               <idno type="Wikidata">https://www.wikidata.org/wiki/Special:EntityPage/Q165496</idno>
               <note type="def">Déesse égyptienne.</note></person>
-
+<person xml:id="CoEg_pers_00000697" role="myth">
+	<persName>Min</persName>
+	<idno type="IdRef">https://www.idref.fr/027664120</idno>
+	<idno type="VIAF">http://viaf.org/viaf/258889259</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q192322</idno>
+	<note type="def">Dieu égyptien.</note></person>
+<person xml:id="CoEg_pers_00000699" role="myth">
+	<persName>Armachis</persName>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q363767</idno>
+	<note type="def">Dieu égyptien, forme d'Horus associée au Sphinx de Gizah (« Horus dans l'horizon »).</note></person>
+<person xml:id="CoEg_pers_00000712" role="myth">
+	<persName>Geb</persName>
+	<idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb16188676n</idno>
+	<idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb16188676n</idno>
+	<idno type="IdRef">https://www.idref.fr/097527823</idno>
+	<idno type="VIAF">http://viaf.org/viaf/188556874</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q168444</idno>
+	<note type="def">Dieu égyptien.</note></person>
         </listPerson>
 
         <listPerson>
@@ -3942,6 +4109,12 @@
             <note type="def">Gazelle</note></person>
 		  <person xml:id="CoEg_pers_00000629" role="anim">
 		    <persName>Bibi</persName></person>
+      <person xml:id="CoEg_pers_00000714" role="anim">
+	<persName>Sinsinge rouge</persName></person>
+<person xml:id="CoEg_pers_00000715" role="anim">
+	<persName>Sinsinge vert</persName></person>
+<person xml:id="CoEg_pers_00000716" role="anim">
+	<persName>Bargoutte</persName></person>
 			</listPerson>
       </div>
 
@@ -4459,6 +4632,32 @@
 			<idno type="IdRef">https://www.idref.fr/030363837</idno>
 			<idno type="VIAF">https://viaf.org/viaf/158005777</idno>
 			<idno type="Wikidata">https://www.wikidata.org/wiki/Q2822396</idno></org>
+			<org xml:id="CoEg_org_00000102">
+			 <orgName>Société asiatique</orgName>
+			 <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb118782776</idno>
+			 <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb118782776</idno>
+			 <idno type="IdRef">https://www.idref.fr/026557525</idno>
+			 <idno type="VIAF">https://viaf.org/viaf/149685160</idno>
+			 <idno type="Wikidata">https://www.wikidata.org/wiki/Q1226248</idno></org>
+			<org xml:id="CoEg_org_00000103">
+			 <orgName>Société de géographie d'Égypte</orgName>
+			 <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb154102458</idno>
+			 <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb154102458</idno>
+			 <idno type="IdRef">https://www.idref.fr/256401071</idno>
+			 <idno type="VIAF">https://viaf.org/viaf/168294250</idno>
+			 <idno type="Wikidata">https://www.wikidata.org/wiki/Q3450277</idno></org>
+			<org xml:id="CoEg_org_00000104">
+			 <orgName>Conseil d'État</orgName>
+			 <idno type="IdRef">https://www.idref.fr/028157818</idno>
+			 <idno type="VIAF">https://viaf.org/viaf/131277170</idno>
+			 <idno type="Wikidata">https://www.wikidata.org/wiki/Q769657</idno></org>
+			<org xml:id="CoEg_org_00000105">
+			 <orgName>Empire russe</orgName>
+			 <idno type="catGenBNF">https://catalogue.bnf.fr/ark:/12148/cb119405184</idno>
+			 <idno type="dataBnF">https://data.bnf.fr/ark:/12148/cb119405184</idno>
+			 <idno type="IdRef">https://www.idref.fr/030734835</idno>
+			 <idno type="VIAF">https://viaf.org/viaf/247149066396265601002</idno>
+			 <idno type="Wikidata">https://www.wikidata.org/wiki/Q34266</idno></org>
         </listOrg>
       </div>
 
@@ -6024,6 +6223,110 @@
 		  <idno type="Trismegistos">https://www.trismegistos.org/place/2839</idno>
 		  <idno type="Wikidata">https://www.wikidata.org/wiki/Q1479250</idno>
 		  <note type="def">(وادي الحمامات [Wādī al-Ḥammāmāt})</note></place>
+		  <place xml:id="CoEg_place_00000258">
+	<placeName>Kafr ez-Zayat</placeName>
+	<location><geo>30.819722, 30.824167</geo></location>
+	<idno type="GeoName">https://www.geonames.org/354365</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q951867</idno>
+	<note type="def">(كفر الزيات [Kafr az-Zayyāt])</note></place>
+<place xml:id="CoEg_place_00000259">
+	<placeName>Savoie (États de Savoie)</placeName>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q426025</idno></place>
+<place xml:id="CoEg_place_00000260">
+	<placeName>Saïs</placeName>
+	<location><geo>30.964722, 30.768333</geo></location>
+	<idno type="GeoName">https://www.geonames.org/349983</idno>
+	<idno type="Pleiades">https://pleiades.stoa.org/places/727217</idno>
+	<idno type="Trismegistos">https://www.trismegistos.org/place/2072</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q381038</idno>
+	<note type="def">(صا الحجر [Ṣā al-Ḥaǧar])</note></place>
+<place xml:id="CoEg_place_00000261">
+	<placeName>Qasr el-Nil, palais de</placeName></place>
+<place xml:id="CoEg_place_00000262">
+	<placeName>Perse</placeName>
+	<location><geo>32, 53</geo></location>
+	<idno type="GeoName">https://www.geonames.org/130758</idno>
+	<idno type="Trismegistos">https://www.trismegistos.org/place/54484</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q794</idno></place>
+<place xml:id="CoEg_place_00000263">
+	<placeName>Hawara</placeName>
+	<location><geo>29.274, 30.899</geo></location>
+	<idno type="GeoName">https://www.geonames.org/355992</idno>
+	<idno type="Pleiades">https://pleiades.stoa.org/places/736918</idno>
+	<idno type="Trismegistos">https://www.trismegistos.org/place/747</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q26237</idno>
+	<note type="def">(هوارة [Hawāra])</note></place>
+<place xml:id="CoEg_place_00000264">
+	<placeName>El-Balyana</placeName>
+	<location><geo>26.232928, 31.999261</geo></location>
+	<idno type="GeoName">https://www.geonames.org/361435</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q2210877</idno>
+	<note type="def">(البلينا [al-Balyanā])</note></place>
+<place xml:id="CoEg_place_00000265">
+	<placeName>Amiens</placeName>
+	<location><geo>49.891944, 2.297778</geo></location>
+	<idno type="GeoName">https://www.geonames.org/3037854</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q41604</idno></place>
+<place xml:id="CoEg_place_00000266">
+	<placeName>Beauvais</placeName>
+	<location><geo>49.434167, 2.0875</geo></location>
+	<idno type="GeoName">https://www.geonames.org/6450128</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q174257</idno></place>
+<place xml:id="CoEg_place_00000267">
+	<placeName>Kom es-Sultan</placeName>
+	<location><geo>26.192431, 31.911417</geo></location>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q2751387</idno>
+	<note type="def">(كوم السلطان [Kūm as-Sulṭān])</note></place>
+<place xml:id="CoEg_place_00000268">
+	<placeName>Sadowa</placeName>
+	<location><geo>52.35, 20.833333</geo></location>
+	<idno type="GeoName">https://www.geonames.org/759684</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q7398051</idno></place>
+<place xml:id="CoEg_place_00000269">
+	<placeName>Aix-la-Chapelle</placeName>
+	<location><geo>50.776207, 6.083788</geo></location>
+	<idno type="GeoName">https://www.geonames.org/6553047</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q1017</idno></place>
+<place xml:id="CoEg_place_00000270">
+	<placeName>Wiesbaden</placeName>
+	<location><geo>50.0825, 8.24</geo></location>
+	<idno type="GeoName">https://www.geonames.org/2809346</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q1721</idno></place>
+<place xml:id="CoEg_place_00000271">
+	<placeName>Bagnères-de-Bigorre</placeName>
+	<location><geo>43.064167, 0.149722</geo></location>
+	<idno type="GeoName">https://www.geonames.org/6450469</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q208264</idno></place>
+<place xml:id="CoEg_place_00000272">
+	<placeName>Massaoua</placeName>
+	<location><geo>15.6, 39.433333</geo></location>
+	<idno type="GeoName">https://www.geonames.org/330546</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q275635</idno>
+	<note type="def">(مصوع [Maṣū`])</note></place>
+<place xml:id="CoEg_place_00000273">
+	<placeName>Palais Abdine</placeName>
+	<location><geo>30.0417, 31.2483</geo></location>
+	<idno type="GeoName">https://www.geonames.org/425182</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q307747</idno></place>
+<place xml:id="CoEg_place_00000274">
+	<placeName>Beyrouth</placeName>
+	<location><geo>33.886944, 35.513056</geo></location>
+	<idno type="GeoName">https://www.geonames.org/276781</idno>
+	<idno type="Pleiades">https://pleiades.stoa.org/places/678060</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q3820</idno></place>
+<place xml:id="CoEg_place_00000275">
+	<placeName>Marienbad</placeName>
+	<location><geo>49.964704, 12.70125</geo></location>
+	<idno type="GeoName">https://www.geonames.org/3071024</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q523469</idno></place>
+<place xml:id="CoEg_place_00000276">
+	<placeName>Trocadéro</placeName>
+	<location><geo>48.861392, 2.289631</geo></location>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q1683459</idno></place>
+<place xml:id="CoEg_place_00000277">
+	<placeName>Philadelphie</placeName>
+	<idno type="GeoName">https://www.geonames.org/4560349</idno>
+	<idno type="Wikidata">https://www.wikidata.org/wiki/Q1345</idno></place>
       </listPlace>
     </div>
       <div>
@@ -6041,6 +6344,8 @@
           <person xml:id="CoEg_pers_00000449" role="boat">
             <persName>Labrador</persName>
             <note type="def">Bateau de la marine française.</note></person>
+        <person xml:id="CoEg_pers_00000722" role="boat">
+	<persName>Farouz</persName></person>
         </listPerson>
       </div>
       <div>
@@ -6857,7 +7162,7 @@
               <title type="monogr">Bulletin archéologique de l'Athénæum français</title>
               <note type="def">La publication initiale de ce texte reste mystérieuse : il est cité p. 544 par Wallon dans la bibliographie qui suit sa nécrologie des CRAIBL [https://www.persee.fr/doc/minf_0398-3609_1884_num_31_1_1644] comme publié en novembre et décembre 1855, sans pagination ; le texte fut republié par Maspero dans la BiEg, p. 47 [https://gallica.bnf.fr/ark:/12148/bpt6k55546w/f56.item], sans détail supplémentaire, mais cet article n'apparaît pas à l'index du Bulletin archéologique de l'année 1855, p. 108 [https://archive.org/details/bulletinarchol00pariuoft/page/108/mode/2up].</note></bibl>
             <bibl xml:id="CoEg_bibl_00000163">
-              <author><persName sameAs="CoEg_pers_00000360">Révillout, Eugène</persName></author>
+              <author><persName sameAs="CoEg_pers_00000360">Revillout, Eugène</persName></author>
               <title type="article">Mémoire sur les ostraca, papyri et inscriptions coptes des diverses collections de Paris</title>
               <title type="monogr" n="14">Comptes rendus des séances de l'Académie des inscriptions et belles-lettres</title>
               <date>1870</date>
@@ -6900,7 +7205,9 @@
               <title type="monogr">Königsbuch der alten Ägypter</title>
               <pubPlace>Berlin</pubPlace>
               <publisher>W. Hertz</publisher>
-              <date>1858</date></bibl>
+              <date>1858</date>
+              <ref>https://www.digitale-sammlungen.de/view/bsb11047553</ref>
+              <ref>https://www.digitale-sammlungen.de/view/bsb11047554</ref></bibl>
             <bibl xml:id="CoEg_bibl_00000171">
               <author><persName sameAs="CoEg_pers_00000281">Brugsch, Heinrich</persName></author>
               <title type="monogr">Matériaux pour servir à la reconstruction du calendrier des anciens Égyptiens</title>
@@ -6952,6 +7259,12 @@
 			  <date>1855</date></bibl>
             <bibl xml:id="CoEg_bibl_00000180">
 			  <title type="monogr">Journal des savants</title></bibl>
+			  <bibl xml:id="CoEg_bibl_00000181">
+			   <author><persName sameAs="CoEg_pers_00000001">Mariette, Auguste</persName></author>
+			   <title type="monogr">Abydos. Description des fouilles exécutées sur l’emplacement de cette ville, t. 2 Temple de Séti (supplément). Temple de Ramsès. Temple d’Osiris. Petit temple de l’ouest. Nécropole</title>
+			   <pubPlace>Paris</pubPlace>
+			   <publisher>Imprimerie nationale</publisher>
+			   <date>1880</date></bibl>
             <bibl xml:id="CoEg_bibl_00000183">
 			  <author><persName sameAs="CoEg_pers_00000576">Greene, John Beasly</persName></author>
 			  <title type="monogr">Fouilles executées à Thèbes dans l'année 1855</title>
@@ -7071,6 +7384,61 @@
 			  <pubPlace>Pise</pubPlace>
 			  <publisher>Niccoló Capurro e compania</publisher>
 			  <date>1832-1844</date></bibl>
+			  <bibl xml:id="CoEg_bibl_00000204">
+	<author><persName sameAs="#CoEg_pers_00000061">Lepsius, Richard</persName></author>
+	<title type="monogr">Königsbuch der alten Ägypter</title>
+	<pubPlace>Berlin</pubPlace>
+	<publisher>Bessersche Buchhandlung (W. Hertz)</publisher>
+	<date>1858</date>
+	<ref>https://www.digitale-sammlungen.de/view/bsb11047553</ref>
+	<ref>https://www.digitale-sammlungen.de/view/bsb11047554</ref></bibl>
+<bibl xml:id="CoEg_bibl_00000205">
+	<author><persName sameAs="#CoEg_pers_00000032">Rougé (de), Emmanuel</persName></author>
+	<title type="monogr">Chrestomathie égyptienne</title>
+	<pubPlace>Paris</pubPlace>
+	<publisher>A. Franck</publisher>
+	<date>1867</date>
+	<ref>https://gallica.bnf.fr/ark:/12148/bpt6k63675615</ref></bibl>
+<bibl xml:id="CoEg_bibl_00000206">
+	<author><persName sameAs="#CoEg_pers_00000001">Mariette, Auguste</persName></author>
+	<title type="article">Quatre pages des archives officielles de l'Éthiopie</title>
+	<title type="monogr" sameAs="#CoEg_bibl_00000069">Revue archéologique</title>
+	<date>1865</date>
+	<biblScope>p. 161-197</biblScope>
+	<ref>https://gallica.bnf.fr/ark:/12148/bpt6k203581w/f172.item</ref></bibl>
+<bibl xml:id="CoEg_bibl_00000207">
+	<author><persName sameAs="#CoEg_pers_00000001">Mariette, Auguste</persName></author>
+	<title type="article">Extrait d’une lettre de M. Mariette à M. Alfred Maury</title>
+	<title type="monogr" sameAs="#CoEg_bibl_00000069">Revue archéologique</title>
+	<date>1861</date>
+	<biblScope>p. 337-340</biblScope>
+	<ref>https://gallica.bnf.fr/ark:/12148/bpt6k97484452/f351.item</ref></bibl>
+<bibl xml:id="CoEg_bibl_00000208">
+	<author><persName sameAs="#CoEg_pers_00000269">Dümichen, Johannes</persName></author>
+	<title type="monogr">Altägyptische Tempelinschriften. 1 Weihinschriften aus dem Horustempel von Edfu</title>
+	<pubPlace>Leipzig</pubPlace>
+	<publisher>J. C. Hinrichs</publisher>
+	<date>1867</date>
+	<ref>https://digi.ub.uni-heidelberg.de/diglit/duemichen1867bd1</ref></bibl>
+<bibl xml:id="CoEg_bibl_00000209">
+	<author><persName sameAs="#CoEg_pers_00000001">Mariette, Auguste</persName></author>
+	<title type="monogr">Plan du grand temple de Karnak</title>
+	<date>1875</date></bibl>
+<bibl xml:id="CoEg_bibl_00000210">
+	<author><persName sameAs="#CoEg_pers_00000281">Brugsch, Heinrich</persName></author>
+	<title type="monogr">Dictionnaire géographique de l'ancienne Égypte</title>
+	<pubPlace>Leipzig</pubPlace>
+	<publisher>J. C. Hinrichs</publisher>
+	<date>1879-1880</date>
+	<ref>https://doi.org/10.11588/diglit.1134</ref></bibl>
+<bibl xml:id="CoEg_bibl_00000211">
+	<author><persName sameAs="#CoEg_pers_00000281">Brugsch, Heinrich</persName></author>
+	<title type="article">Le roman de Setnau contenu dans un papyrus démotique du musée égyptien de Boulaq</title>
+	<title type="monogr" sameAs="#CoEg_bibl_00000069">Revue archéologique</title>
+	<date>1867</date>
+	<biblScope>p. 161-187</biblScope>
+	<ref>https://gallica.bnf.fr/ark:/12148/bpt6k203585d/f168.item</ref>
+	</bibl>
         </listBibl>
       </div>
       <div>
@@ -7209,7 +7577,7 @@
             <history>
               <provenance sameAs="https://thlebee.github.io/CoEg/doc/CoEg_Index.xml#CoEg_place_00000004">Sérapéum</provenance>
             </history>
-            <note type="def">Statue, dite du « Scribe accroupi » ([Ancien Empire, IVe-Ve dynastie ?] ; fouilles du Sérapéum) [https://collections.louvre.fr/ark:/53355/cl010006582]</note>
+            <note type="def">Statue, dite du « Scribe accroupi » (Ancien Empire, IVe-Ve dynastie) [https://collections.louvre.fr/ark:/53355/cl010006582]</note>
           </object>
           <object xml:id="CoEg_obj_00000009">
             <objectIdentifier>
@@ -8274,7 +8642,7 @@
               <institution>In situ</institution></objectIdentifier>
               <physDesc><objectDesc form="stela"/></physDesc>
             <history><provenance sameAs="CoEg_place_00000007">Gizah</provenance></history>
-            <note type="def">Stèle du rêve (Nouvel Empire, règne de Thoutmosis IV ; grand Sphinx)</note></object>
+            <note type="def">Stèle du rêve (XVIIIe dynastie ; grand Sphinx)</note></object>
           <object xml:id="CoEg_obj_00000088">
             <objectIdentifier>
               <institution sameAs="#CoEg_coll_00000002">Musée du Louvre</institution>
@@ -8628,7 +8996,7 @@
           <object xml:id="CoEg_obj_00000123">
             <objectIdentifier>
               <institution sameAs="#CoEg_org_00000005">British Museum</institution>
-              <idno type="British Museum">EA10183</idno>
+              <idno type="British Museum">EA 10183</idno>
               <idno type="online">https://www.britishmuseum.org/collection/object/Y_EA10183-1</idno>
             </objectIdentifier>
             <physDesc><objectDesc form="papyrus"/></physDesc>
@@ -8714,7 +9082,7 @@
 			</objectIdentifier>
 			<physDesc><objectDesc form="stela"/></physDesc>
 			<history><provenance sameAs="CoEg_place_00000004">Sérapéum</provenance></history>
-			<note type="def">stèle de Pamy (XXII-XXIIIe dynastie, Sérapéum)</note></object>
+			<note type="def">Stèle de Pamy (XXII-XXIIIe dynastie, Sérapéum)</note></object>
 		  <object xml:id="CoEg_obj_00000136">
 		    <objectIdentifier>
 			  <institution sameAs="#CoEg_org_00000026">Bibliothèque nationale de France</institution>
@@ -8759,7 +9127,7 @@
 			</objectIdentifier>
 			<physDesc><objectDesc form="statue"/></physDesc>
 			<history><provenance sameAs="CoEg_place_00000117">Karnak</provenance></history>
-			<note type="def">statue de Hâpy (XXIIe dynastie, Karnak)</note></object>
+			<note type="def">statue de Hapy (XXIIe dynastie, Karnak)</note></object>
 		  <object xml:id="CoEg_obj_00000141">
 		    <objectIdentifier>
 			  <institution>Bibliothèque nationale de Russie, Saint-Pétersbourg</institution>
@@ -8767,7 +9135,60 @@
 			</objectIdentifier>
 			<physDesc><objectDesc form="papyrus"/></physDesc>
 			<history><provenance sameAs="CoEg_place_00000118">Médinet-Habou</provenance></history>
-			<note type="def">papyrus Denon (livres funéraires de la XXIIe dynastie, Médinet Habu)</note></object>
+			<note type="def">papyrus Denon (livres funéraires de la XXIIe dynastie, Médinet Habou)</note></object>
+			<object xml:id="CoEg_obj_00000142">
+	<objectIdentifier>
+		<institution sameAs="#CoEg_org_00000022">Musée du Caire</institution>
+		<idno type="JE">JE 4681</idno></objectIdentifier>
+	<physDesc><objectDesc form="misc"/></physDesc>
+	<history><provenance sameAs="CoEg_place_00000165">Dra Abou el-Naga</provenance></history>
+	<note type="def">bateau d'or de la reine Iâhhotep (XVIIe dynastie, Dra Abou el-Naga)</note></object>
+<object xml:id="CoEg_obj_00000144">
+	<objectIdentifier>
+		<institution sameAs="#CoEg_org_00000022">Musée du Caire</institution>
+		<idno type="JE">JE 6307</idno></objectIdentifier>
+	<physDesc><objectDesc form="stela"/></physDesc>
+	<history><provenance sameAs="CoEg_place_00000026">Abydos</provenance></history>
+	<note type="def">Stèle de l'an II de Néferhotep Ier (XIIIe dynastie, Abydos)</note></object>
+<object xml:id="CoEg_obj_00000145">
+	<objectIdentifier>
+		<institution sameAs="#CoEg_org_00000022">Musée du Caire</institution>
+		<idno type="CG">CG 30646</idno>
+		<idno type="papBoulaq">5</idno>
+		<idno type="online">https://www.trismegistos.org/text/55857</idno></objectIdentifier>
+	<physDesc><objectDesc form="papyrus"/></physDesc>
+	<history><provenance sameAs="CoEg_place_00000019">Thèbes</provenance></history>
+	<note type="def">Papyrus démotique de Setné (Thèbes)</note></object>
+<object xml:id="CoEg_obj_00000146">
+	<objectIdentifier>
+		<institution sameAs="#CoEg_org_00000022">Musée du Caire</institution>
+		<idno type="JE">JE 48876</idno></objectIdentifier>
+	<physDesc><objectDesc form="stela"/></physDesc>
+	<history><provenance sameAs="CoEg_place_00000026">Abydos</provenance></history>
+	<note type="def">Stèle de l'an IV de Ramsès IV (KRI 6, 20 ; XXe dynastie, Abydos)</note></object>
+<object xml:id="CoEg_obj_00000147">
+	<objectIdentifier>
+		<institution sameAs="#CoEg_org_00000022">Musée du Caire</institution>
+		<idno type="JE">JE 66285</idno></objectIdentifier>
+	<physDesc><objectDesc form="stela"/></physDesc>
+	<history><provenance sameAs="CoEg_place_00000026">Abydos</provenance></history>
+	<note type="def">Stèle de Chéchonq Ier en l'honneur de son père Nimlot (XXIIe dynastie, Abydos)</note></object>
+<object xml:id="CoEg_obj_00000148">
+	<objectIdentifier>
+		<institution sameAs="#CoEg_org_00000002">Musée du Louvre</institution>
+		<idno type="Louvre">IM 4016</idno><idno type="online">https://collections.louvre.fr/ark:/53355/cl010073985</idno></objectIdentifier>
+	<physDesc><objectDesc form="stela"/></physDesc>
+	<history><provenance sameAs="CoEg_place_00000004">Sérapéum</provenance></history>
+	<note type="def">Stèle de l'an XXXI de Darius Ier (XXVIIe dynastie, Sérapéum)</note></object>
+	<object xml:id="CoEg_obj_00000149">
+	 <objectIdentifier>
+	   <institution sameAs="#CoEg_org_00000005">British Museum</institution>
+	   <idno type="British Museum">EA 117</idno>
+	   <idno type="online">https://www.britishmuseum.org/collection/object/Y_EA117</idno></objectIdentifier>
+   <physDesc>
+     <objectDesc form="relief"/></physDesc>
+   <history><provenance sameAs="CoEg_place_00000026">Abydos</provenance></history>
+   <note type="def">Fragment de la liste royale d'Abydos (XIXe dynastie, Abydos)</note></object>
         </listObject>
       </div>
 
@@ -8777,51 +9198,51 @@
           <form>simoun</form>
           <note>De l’arabe سَمُوم‎ [samūm]. Vent chaud, sec et violent qui souffle sur les côtes orientales de la mer Méditerranée : au Sahara, en Palestine, en Syrie et dans le désert d’Arabie.</note><note type="Mariette">Mariette utilise le terme avec une majuscule.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q646585</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/simoun</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/simoun</ref></entry>
         <entry xml:id="CoEg_entry_00000002">
           <form>pacha</form>
           <note>Du turc ottoman پاشا‎ [pāšā]. Titre honorifique ottoman. réservé aux plus hauts dignitaires et aux souverains. Porté après le nom.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q184951</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/pacha</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/pacha</ref></entry>
         <entry xml:id="CoEg_entry_00000003">
           <form>bey</form>
           <note>Du turc ottoman بك [beg] « seigneur ». Titre honorifique ottoman. Les officiers civils et militaires le portent après leur nom.</note>
           <note type="Mariette">Quand il est porté après le nom, Mariette le joint par un tiret, sans majuscule.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q181217</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/bey</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/bey</ref></entry>
         <entry xml:id="CoEg_entry_00000004">
           <form>moudir</form>
           <note>De l’arabe مُدِير‎ [mudīr] « directeur ». Gouverneur ou préfet ottoman.</note>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/moudir</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/moudir</ref></entry>
         <entry xml:id="CoEg_entry_00000005">
           <form>firman</form>
           <note>Du turc ottoman فرمان [fermān] « ordre, décret ». Autorisation officielle quelconque.</note>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/firman</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/firman</ref></entry>
         <entry xml:id="CoEg_entry_00000006">
           <form>drogman</form>
           <note>De l’arabe تُرْجُمَان [turǧuman] « guide, interprète ». Agent auxiliaire des consulats ou des étrangers en voyage.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q1136290</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/drogman</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/drogman</ref></entry>
         <entry xml:id="CoEg_entry_00000007">
           <form>divan</form>
           <note>Du persan  دیوان [dīwān] « rassemblement, réunion, conseil ». Administration, gouvernement.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q830104</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/divan</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/divan</ref></entry>
         <entry xml:id="CoEg_entry_00000008">
           <form>para</form>
           <note>Pièce ottomane de petite monnaie en cuivre.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q928186</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/para</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/para</ref></entry>
         <entry xml:id="CoEg_entry_00000009">
           <form>fellah</form>
           <note>De l’arabe فَلَّاح‎ [fallāḥ], « paysan ».</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q685896</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/fellah</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/fellah</ref></entry>
         <entry xml:id="CoEg_entry_00000010">
           <form>effendi</form>
           <note>Du turc ottoman افندی‎ [efendi]. Titre de respect et de courtoisie, notamment propre aux lettrés.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q321803</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/effendi</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/effendi</ref></entry>
         <entry xml:id="CoEg_entry_00000011">
           <form>proscynème</form>
           <note>Du grec ancien προσκύνημα [proskynèma] « adoration ». Désigne les formules d’offrandres et les stèles qui les portent.</note></entry>
@@ -8829,7 +9250,7 @@
           <form>dahabieh</form>
           <note>De l’arabe ذَهَبِيَّة [ḍahabiyya] « dorée ». Embarcation nilotique à faible tirant d’eau et naviguant à l’aide de deux mâts à voile latine.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q441975</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/dahabieh</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/dahabieh</ref></entry>
         <entry xml:id="CoEg_entry_00000013">
           <form>arnaoute</form>
           <note>Du turc ottoman آرناوود [ārnāvut] « Albanais », notamment des guerriers formant des corps mercenaires dans le monde ottoman.</note>
@@ -8838,7 +9259,7 @@
           <form>fantasia</form>
           <note>Jeu équestre.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q1395855</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/fantasia</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/fantasia</ref></entry>
         <entry xml:id="CoEg_entry_00000015">
           <form>djirid</form>
           <note>Jeu équestre.</note>
@@ -8854,15 +9275,15 @@
           <form>ad hoc</form>
           <note>Latin, « à cet effet ».</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q192683</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/ad hoc</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/ad hoc</ref></entry>
         <entry xml:id="CoEg_entry_00000019">
           <form>qawas</form>
           <note>De l’arabe قَوَّاس [qawwās] (Thatcher, G. W., Arabic grammar of the written language, Londres – Heidelberg, 1911, p. 271), huissier.</note>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/cawas</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/cawas</ref></entry>
         <entry xml:id="CoEg_entry_00000020">
           <form>reïs</form>
           <note>De l’arabe  رَئِيس‎ [rays], « chef » (notamment les chefs d’équipes sur les chantiers de fouilles).</note>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/reis</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/reis</ref></entry>
         <entry xml:id="CoEg_entry_00000021">
           <form>moudiria</form>
           <note>De l'arabe مُدِيرِيَّة [mudīrīyah], province dirigée par un moudir ; siège de l’administration correspondante.</note></entry>
@@ -8871,11 +9292,11 @@
           <note>Traduction fautive donnée par Manéthon du therme « Hyksos » (qui lui est désormais préféré) pour désigner des groupes d'origine asiatique installés dans le Delta pendant la Deuxième Période intermédiaire.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q192319</ref></entry>
         <entry xml:id="CoEg_entry_00000023">
-          <form>Tybi (mois)</form>
+          <form>tybi</form>
           <note>Premier mois de la saison de la germination.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q290480</ref></entry>
         <entry xml:id="CoEg_entry_00000024">
-          <form>Thot (mois)</form>
+          <form>thot</form>
           <note>Premier mois de la saison de l'inondation.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q577200</ref></entry>
         <entry xml:id="CoEg_entry_00000025">
@@ -8884,23 +9305,23 @@
         <entry xml:id="CoEg_entry_00000026">
           <form>modius</form>
           <note>Mesure de céréales.</note>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/Modius</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/Modius</ref></entry>
         <entry xml:id="CoEg_entry_00000027">
           <form>mastaba</form>
           <note>De l'arabe مصطبة [maṣṭabah] « banquette » ; désigne les tombes de particuliers à l'Ancien Empire, à la superstructure massive de briques.</note>
           <note type="Mariette">Mariette est à l'origine de la popularité de cette expression.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q180927</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/mastaba</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/mastaba</ref></entry>
         <entry xml:id="CoEg_entry_00000028">
           <form>sérapéum</form>
           <note>Temple du dieu Sérapis.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q281132</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/s%C3%A9rap%C3%A9um</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/s%C3%A9rap%C3%A9um</ref></entry>
         <entry xml:id="CoEg_entry_00000029">
           <form>pharaon</form>
           <note>Roi d'Égypte.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q37110</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/pharaon</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/pharaon</ref></entry>
         <entry xml:id="CoEg_entry_00000030">
           <form>confer</form>
           <note>Du latin confer « comparez ».</note>
@@ -8908,42 +9329,42 @@
         <entry xml:id="CoEg_entry_00000031">
           <form>desiderata</form>
           <note>Du latin desiderata « choses dont on regrette l'absence » ; lacune ou besoin.</note>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/desiderata</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/desiderata</ref></entry>
         <entry xml:id="CoEg_entry_00000032">
           <form>hypogée</form>
           <note>Tombe souterraine.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q665247</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/hypog%C3%A9e</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/hypog%C3%A9e</ref></entry>
         <entry xml:id="CoEg_entry_00000033">
           <form>in-octavo</form>
           <note>Format d'impression dans lequel la feuille est pliée trois fois de manière à former huit feuillets (ou seize pages).</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q1307353</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/in-octavo</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/in-octavo</ref></entry>
         <entry xml:id="CoEg_entry_00000034">
           <form>vade-mecum</form>
           <note>Du latin vade mecum « allez avec moi » ; objet à usage personnel que l'on garde avec soi.</note>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/vade-mecum</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/vade-mecum</ref></entry>
         <entry xml:id="CoEg_entry_00000035">
           <form>apiéum</form>
           <note>Temple d'Apis.</note></entry>
         <entry xml:id="CoEg_entry_00000036">
           <form>hiérodule</form>
           <note>Servant de temple.</note>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/hi%C3%A9rodule</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/hi%C3%A9rodule</ref></entry>
         <entry xml:id="CoEg_entry_00000037">
           <form>choéphore</form>
           <note>Porteur d'offrande funéraire.</note>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/cho%C3%A9phore</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/cho%C3%A9phore</ref></entry>
         <entry xml:id="CoEg_entry_00000038">
           <form>quipo</form>
           <note>Système de notation utilisé par les Incas au moyen de cordelettes nouées.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q185292</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/quipo//0</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/quipo//0</ref></entry>
         <entry xml:id="CoEg_entry_00000039">
           <form>sultan</form>
           <note>De l'arabe سُلْطَان [sulṭān] « autorité » ; souverain de l'Empire ottoman.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q43292</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/sultan</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/sultan</ref></entry>
         <entry xml:id="CoEg_entry_00000040">
           <form>hycsos</form>
           <form>hyksos</form>
@@ -8952,12 +9373,12 @@
         <entry xml:id="CoEg_entry_00000041">
           <form>tolle</form>
           <note>Du latin tolle « supprime, exécute ! » (Jean XIX, 15). Protestation véhémente, indignation.</note>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/toll%C3%A9</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/toll%C3%A9</ref></entry>
         <entry xml:id="CoEg_entry_00000042">
           <form>smala</form>
           <note>De l'arabe maghrébin زمالة [zmālah] « famille, campement, suite ».</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q3486835</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/smala</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/smala</ref></entry>
         <entry xml:id="CoEg_entry_00000043">
           <form>salamlik</form>
           <note>Du turc ottoman سلاملك [salāmlik]. Dans une maison ottomane, appartement des hommes où étaient reçus les invités.</note>
@@ -8966,11 +9387,11 @@
           <form>medjidie</form>
           <note>Du turc ottoman مجیدی [meǧīdī] « de (Abdül)-Mecid (II) », décoration honorifique ottomane.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q599024</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/medjidi%C3%A9</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/medjidi%C3%A9</ref></entry>
         <entry xml:id="CoEg_entry_00000045">
           <form>statu quo</form>
           <note>Du latin in statu quo ante bellum « dans l'état d'avant la guerre ». Situation présente.</note>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/statu%20quo</ref>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/statu%20quo</ref>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q201610</ref></entry>
         <entry xml:id="CoEg_entry_00000046">
           <form>iséum</form>
@@ -8980,12 +9401,12 @@
           <form>khédive</form>
           <note>Du turc ottoman خدیو [ḫidīw] « seigneur », titre obtenu par le vice-roi d'Égypte du sultan ottoman en 1867.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q127878</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/khedive</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/khedive</ref></entry>
         <entry xml:id="CoEg_entry_00000048">
           <form>de visu</form>
           <note>Du latin de visu « d'après ce qu'on a vu ».</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q3704181</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/de%20visu</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/de%20visu</ref></entry>
         <entry xml:id="CoEg_entry_00000049">
           <form>epiphi</form>
           <note>Troisième mois de la saison de la récolte.</note>
@@ -8994,21 +9415,21 @@
           <form>in-folio</form>
           <note>Format d’impression dans lequel la feuille est pliée trois fois de manière à former huit feuillets (ou seize pages).</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q772267</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/in-folio</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/in-folio</ref></entry>
         <entry xml:id="CoEg_entry_00000051">
           <form>ab irato</form>
           <note>Du latin ab irato « sous la colère ».</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q3603111</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/ab%20irato</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/ab%20irato</ref></entry>
         <entry xml:id="CoEg_entry_00000052">
           <form>vérandah</form>
           <note>Galerie couverte devant une façade.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q693922</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/v%C3%A9randa</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/v%C3%A9randa</ref></entry>
         <entry xml:id="CoEg_entry_00000053">
           <form>tutti quanti</form>
           <note>De l’italien tutti quanti « tous autant qu’ils sont »; clôt ou remplace une énumération.</note>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/tutti%20quanti</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/tutti%20quanti</ref></entry>
         <entry xml:id="CoEg_entry_00000054">
           <form>caput mortuum</form>
           <note>Résidu d’opération chimique ou alchimique, matière jugée sans intérêt, et pigment ocre.</note>
@@ -9018,7 +9439,7 @@
           <note>De l’arabe علماء [ʿulamāʾ] « savants », docteur de la loi islamique.</note>
           <note type="Mariette">Mariette écrit "uléma".</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q189459</ref>
-          <ref type="CNRTL">https://cnrtl.fr/definition/oul%C3%A9ma</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/oul%C3%A9ma</ref></entry>
         <entry xml:id="CoEg_entry_00000056">
           <form>inde iræ</form>
           <note>Du latin « de là la colère ».</note></entry>
@@ -9026,39 +9447,39 @@
           <form>exeat</form>
           <note>Du latin « qu'il sorte ». Congé donné par un médecin.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q5419755</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/exeat</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/exeat</ref></entry>
         <entry xml:id="CoEg_entry_00000058">
           <form>idem</form>
           <note>Du latin idem « le même ».</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q3791791</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/idem</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/idem</ref></entry>
         <entry xml:id="CoEg_entry_00000059">
           <form>spéos</form>
           <note>Du grec ancien σπέος [speos] « trou, grotte ». En archéologie égyptienne, structure cultuelle (temple ou chapelle) excavée.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q1466564</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/spéos</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/spéos</ref></entry>
         <entry xml:id="CoEg_entry_00000060">
           <form>serdab</form>
           <note>Du persan et de l'arabe سرداب [sardāb] « cave ». Réduit où était déposé la statue du défunt, dans un mastaba.</note>
 		  <note type="Mariette">Mariette est à l'origine de l'utilisation de cette expression en égyptologie.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q607898</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/serdab</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/serdab</ref></entry>
         <entry xml:id="CoEg_entry_00000061">
           <form>tarbouche</form>
           <note>De l'arabe طَرْبُوش‎ [ṭarbūš], bonnet de feutre rouge à gland, coiffe réglementaire des fonctionnaires ottomans et égyptiens à partir de 1829.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q189862</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/tarbouche</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/tarbouche</ref></entry>
         <entry xml:id="CoEg_entry_00000062">
           <form>oque</form>
           <note>Du turc ottoman اوقه [oqqah], mesure équivalent à environ 1,2 kg.</note>
           <note type="Mariette">Mariette écrit « oke » selon l'usage de l'époque.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q2017266</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/oque</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/oque</ref></entry>
         <entry xml:id="CoEg_entry_00000063">
-          <form>Ramadan</form>
-          <note>De l'arabe رَمَضَان [Ramaḍān], mois de jeûne.</note>
+          <form>ramadan</form>
+          <note>De l'arabe رَمَضَان [ramaḍān], mois de jeûne.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q41662</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/ramadan</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/ramadan</ref></entry>
         <entry xml:id="CoEg_entry_00000064">
           <form>in medias res</form>
           <note>Du latin « au milieu de l’affaire » (Horace, Art poétique).</note>
@@ -9067,12 +9488,12 @@
           <form>cheikh/sheikh</form>
           <note>De l'arabe شيخ [šayḫ] « chef ».</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q185166</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/cheikh</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/cheikh</ref></entry>
         <entry xml:id="CoEg_entry_00000066">
           <form>harem</form>
           <note>De l'arabe حريم [ḥarīm], « lieu consacré », appartement des femmes.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q165853</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/harem</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/harem</ref></entry>
         <entry xml:id="CoEg_entry_00000067">
           <form>nazir el-kism</form>
           <note>De l'arabe نَاظِر القسم [nāẓir al-qism] « inspecteur du canton ».</note></entry>
@@ -9092,10 +9513,10 @@
           <form>nazir</form>
           <note>De l'arabe نَاظِر [nāẓir] « inspecteur, intendant ».</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q65121941</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/nazir</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/nazir</ref></entry>
         <entry xml:id="CoEg_entry_00000072">
-          <form>Gamed Aker</form>
-          <note>De l'arabe جُمَادَىٰ ٱلْآخِر  [Ǧumādā al-ʾĀkhir] « dernier mois de Jumada ».</note>
+          <form>gamed aker</form>
+          <note>De l'arabe جُمَادَىٰ ٱلْآخِر  [ǧumādā al-ʾākhir] « dernier mois de Jumada ».</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q822218</ref></entry>
         <entry xml:id="CoEg_entry_00000073">
           <form>chounah</form>
@@ -9107,7 +9528,7 @@
           <form>bakchich</form>
           <note>Du persan بخشش [baḫšeš] « don », d'où « pourboire, pot-de-vin ».</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q305459</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/bakchich</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/bakchich</ref></entry>
         <entry xml:id="CoEg_entry_00000076">
           <form>moharrem</form>
           <note>De l'arabe مُحَرَّمٌ [muḥarram], premier mois de l'année.</note>
@@ -9121,7 +9542,7 @@
           <form>ab ovo</form>
           <note>Du latin, « depuis l'œuf » (Horace, Art poétique).</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q284900</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/ab%20ovo</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/ab%20ovo</ref></entry>
         <entry xml:id="CoEg_entry_00000081">
           <form>vale et me ama</form>
           <note>Du latin, « adieu et aime-moi ». Formule de cloture épistolaire.</note></entry>
@@ -9131,12 +9552,13 @@
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q5421236</ref></entry>
         <entry xml:id="CoEg_entry_00000083">
           <form>harpé</form><note>Arme à lame courbe.</note><ref type="Wikidata">https://www.wikidata.org/wiki/Q1137898</ref>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/harp%C3%A9</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/harp%C3%A9</ref></entry>
         <entry xml:id="CoEg_entry_00000084">
           <form>néoménie</form><note>Premier jour du mois dans le calendrier égyptien.</note>
-          <ref type="Wikidata">https://www.wikidata.org/wiki/Q3347127</ref><ref type="CNRTL">https://www.cnrtl.fr/definition/n%C3%A9om%C3%A9nie</ref></entry>
+          <ref type="Wikidata">https://www.wikidata.org/wiki/Q3347127</ref>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/n%C3%A9om%C3%A9nie</ref></entry>
         <entry xml:id="CoEg_entry_00000085">
-          <form>Pachons (mois)</form>
+          <form>pachons</form>
           <note>Premier mois de la saison de la récolte.</note>
           <ref type="Wikidata">https://www.wikidata.org/wiki/Q56413959</ref></entry>
         <entry xml:id="CoEg_entry_00000086">
@@ -9158,7 +9580,7 @@
         <entry xml:id="CoEg_entry_00000090">
           <form>franco</form>
           <note>De l'italien « sans taxe », d'où « sans frais ».</note>
-          <ref type="CNRTL">https://www.cnrtl.fr/definition/franco</ref></entry>
+          <ref type="CNRTL">https://www.portail-lexical.fr/definition/franco</ref></entry>
         <entry xml:id="CoEg_entry_00000091">
           <form>pecunia sit tecum</form>
           <note>Citation tronquée du latin pecunia tua sit tecum in perditionem « que ton argent disparaisse avec toi » (Actes des Apôtres VIII, 20).</note></entry>
@@ -9166,12 +9588,12 @@
             <form>scenario</form>
             <note>De l'italien, intrigue d'une œuvre.</note>
             <ref type="Wikidata">https://www.wikidata.org/wiki/Q1090839</ref>
-            <ref type="CNRTL">https://www.cnrtl.fr/definition/scenario</ref></entry>
+            <ref type="CNRTL">https://www.portail-lexical.fr/definition/scenario</ref></entry>
           <entry xml:id="CoEg_entry_00000093">
             <form>libretto</form>
             <note>De l'italien « livret », paroles d'une composition musicale.</note>
             <ref type="Wikidata">https://www.wikidata.org/wiki/Q131084</ref>
-            <ref type="CNRTL">https://www.cnrtl.fr/definition/libretto</ref></entry>
+            <ref type="CNRTL">https://www.portail-lexical.fr/definition/libretto</ref></entry>
 		  <entry xml:id="CoEg_entry_00000094">
             <form>farrache</form>
 			<note>De l'arabe فِرَاش [firāš] «dérouler » (un tapis, ...), domestique.</note></entry>
@@ -9182,11 +9604,11 @@
             <form>bimbachi</form>
 			<note>Du turc بكباشي [banbāšy], commandant de l'armée.</note>
 			<ref type="Wikidata">https://www.wikidata.org/wiki/Q5770104</ref>
-			<ref type="CNRTL">https://www.cnrtl.fr/definition/bimbachi</ref></entry>
+			<ref type="CNRTL">https://www.portail-lexical.fr/definition/bimbachi</ref></entry>
 		  <entry xml:id="CoEg_entry_00000097">
 		    <form>quibus</form>
 			<note>Du latin « au moyen de quoi », d'où « argent, moyens financier ».</note>
-			<ref type="CNRTL">https://www.cnrtl.fr/definition/quibus</ref></entry>
+			<ref type="CNRTL">https://www.portail-lexical.fr/definition/quibus</ref></entry>
 		  <entry xml:id="CoEg_entry_00000098">
             <form>kansir, kansira</form>
 			<note>De l'arabeيَا خِنْزِير [ya khinzīr] « porc » ou يَا خِنْزِيرَة [ya khanzīrah] « truie » (Socrates Spiro, An Arabic-English Vocabulary of the Colloquial Arabic of Egypt, 1895, p. ١٨٣).</note></entry>
@@ -9196,7 +9618,7 @@
 		  <entry xml:id="CoEg_entry_00000100">
             <form>thaler</form>
 			<note>monnaie d'argent germanique.</note>
-			<ref type="CNRTL">https://www.cnrtl.fr/definition/thaler</ref></entry>
+			<ref type="CNRTL">https://www.portail-lexical.fr/definition/thaler</ref></entry>
 		  <entry xml:id="CoEg_entry_00000101">
             <form>silbergroschen</form>
 			<note>monnaie germanique, division du thaler.</note>
@@ -9206,11 +9628,11 @@
 			<note>De l'égyptien bnw, oiseau mythologique.</note>
 			<ref type="Wikidata">https://www.wikidata.org/wiki/Q818378</ref></entry>
 		  <entry xml:id="CoEg_entry_00000103">
-            <form>paophi (mois)</form>
+            <form>paophi</form>
 			<note>Deuxième mois de la saison de l'inondation.</note>
 			<ref type="Wikidata">https://www.wikidata.org/wiki/Q731505</ref></entry>
 		  <entry xml:id="CoEg_entry_00000104">
-            <form>méchir (mois)</form>
+            <form>méchir</form>
 			<note>Deuxième mois de la saison de la germination.</note>
 			<ref type="Wikidata">https://www.wikidata.org/wiki/Q550074.</ref></entry>
 		  <entry xml:id="CoEg_entry_00000105">
@@ -9223,19 +9645,43 @@
             <form>kelb</form>
 			<note>De l'arabe كَلْب [kalb] « chien » (Socrates Spiro, An Arabic-English Vocabulary of the Colloquial Arabic of Egypt, 1895, p. ٥٢٣).</note></entry>
 		  <entry xml:id="CoEg_entry_00000108">
-            <form>phaminoth (mois)</form>
+            <form>phaminoth</form>
 			<note>Troisième mois de la saison de la germination.</note>
 			<ref type="Wikidata">https://www.wikidata.org/wiki/Q546893</ref></entry>
 		  <entry xml:id="CoEg_entry_00000109">
-            <form>pharmouti (mois)</form>
+            <form>pharmouti</form>
 			<note>Quatrième mois de la saison de la germination.</note>
 			<ref type="Wikidata">https://www.wikidata.org/wiki/Q2144472</ref></entry>
 		  <entry xml:id="CoEg_entry_00000110">
             <form>épagomène</form>
 			<note>Du grec ἐπαγόμενος « apporté (en sus) » : cinq jour complémentaires ajoutés après les mois du calendrier égyptien pour atteindre une année de 365 jours.</note>
 			<ref type="Wikidata">https://www.wikidata.org/wiki/Q1346367</ref>
-			<ref type="CNRTL">https://www.cnrtl.fr/definition/%C3%A9pagom%C3%A8ne</ref></entry>
-      </div>
+			<ref type="CNRTL">https://www.portail-lexical.fr/definition/%C3%A9pagom%C3%A8ne</ref></entry>
+			<entry xml:id="CoEg_entry_00000111">
+			  <form>sébakh</form>
+			  <note>Terreau chargé en matière organique, parfois d'origine archéologique, utilisé comme engrais.</note>
+			  <ref type="Wikidata">https://www.wikidata.org/wiki/Q907879</ref></entry>
+			<entry xml:id="CoEg_entry_00000112">
+			  <form>grosso modo</form>
+			  <note>Du latin « approximativement ».</note>
+			  <ref type="Wikidata">https://www.wikidata.org/wiki/Q3776956</ref>
+			  <ref type="CNRTL">https://www.portail-lexical.fr/definition/grosso%20modo</ref></entry>
+			<entry xml:id="CoEg_entry_00000114">
+			  <form>khamsim</form><note>De l'arabe égyptien خَمْسِين (ḫamsīn, « cinquante », nombre de jours pendant lesquels se manifesterait le phénomène). Vent chaud du désert.</note><ref type="Wikidata">https://www.wikidata.org/wiki/Q475746</ref><ref type="CNRTL">https://www.portail-lexical.fr/definition/khamsin/nom</ref></entry>
+			<entry xml:id="CoEg_entry_00000116">
+			  <form>passim</form>
+			  <note>Du latin « partout, en toute place ».</note>
+			  <ref type="Wikidata">https://www.wikidata.org/wiki/Q1405583</ref>
+			  <ref type="CNRTL">https://www.portail-lexical.fr/definition/passim/adverbe</ref></entry>
+			<entry xml:id="CoEg_entry_00000117">
+			  <form>in-quarto</form>
+			  <note>Format d'impression dans lequel la feuille est pliée deux fois de manière à former quatre feuillets (ou huit pages).</note>
+			  <ref type="Wikidata">https://www.wikidata.org/wiki/Q2122442</ref><ref type="CNRTL">https://www.portail-lexical.fr/definition/in-quarto/adjectif</ref></entry>
+			<entry xml:id="CoEg_entry_00000118">
+			  <form>pudendum</form>
+			  <note>Du latin « chose honteuse », organe sexuel.</note>
+			  <ref type="Wikidata">https://www.wikidata.org/wiki/Q66511876</ref></entry>
+</div>
       <div>
         <head>Index thématique</head>
         <note>Ici sont recensées les entrées d’indexation qui ne correspondent pas aux autres catégories. Il s’agit d’un classement encore expérimental, sans doute amené à évoluer dans de futures versions. Les entrées peuvent être enchâssées les unes dans les autres.</note>
@@ -9390,10 +9836,6 @@
           <form>tm</form>
           <sense>(être) complet, achevé, total</sense>
           <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/172000</ref></entry>
-        <entry xml:id="CoEg_aeg_00000018">
-          <form>ḫprw</form>
-          <sense>advenir, apparaître, se manifester</sense>
-          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/116300</ref></entry>
         <entry xml:id="CoEg_aeg_00000019">
           <form>Wnn-nfr</form>
           <sense>Ounennéfer</sense>
@@ -9511,9 +9953,9 @@
           <sense>Héliopolis</sense>
           <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/22850</ref></entry>
         <entry xml:id="CoEg_aeg_00000048">
-          <form>Ḥꜥp</form>
+          <form>Ḥꜥpy</form>
           <sense>Hâpy, le Nil</sense>
-          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/650066/102190</ref></entry>
+          <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/650066</ref></entry>
         <entry xml:id="CoEg_aeg_00000049">
           <form>nty</form>
           <sense>pronom relatif</sense>
@@ -9803,7 +10245,7 @@
 		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/57300</ref></entry>
         <entry xml:id="CoEg_aeg_00000123">
           <form>Ḥpy</form>
-		  <sense>Hâpy</sense>
+		  <sense>Hapy (fils d'Horus)</sense>
 		  <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/650066</ref></entry>
         <entry xml:id="CoEg_aeg_00000124">
           <form>sꜣ</form>
@@ -10025,6 +10467,237 @@
           <form>spẖr</form>
           <sense>copier</sense>
           <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/133040</ref></entry>
+          <entry xml:id="CoEg_aeg_00000179">
+	<form>wpꞽ</form>
+	<sense>ouvrir</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/45640</ref></entry>
+<entry xml:id="CoEg_aeg_00000180">
+	<form>Nbwt</form>
+	<sense>Ombos</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/81780</ref></entry>
+<entry xml:id="CoEg_aeg_00000181">
+	<form>Šmꜥ</form>
+	<sense>Haute-Égypte</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/154760</ref></entry>
+<entry xml:id="CoEg_aeg_00000182">
+	<form>ḫꜥꞽ</form>
+	<sense>apparaître</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/114740</ref></entry>
+<entry xml:id="CoEg_aeg_00000183">
+	<form>ꞽnb</form>
+	<sense>mur</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/27190</ref></entry>
+<entry xml:id="CoEg_aeg_00000184">
+	<form>ḥḏ</form>
+	<sense>blanc</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/112301</ref></entry>
+<entry xml:id="CoEg_aeg_00000185">
+	<form>mnḫ</form>
+	<sense>efficace</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/71080</ref></entry>
+<entry xml:id="CoEg_aeg_00000186">
+	<form>ꞽmy</form>
+	<sense>qui est dans</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/25130</ref></entry>
+<entry xml:id="CoEg_aeg_00000231">
+	<form>ꞽmnty</form>
+	<sense>occidental</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/26150</ref></entry>
+<entry xml:id="CoEg_aeg_00000187">
+	<form>nḏt</form>
+	<sense>protection</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/91000</ref></entry>
+<entry xml:id="CoEg_aeg_00000188">
+	<form>nk</form>
+	<sense>copuler</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/89200</ref></entry>
+<entry xml:id="CoEg_aeg_00000189">
+	<form>wr</form>
+	<sense>beaucoup</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/47300</ref></entry>
+<entry xml:id="CoEg_aeg_00000190">
+	<form>mnꜥ</form>
+	<sense>élever (un enfant)</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/70350</ref></entry>
+<entry xml:id="CoEg_aeg_00000191">
+	<form>wꞽ</form>
+	<sense>pronom dépendant de première personne du singulier</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/44000</ref></entry>
+<entry xml:id="CoEg_aeg_00000192">
+	<form>sꜥꜣꞽ</form>
+	<sense>accroître</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/128660</ref></entry>
+<entry xml:id="CoEg_aeg_00000193">
+	<form>r-ḏr</form>
+	<sense>totalité</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/92510</ref></entry>
+<entry xml:id="CoEg_aeg_00000194">
+	<form>ꞽw</form>
+	<sense>indicateur d'énonciation</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/851512</ref></entry>
+<entry xml:id="CoEg_aeg_00000195">
+	<form>ẖrd</form>
+	<sense>enfant</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/124480</ref></entry>
+<entry xml:id="CoEg_aeg_00000196">
+	<form>r-mn-m</form>
+	<sense>jusqu'à</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/92020</ref></entry>
+<entry xml:id="CoEg_aeg_00000197">
+	<form>mrwt</form>
+	<sense>amour</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/72650</ref></entry>
+<entry xml:id="CoEg_aeg_00000198">
+	<form>sꜥḥꜥ</form>
+	<sense>élever</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/129190</ref></entry>
+<entry xml:id="CoEg_aeg_00000199">
+	<form>rn</form>
+	<sense>nom</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/94700</ref></entry>
+<entry xml:id="CoEg_aeg_00000200">
+	<form>mn</form>
+	<sense>durable</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/69590</ref></entry>
+<entry xml:id="CoEg_aeg_00000201">
+	<form>wꜣḥ</form>
+	<sense>durable</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/43010</ref></entry>
+<entry xml:id="CoEg_aeg_00000202">
+	<form>ḥqꜣ</form>
+	<sense>régner</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/110340</ref></entry>
+<entry xml:id="CoEg_aeg_00000203">
+	<form>swḥt</form>
+	<sense>œuf</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/130630</ref></entry>
+<entry xml:id="CoEg_aeg_00000204">
+	<form>sr</form>
+	<sense>dignitaire</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/138920</ref></entry>
+<entry xml:id="CoEg_aeg_00000205">
+	<form>sn</form>
+	<sense>embrasser</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/136240</ref></entry>
+<entry xml:id="CoEg_aeg_00000206">
+	<form>bsꞽ</form>
+	<sense>présenter, introduire, entrer</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/57160</ref></entry>
+<entry xml:id="CoEg_aeg_00000207">
+	<form>smsw</form>
+	<sense>fils aîné</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/135720</ref></entry>
+<entry xml:id="CoEg_aeg_00000208">
+	<form>ꞽry-pꜥt</form>
+	<sense>prince</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/94060</ref></entry>
+<entry xml:id="CoEg_aeg_00000209">
+	<form>nst</form>
+	<sense>trône</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/87870</ref></entry>
+<entry xml:id="CoEg_aeg_00000210">
+	<form>Gb</form>
+	<sense>Geb</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/167010</ref></entry>
+<entry xml:id="CoEg_aeg_00000211">
+	<form>smꞽ</form>
+	<sense>rapporter</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/134820</ref></entry>
+<entry xml:id="CoEg_aeg_00000212">
+	<form>ḥry-tp</form>
+	<sense>supérieur</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/108900</ref></entry>
+<entry xml:id="CoEg_aeg_00000213">
+	<form>mnfꜣt</form>
+	<sense>troupe</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/70670</ref></entry>
+<entry xml:id="CoEg_aeg_00000214">
+	<form>nt-ḥtr</form>
+	<sense>conducteur de char</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/79350</ref></entry>
+<entry xml:id="CoEg_aeg_00000215">
+	<form>wn</form>
+	<sense>particule de conversion au parfait</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/550129</ref></entry>
+<entry xml:id="CoEg_aeg_00000216">
+	<form>ky</form>
+	<sense>autre</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/163760</ref></entry>
+<entry xml:id="CoEg_aeg_00000217">
+	<form>sfy</form>
+	<sense>enfant</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/133600</ref></entry>
+<entry xml:id="CoEg_aeg_00000218">
+	<form>ꞽmwty</form>
+	<sense>au milieu</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/25400</ref></entry>
+<entry xml:id="CoEg_aeg_00000219">
+	<form>qnꞽ</form>
+	<sense>giron, étreinte</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/161180</ref></entry>
+<entry xml:id="CoEg_aeg_00000220">
+	<form>sḫꜥꞽ</form>
+	<sense>faire apparaître</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/141830</ref></entry>
+<entry xml:id="CoEg_aeg_00000221">
+	<form>mꜣꜣ</form>
+	<sense>voir</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/66270</ref></entry>
+<entry xml:id="CoEg_aeg_00000222">
+	<form>ꞽmy-ḫnt</form>
+	<sense>chambellan</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/855682</ref></entry>
+<entry xml:id="CoEg_aeg_00000223">
+	<form>smn</form>
+	<sense>affermir</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/135100</ref></entry>
+<entry xml:id="CoEg_aeg_00000224">
+	<form>ḫꜥw</form>
+	<sense>couronnes</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/114850</ref></entry>
+<entry xml:id="CoEg_aeg_00000225">
+	<form>wpt</form>
+	<sense>front</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/45530</ref></entry>
+<entry xml:id="CoEg_aeg_00000226">
+	<form>ꞽm !</form>
+	<sense>viens !</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/851706</ref></entry>
+<entry xml:id="CoEg_aeg_00000227">
+	<form>tp</form>
+	<sense>tête</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/170860</ref></entry>
+<entry xml:id="CoEg_aeg_00000228">
+	<form>ꞽ</form>
+	<sense>dire</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/500024</ref></entry>
+<entry xml:id="CoEg_aeg_00000229">
+	<form>wnn</form>
+	<sense>auxiliaire, « exister »</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/46050</ref></entry>
+<entry xml:id="CoEg_aeg_00000230">
+	<form>ꞽs</form>
+	<sense>particule</sense>
+	<ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/31130</ref></entry>
+<entry xml:id="CoEg_aeg_00000236">
+   <form>ḫwsꞽ</form>
+   <sense>construire</sense>
+   <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/115270 </ref></entry>
+<entry xml:id="CoEg_aeg_00000232">
+   <form>·tw</form>
+   <sense>pronom indéfini</sense><ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/851185 </ref></entry>
+<entry xml:id="CoEg_aeg_00000233">
+   <form>sš</form>
+   <sense>ouvrir</sense>
+   <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/144300 </ref></entry>
+<entry xml:id="CoEg_aeg_00000234">
+   <form>ḥḥ</form>
+   <sense>million</sense>
+   <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/109250 </ref></entry>
+<entry xml:id="CoEg_aeg_00000235">
+   <form>ny</form>
+   <sense>particule du génitif</sense>
+   <ref type="TLA">https://thesaurus-linguae-aegyptiae.de/lemma/850787 </ref></entry>
       </div>
       <div>
         <head>Abréviations</head>
@@ -10278,6 +10951,12 @@
           <entry xml:id="CoEg_abbr_00000084">
             <form><abbr>C<hi rend="superscript_underline">ie</hi></abbr></form>
             <sense>compagnie</sense></entry>
+          <entry xml:id="CoEg_abbr_00000085">
+            <form><abbr>chap.</abbr></form>
+            <sense>chapitre</sense></entry>
+          <entry xml:id="CoEg_abbr_00000086">
+            <form><abbr>6<hi rend="superscript_underline">o</hi></abbr></form>
+            <sense>sexto</sense></entry>
         </superEntry>
       </div>
     </body>
